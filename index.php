@@ -21,8 +21,8 @@ include("template.class.php");
 
 //SET SERVER ROOT LOCATIONS
 function urlRoot(){      //returns root url
-	$url = "http://localhost/choughs-nest-hotel/"; //TEST SERVER
-	//$url = "/";
+	//$url = "http://localhost/choughs-nest-hotel/"; //TEST SERVER
+	$url = "http://choughsnesthotel.co.uk/test-site-2024/";
 	return $url;
 	}
 function serverRoot(){   //returns root dir of host
@@ -32,8 +32,8 @@ function serverRoot(){   //returns root dir of host
 	}
 /************************************************************/
 //SET VARIABLES
-$current_page = 'http://localhost'.$_SERVER['REQUEST_URI'];
-//$current_page = $_SERVER['REQUEST_URI'];
+//$current_page = 'http://localhost'.$_SERVER['REQUEST_URI'];
+$current_page = $_SERVER['REQUEST_URI'];
 $requested_page = (isset($_REQUEST['page'])) ? $_REQUEST['page'] : 'hotel' ; //specify name of homepage in nav
 
 $query = $_SERVER['QUERY_STRING'];
@@ -165,7 +165,7 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 	
 	if ($_REQUEST['page'] == "contact") {
 		$map_script = <<<HTMLBLOCK
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIU3D53Jg_CPi3-M1dYOaxJVxBVXeyO-4&amp;sensor=true"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
 <script src="{$url}js/map_script.js"></script>
    
 HTMLBLOCK;
