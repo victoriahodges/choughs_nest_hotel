@@ -191,7 +191,7 @@ include("edit-tariff/tariff.php");
 include("tariff_block.include.php");
 
 $map_script = <<<HTMLBLOCK
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIU3D53Jg_CPi3-M1dYOaxJVxBVXeyO-4&amp;sensor=true"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
 <script src="{$url}js/map_script.js"></script>
    
 HTMLBLOCK;
