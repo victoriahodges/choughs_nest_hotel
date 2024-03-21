@@ -34,16 +34,17 @@
 
 </head>
 <body class="floral-white-bg  w3-content" style="max-width:100%">
+	<span itemscope itemtype="https://schema.org/LocalBusiness"></span>
 
 	<!-- Sidebar/menu -->
 	<nav class="w3-sidebar w3-bar-block w3-collapse w3-top w3-center dark-iris-bg floral-white-text" 
 	style="z-index:3;width:300px;" id="mySidebar">
 		<div style="height: 100%; display: flex; flex-direction: column;">
-		
-			<div class="w3-padding-top-64" style="flex-grow: 1;">
-			<a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-hide-large">CLOSE</a>
 			
-			[@navigation]
+			<div class="w3-padding-top-64" style="flex-grow: 1;">
+				<a href="javascript:void(0)" class="w3-display-topright w3-hide-large menu-button iris-bg floral-white-text" onclick="w3_close()">&times;</a>
+			
+				[@navigation]
 			</div>
 			<div class="social">
 				<a href="https://facebook.com/choughsnesthotel" target="_blank">
@@ -56,6 +57,7 @@
 
 			<div class="address w3-padding-top-32" style="margin-bottom: 64px;">
 				<img class="white-logo" src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" border="0" />
+				<span itemprop="name" style="display:none;">Chough's Nest Hotel</span>
 				<p>
 					<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 					<span itemprop="streetAddress">North Walk</span>, 
@@ -79,15 +81,15 @@
 	</nav>
   
 	<!-- Top menu on small screens -->
-	<header class="w3-container w3-top w3-hide-large w3-white w3-xlarge w3-padding-16">
-		<span class="w3-left w3-padding">Chough's Nest Hotel</span>
-		<a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
+	<header class="w3-container w3-top w3-hide-large dark-iris-bg w3-xlarge w3-padding-16" style="height:83px">
+		<span class="w3-left mobile-title-logo">
+			<img src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" border="0" />
+		</span>
+		<a href="javascript:void(0)" class="w3-display-right menu-button iris-bg floral-white-text" onclick="w3_open()">☰</a>
 	</header>
   
 	<!-- Overlay effect when opening sidebar on small screens -->
 	<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
-							
-	<span itemscope itemtype="https://schema.org/LocalBusiness">
 
 	<div class="w3-main" style="margin-left:300px">
 		<!-- Push down content on small screens --> 
