@@ -18,7 +18,7 @@
 	<!--[if lt IE 9]>
 	<link rel="stylesheet" href="[@URL]css/ie.css" />
 	<![endif]-->
-	<link rel="stylesheet" href="[@URL]css/datepicker.min.css" />
+	<link rel="stylesheet" href="[@URL]css/datepicker.css" />
 
 <!-- Mobile Specific Metas -->
 <meta name="viewport" content="width=device-width, initial-scale=1" />
