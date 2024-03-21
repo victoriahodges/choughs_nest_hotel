@@ -115,6 +115,7 @@
 					<p>Parking</p>
 					<p>Accessibility</p>
 					<p>Contact</p>
+					<hr class="short w3-hide-large">
 				</div>
 				
 				<div class="w3-col m6 l3">
@@ -123,6 +124,7 @@
 					<p>Our Rooms</p>
 					<p>Tariffs</p>
 					<p>Booking Terms</p>
+					<hr class="short w3-hide-large">
 				</div>
 
 				<div class="w3-col m6 l3">
@@ -131,6 +133,7 @@
 					<p>Sample Menus</p>	
 					<p>Breakfast Menu</p>	
 					<p>Eating Out</p>
+					<hr class="short w3-hide-medium w3-hide-large">
 				</div>
 
 				<div class="w3-col m6 l3">
@@ -144,7 +147,7 @@
 			</div>
 
 
-			<div class="w3-row w3-padding-24 w3-border-top champagne-text">
+			<div class="w3-row w3-padding-24 w3-margin-top w3-border-top champagne-text">
 				<p class="small">&copy; [@year] Chough's Nest Hotel - Proprietors: John &amp; Rosemary Hodges - <a href="[@URL]tariff/terms#data_protection">Privacy Policy</a> | designed by <a class="w3-hover-opacity" href="http://www.vhwebdesign.co.uk/"><strong>vhwebdesign.co.uk</strong></a></p>
 			</div>
 			

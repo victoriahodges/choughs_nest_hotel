@@ -22,11 +22,11 @@
 		</div>
 
 		<div id="feature" class="w3-row feature-card-row w3-margin-top champagne-bg">
-			<div class="w3-col s12 l6 introduction">
-				<p><span itemprop="name">Chough's Nest Hotel</span> in Exmoor National Park, is a charming family-run hotel  situated on the cliffs of the stunning North Devon coast.</p>
+			<div class="w3-col s12 xl6 introduction">
+				<p>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel  situated on the cliffs of the stunning North Devon coast.</p>
 				<p>Located on North Walk and the coastal path, but within easy  reach of Lynton and Lynmouth, you can enjoy a restful stay in rooms  which feature some of the best sea views in Exmoor and Devon.</p>
 			</div>
-			<div class="w3-col s12 l6 feature-card-image">
+			<div class="w3-col s12 xl6 feature-card-image">
 				<img src="[@URL]images/hotel_view_gallery.jpg" alt="Hotel Sea View " border="0" />
 			</div>
 		</div>
