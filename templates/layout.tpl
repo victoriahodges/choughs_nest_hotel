@@ -187,6 +187,7 @@
 	$( function() {
 		var pickerDateFormat = "D, dd MM yy";
 		var submitDateFormat = "yy-mm-dd";
+		var arrivalDate;
 		from = $( "#pickarrivaldate" )
 			.datepicker({
 			ignoreReadonly: true,
@@ -201,11 +202,16 @@
 			})
 			.on( "change", function() {
 				var date = getDate( this, pickerDateFormat )
+				arrivalDate = date;
 				var year = date.getFullYear();
 				var month = date.getMonth();
 				var day = date.getDate();
 				var plusOneDay = new Date(year, month ,day+1 );
 				to.datepicker( "option", "minDate", plusOneDay);
+				to.datepicker
+				setTimeout(function(){
+					to.datepicker('show');
+				}, 16);    
 			}),
 		to = $( "#pickdeparturedate" ).datepicker({
 			ignoreReadonly: true,
@@ -216,14 +222,19 @@
 			maxDate: "+1Y 6M",
 			numberOfMonths: 1,
 			altField: "#departuredate",
-      		altFormat: submitDateFormat
-		})
-		.on( "change", function() {
-				// from.datepicker( "option", "maxDate", getDate( this, pickerDateFormat ) );
-				var arrival = $( "#pickarrivaldate" ).datepicker('getDate');
-				var departure = $(this).datepicker('getDate')
-				var difference = Math.ceil((departure - arrival) / (1000 * 60 * 60 * 24));
-				$('#nights').val(difference)
+      		altFormat: submitDateFormat,
+			beforeShowDay: function( date ) {
+        		if( date.toString() == arrivalDate.toString() ) {
+             		return [true, "arrival-date", 'Arrival Date'];
+        		} else {
+             		return [true, '', ''];
+        		}
+    		}
+			})
+			.on( "change", function() {
+					var departure = $(this).datepicker('getDate')
+					var difference = Math.ceil((departure - arrivalDate) / (1000 * 60 * 60 * 24));
+					$('#nights').val(difference)
 			},
 		
 		);
@@ -235,7 +246,6 @@
 		} catch( error ) {
 			date = null;
 		}
-	
 		return date;
 		}
 	} );

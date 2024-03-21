@@ -18,7 +18,7 @@
 .ui-datepicker {
 	background-color: #33435B;
 	border-radius: 3px;
-	width: 22em;
+	width: 20em;
 	padding: .2em .2em 0;
 	display: none;
 }
@@ -141,14 +141,16 @@
 .ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
 	float: left;
 }
-.ui-datepicker .ui-datepicker-today {
-	border: 1px solid #ccc;
-	color: #ccc;	
+/* .ui-datepicker .ui-datepicker-today,  */
+.ui-datepicker .arrival-date {
+	border: 1px solid #C5A359;
+	color: #292929;	
 	font-weight: 900;
 	border-radius: 3px;
 }
 
-.ui-datepicker .ui-datepicker-today .ui-state-highlight {
+/* .ui-datepicker .ui-datepicker-today .ui-state-highlight, */
+.ui-datepicker .arrival-date .ui-state-highlight {
 	color: #292929;
 }
 
@@ -168,6 +170,7 @@
 
 .ui-datepicker-unselectable.ui-state-disabled {
 	color: #ccc;
+	cursor: not-allowed;
 }
 
 
