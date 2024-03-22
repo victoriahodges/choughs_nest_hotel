@@ -52,70 +52,71 @@
 	</div>
 
 	
+	<div class="alternating-cards">
+		<div class="w3-row fancy-card-row champagne-bg">
+			<div class="w3-col s12 m12 l6 fancy-card-image">
+				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Hotel Sea View " border="0"/>
+			</div>
+			<div class="w3-col s12 m12 l6 w3-center fancy-card">
+				<div class="fancy-card-border">
+					<h2>Our Rooms</h2>
+					<hr class="short">
+					<h3>Relax in comfort and style</h3>
+					<p>Each of our seven bedrooms are individually decorated to give them their own 
+						distinct character and charm and all have spectacular views out to sea.</p>
+					<a class="button w3-margin-top" href="[@URL]/rooms">View Rooms</a>
 
-	<div class="w3-row fancy-card-row champagne-bg">
-		<div class="w3-col s12 m12 l6 fancy-card-image">
-			<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Hotel Sea View " border="0"/>
-		</div>
-		<div class="w3-col s12 m12 l6 w3-center fancy-card">
-			<div class="fancy-card-border">
-				<h2>Our Rooms</h2>
-				<hr class="short">
-				<h3>Relax in comfort and style</h3>
-				<p>Each of our seven bedrooms are individually decorated to give them their own 
-					distinct character and charm and all have spectacular views out to sea.</p>
-				<a class="button w3-margin-top" href="[@URL]/rooms">View Rooms</a>
-
-				<div class="corner top-right-corner champagne-bg"></div>
-				<div class="corner top-left-corner champagne-bg"></div>
-				<div class="corner bottom-right-corner champagne-bg"></div>
-				<div class="corner bottom-left-corner champagne-bg"></div>
+					<div class="corner top-right-corner champagne-bg"></div>
+					<div class="corner top-left-corner champagne-bg"></div>
+					<div class="corner bottom-right-corner champagne-bg"></div>
+					<div class="corner bottom-left-corner champagne-bg"></div>
+				</div>
 			</div>
 		</div>
-	</div>
 
-	<div class="w3-row fancy-card-row champagne-bg">
-		<div class="w3-col s12 m12 l6 fancy-card-image" >
-			<img src="[@URL]images/breakfast_room.jpg" alt="Hotel Bed and Breakfast" border="0"/>
-		</div>
-		<div class="w3-col s12 m12 l6 w3-center fancy-card">
-			<div class="fancy-card-border">
-				<h2>Bed & Breakfast</h2>
-				<hr class="short">
-				<h3>Delicious and fresh</h3>
-				<p>Our breakfasts offer a great choice, from wholesome cereals to a 
-					hearty full English, we have options for most dietary requirements.</p>
-				<a class="button w3-margin-top" href="[@URL]/breakfast">View Menu</a>
-				
-				<div class="corner top-right-corner champagne-bg"></div>
-				<div class="corner top-left-corner champagne-bg"></div>
-				<div class="corner bottom-right-corner champagne-bg"></div>
-				<div class="corner bottom-left-corner champagne-bg"></div>
+		<div class="w3-row fancy-card-row champagne-bg">
+			<div class="w3-col s12 m12 l6 fancy-card-image" >
+				<img src="[@URL]images/breakfast_room.jpg" alt="Hotel Bed and Breakfast" border="0"/>
+			</div>
+			<div class="w3-col s12 m12 l6 w3-center fancy-card">
+				<div class="fancy-card-border">
+					<h2>Bed & Breakfast</h2>
+					<hr class="short">
+					<h3>Delicious and fresh</h3>
+					<p>Our breakfasts offer a great choice, from wholesome cereals to a 
+						hearty full English, we have options for most dietary requirements.</p>
+					<a class="button w3-margin-top" href="[@URL]/breakfast">View Menu</a>
+					
+					<div class="corner top-right-corner champagne-bg"></div>
+					<div class="corner top-left-corner champagne-bg"></div>
+					<div class="corner bottom-right-corner champagne-bg"></div>
+					<div class="corner bottom-left-corner champagne-bg"></div>
+				</div>
 			</div>
 		</div>
-	</div>
 
-	<div class="w3-row fancy-card-row champagne-bg">
-		<div class="w3-col s12 m12 l6 fancy-card-image">
-			<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks View Lynton and Lynmouth " border="0" />
-		</div>
-		<div class="w3-col s12 m12 l6 w3-center fancy-card">
-			<div class="fancy-card-border">
-				<h2>The Location</h2>
-				<hr class="short">
-				<h3>See the stunning views</h3>
-				<p>Chough's Nest Hotel is perched high on the cliffs overlooking Lynmouth Bay.
-					With glorious views of the Bristol Channel, we are ideally 
-					situated for you to explore this incredible landscape.</p>
-				<a class="button w3-margin-top" href="[@URL]/local-area">Explore</a>
-				
-				<div class="corner top-right-corner champagne-bg"></div>
-				<div class="corner top-left-corner champagne-bg"></div>
-				<div class="corner bottom-right-corner champagne-bg"></div>
-				<div class="corner bottom-left-corner champagne-bg"></div>
+		<div class="w3-row fancy-card-row champagne-bg">
+			<div class="w3-col s12 m12 l6 fancy-card-image">
+				<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks View Lynton and Lynmouth " border="0" />
 			</div>
+			<div class="w3-col s12 m12 l6 w3-center fancy-card">
+				<div class="fancy-card-border">
+					<h2>The Location</h2>
+					<hr class="short">
+					<h3>See the stunning views</h3>
+					<p>Chough's Nest Hotel is perched high on the cliffs overlooking Lynmouth Bay.
+						With glorious views of the Bristol Channel, we are ideally 
+						situated for you to explore this incredible landscape.</p>
+					<a class="button w3-margin-top" href="[@URL]/local-area">Explore</a>
+					
+					<div class="corner top-right-corner champagne-bg"></div>
+					<div class="corner top-left-corner champagne-bg"></div>
+					<div class="corner bottom-right-corner champagne-bg"></div>
+					<div class="corner bottom-left-corner champagne-bg"></div>
+				</div>
+			</div>
+			
 		</div>
-		
 	</div>
 
 	<div id="map_canvas" class="w3-row" style="height: 550px;"></div>
