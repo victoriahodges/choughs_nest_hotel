@@ -42,7 +42,7 @@
 		<div style="height: 100%; display: flex; flex-direction: column;">
 			
 			<div class="w3-padding-top-64" style="flex-grow: 1;">
-				<a href="javascript:void(0)" class="w3-display-topright w3-hide-large menu-button iris-bg floral-white-text" onclick="w3_close()">&times;</a>
+				<a href="javascript:void(0)" class="w3-display-topright w3-hide-xlarge menu-button iris-bg floral-white-text" onclick="w3_close()">&times;</a>
 			
 				[@navigation]
 			</div>
@@ -81,7 +81,7 @@
 	</nav>
   
 	<!-- Top menu on small screens -->
-	<header class="w3-container w3-top w3-hide-large dark-iris-bg w3-xlarge w3-padding-16" style="height:83px">
+	<header class="w3-container w3-top w3-hide-xlarge dark-iris-bg w3-xlarge w3-padding-16" style="height:83px">
 		<span class="w3-left mobile-title-logo">
 			<img src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" border="0" />
 		</span>
@@ -89,11 +89,11 @@
 	</header>
   
 	<!-- Overlay effect when opening sidebar on small screens -->
-	<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+	<div class="w3-overlay w3-hide-xlarge w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
 	<div class="w3-main" style="margin-left:300px">
 		<!-- Push down content on small screens --> 
-		<div class="w3-hide-large" style="margin-top:83px"></div>
+		<div class="w3-hide-xlarge" style="margin-top:83px"></div>
 
 		[@content]
 

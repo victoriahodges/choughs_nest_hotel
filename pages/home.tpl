@@ -21,38 +21,43 @@
 			</div>
 		</div>
 
-		<div id="feature" class="w3-row feature-card-row w3-margin-top champagne-bg">
-			<div class="w3-col s12 xl6 introduction">
-				<p>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel  situated on the cliffs of the stunning North Devon coast.</p>
-				<p>Located on North Walk and the coastal path, but within easy  reach of Lynton and Lynmouth, you can enjoy a restful stay in rooms  which feature some of the best sea views in Exmoor and Devon.</p>
-			</div>
-			<div class="w3-col s12 xl6 feature-card-image">
-				<img src="[@URL]images/hotel_view_gallery.jpg" alt="Hotel Sea View " border="0" />
-			</div>
-		</div>
-
-		<div id="section_links" class="w3-row w3-center">
-			<div class="link">
-				<h4>Exmoor Breaks</h4>
-				<p>Get away from it all with our special break rates</p>
-			</div>
-			<div class="link">
-				<h4>Dinner at Chough's</h4>
-				<p>Experience great food and amazing views from our dining room</p>
-			</div>
-			<div class="link">
-				<h4>Local Area</h4>
-				<p>Explore all that Exmoor &amp; North Devon have to offer</p>
-			</div>
-		</div>
-
 	</div>
 
-	<div class="w3-row fancy-card-row champagne-bg">
-		<div class="w3-half fancy-card-image">
-			<img src="[@URL]images/room_2.jpg" alt="Hotel Sea View " border="0"/>
+	<div id="feature" class="w3-row feature-card-row w3-margin-top champagne-bg">
+		<div class="w3-col s12 l6 introduction">
+			<p>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel situated
+			on the cliffs of the stunning North Devon coast.</p>
+			<p>Located on North Walk and the coastal path, but within easy reach of Lynton and Lynmouth, you can enjoy a restful 
+			stay in rooms  which feature some of the best sea views in Exmoor and Devon.</p>
+			<p>Rest assured, you'll be chuffed with Chough's Nest!</p>
 		</div>
-		<div class="w3-half w3-center fancy-card">
+		<div class="w3-col s12 l6 feature-card-image">
+			<img src="[@URL]images/hotel_view_gallery.jpg" alt="Hotel Sea View " border="0" />
+		</div>
+	</div>
+
+	<div id="section_links" class="w3-row w3-center">
+		<div class="link">
+			<h4>Exmoor Breaks</h4>
+			<p>Get away from it all with our special break rates</p>
+		</div>
+		<div class="link">
+			<h4>Dinner at Chough's</h4>
+			<p>Experience great food and amazing views from our dining room</p>
+		</div>
+		<div class="link">
+			<h4>Local Area</h4>
+			<p>Explore all that Exmoor &amp; North Devon have to offer</p>
+		</div>
+	</div>
+
+	
+
+	<div class="w3-row fancy-card-row champagne-bg">
+		<div class="w3-col s12 m12 l6 fancy-card-image">
+			<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Hotel Sea View " border="0"/>
+		</div>
+		<div class="w3-col s12 m12 l6 w3-center fancy-card">
 			<div class="fancy-card-border">
 				<h2>Our Rooms</h2>
 				<hr class="short">
@@ -70,10 +75,10 @@
 	</div>
 
 	<div class="w3-row fancy-card-row champagne-bg">
-		<div class="w3-half fancy-card-image" >
+		<div class="w3-col s12 m12 l6 fancy-card-image" >
 			<img src="[@URL]images/breakfast_room.jpg" alt="Hotel Bed and Breakfast" border="0"/>
 		</div>
-		<div class="w3-half w3-center fancy-card">
+		<div class="w3-col s12 m12 l6 w3-center fancy-card">
 			<div class="fancy-card-border">
 				<h2>Bed & Breakfast</h2>
 				<hr class="short">
@@ -91,10 +96,10 @@
 	</div>
 
 	<div class="w3-row fancy-card-row champagne-bg">
-		<div class="w3-half fancy-card-image">
+		<div class="w3-col s12 m12 l6 fancy-card-image">
 			<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks View Lynton and Lynmouth " border="0" />
 		</div>
-		<div class="w3-half w3-center fancy-card">
+		<div class="w3-col s12 m12 l6 w3-center fancy-card">
 			<div class="fancy-card-border">
 				<h2>The Location</h2>
 				<hr class="short">

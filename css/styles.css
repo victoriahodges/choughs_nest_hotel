@@ -152,11 +152,14 @@ hr.short {
     width:100%;
     border: solid 2px #C5A359;
     border-radius: 5px -5px 5px 5px;
-    padding: 40px 60px;
+    padding: 40px 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+@media (min-width:601px){
+    .fancy-card-border {padding: 40px 60px;}
 }
   
 /* Images
@@ -192,25 +195,37 @@ nav .white-logo {width: 75%; margin: 4px 0;}
 .fancy-card-image {
     overflow: hidden;
 }
-@media (min-width:601px){
-    .fancy-card-row:nth-child(odd) .fancy-card-image {order: 2}
-
-}
 .fancy-card-image img {
-    max-width: none;
-    min-height: 100%;
     vertical-align:unset;
+    transition: max-height 0.4s ease;
 }
+
 @media (min-width:993px){
+    .fancy-card-row:nth-child(odd) .fancy-card-image {order: 2}
+    .fancy-card-image {max-height: 475px;}
+    .fancy-card-image img {max-width: unset; max-height: 100%;}
+
     .feature-card-image {
         overflow: hidden;
         max-height: 100%;
     }
     .feature-card-image img {
         max-width: none;
-        min-height: 100%;
-        vertical-align:unset;
+        max-height: 100%;
+        vertical-align:middle;
     }    
+}
+@media (min-width:1150px) {
+    .fancy-card-image {max-height: 500px; }
+    .fancy-card-image img {max-height: 515px; }
+}
+@media (min-width:1400px) {
+    .fancy-card-image {max-height: 550px;}
+    .fancy-card-image img {max-height: 565px; }
+}
+@media (min-width:1700px) {
+    .fancy-card-image {max-height:590px; }
+    .fancy-card-image img {max-height: 600px; min-height: 100%;}
 }
 
 /* Links
@@ -440,39 +455,43 @@ font-weight: normal; }
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 #feature {
-    width: 95%;
+    width: 100%;
     margin: 0 auto;
 }
 
 #feature .introduction {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     padding: 24px;
 }
 @media (min-width:601px){
     #feature {
-        width: 80%;
+        width: calc(80% - 32px);
     }
     #feature .introduction {
         display: flex;
         flex-direction: column;
-        align-items: center;
         justify-content: center;
         padding: 64px;
     }
 }
-@media (min-width: 1280px){
+@media (min-width: 993px){
     #feature {
-        height: 450px;
+        height: 500px;
+        width: 90%;
+    }
+}
+@media (min-width: 1300px){
+    #feature {
+        width: calc(80% - 32px);
     }
 }
 
 #section_links {
     width: 95%;
-    margin: 40px auto 40px;
-    padding: 0 40px
+    margin: 24px auto 24px;
+    padding: 0 24px
 }
 #section_links .link {
     border-bottom: 1px solid #C5A359;
@@ -482,7 +501,7 @@ font-weight: normal; }
 
 @media (min-width:850px) {
     #section_links {
-        width: 80%;
+        width: 90%;
         margin: 50px auto 60px;
         padding: 0;
         display: table;
@@ -490,9 +509,14 @@ font-weight: normal; }
     #section_links .link {
         border-right: 1px solid #C5A359;
         border-bottom: none;
-        padding: 20px 40px 0;
+        padding: 20px 36px 0;
         display:table-cell;
         vertical-align: top;
     }
     #section_links div:last-child {border-right: none;}
+}
+
+@media (min-width:1300px) {
+    #section_links {width: 80%;}
+    #section_links .link { padding: 20px 50px 0;}
 }
