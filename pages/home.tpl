@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="A boy surrounded by beautiful nature">
+			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="Front of hotel Chough's Nest Hotel in Lynton">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -16,8 +16,8 @@
 					<em>Welcome to</em>
 					</span>
 				</div>
-				<img class="chough-logo" src="[@URL]images/logo/chough_web_logo.png" alt="Chough's Lynton" border="0" /><br>
-				<img class="title-logo" src="[@URL]images/logo/logo_iris.png" alt="Chough's Nest Hotel" border="0" />
+				<img class="chough-logo" src="[@URL]images/logo/chough_web_logo.png" alt="Chough's Nest Hotel chough logo" border="0" /><br>
+				<img class="title-logo" src="[@URL]images/logo/logo_iris.png" alt="Chough's Nest Hotel hotel logo" border="0" />
 			</div>
 		</div>
 
@@ -32,7 +32,7 @@
 			<p>Rest assured, you'll be chuffed with Chough's Nest!</p>
 		</div>
 		<div class="w3-col s12 l6 feature-card-image">
-			<img src="[@URL]images/hotel_view_gallery.jpg" alt="Hotel Sea View " border="0" />
+			<img src="[@URL]images/hotel_view_gallery.jpg" alt="Hotel Sea View" border="0" />
 		</div>
 	</div>
 
@@ -55,7 +55,7 @@
 	<div class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Hotel Sea View " border="0"/>
+				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="hotel bedroom" border="0"/>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -97,7 +97,7 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks View Lynton and Lynmouth " border="0" />
+				<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks in Lynton and Lynmouth" border="0" />
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
