@@ -4,7 +4,10 @@
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 
-html {font-size: 62.5%;overflow-x:hidden; scroll-behavior:smooth;}
+html {font-size: 62.5%;overflow-x:hidden; scroll-behavior:smooth; scroll-padding-top: 83px;}
+@media (min-width:1400px){
+    html {scroll-padding-top: unset;}
+}
 body {
 margin: 0;
 font: 1.6em/1.8 "Open Sans", sans-serif;

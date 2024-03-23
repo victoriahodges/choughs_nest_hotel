@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="A boy surrounded by beautiful nature">
+			<img src="[@URL]images/hero_images/four_poster_nest_bedroom.jpg" style="width:100%; height: 100%;" alt="Four poster room at Chough's Nest Hotel in Lynton">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -57,7 +57,9 @@
 					<hr class="short">
 					<p>Starting from 4 nights, we offer a great discount for longer stays on all of our rooms.<br>
 					<span class="small">Subject to availability, terms and conditions apply.</span></p>
-					<a class="button w3-margin-top" href="[@URL]/breakfast">Check availability</a>
+					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+						Check availability
+					</a>
 					
 					<div class="corner top-right-corner iris-bg"></div>
 					<div class="corner top-left-corner iris-bg"></div>
@@ -90,16 +92,18 @@
 	<div id="our_hotel_rooms" class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Hotel Sea View " border="0"/>
+				<img src="[@URL]images/room_2.jpg" alt="Four poster Nest bedroom " border="0"/>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
-					<h2>Our Rooms</h2>
+					<h2>Four Poster Nest</h2>
 					<hr class="short">
-					<h3>Relax in comfort and style</h3>
-					<p>Each of our seven bedrooms are individually decorated to give them their own 
-						distinct character and charm and all have spectacular views out to sea.</p>
-					<a class="button w3-margin-top" href="[@URL]/rooms">View Rooms</a>
+					<h3>From &pound;130 per night</h3>
+					<p>The 'Nest' is our premier bedroom. A very spacious king-size four-poster room which boasts 
+					panoramic views of Lynmouth Bay. It has an en suite bathroom with bath and shower.</p>
+					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+						Book now
+					</a>
 
 					<div class="corner top-right-corner champagne-bg"></div>
 					<div class="corner top-left-corner champagne-bg"></div>
@@ -111,16 +115,18 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image" >
-				<img src="[@URL]images/breakfast_room.jpg" alt="Hotel Bed and Breakfast" border="0"/>
+				<img src="[@URL]images/room_1.jpg" alt="Superior hotel bedroom" border="0"/>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
-					<h2>Bed & Breakfast</h2>
+					<h2>Superior Double</h2>
 					<hr class="short">
-					<h3>Delicious and fresh</h3>
-					<p>Our breakfasts offer a great choice, from wholesome cereals to a 
-						hearty full English, we have options for most dietary requirements.</p>
-					<a class="button w3-margin-top" href="[@URL]/breakfast">View Menu</a>
+					<h3>From &pound;120 per night</h3>
+					<p>Our large superior rooms feature a comfy king-size bed, 
+					glorious sea views and en suite facilities with bath and shower.</p>
+					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+						Book now
+					</a>
 					
 					<div class="corner top-right-corner champagne-bg"></div>
 					<div class="corner top-left-corner champagne-bg"></div>
@@ -132,17 +138,18 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks View Lynton and Lynmouth " border="0" />
+				<img src="[@URL]images/room_8.jpg" alt="Classic hotel double bedroom" border="0" />
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
-					<h2>The Location</h2>
+					<h2>Classic Double</h2>
 					<hr class="short">
-					<h3>See the stunning views</h3>
-					<p>Chough's Nest Hotel is perched high on the cliffs overlooking Lynmouth Bay.
-						With glorious views of the Bristol Channel, we are ideally 
-						situated for you to explore this incredible landscape.</p>
-					<a class="button w3-margin-top" href="[@URL]/local-area">Explore</a>
+					<h3>From &pound;98 per night</h3>
+					<p>Located on the second floor, our classic double bedrooms offer excellent value 
+					for a short stay. These rooms have sea views and en suite facilities with  both bath and shower.</p>
+					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+						Book now
+					</a>
 					
 					<div class="corner top-right-corner champagne-bg"></div>
 					<div class="corner top-left-corner champagne-bg"></div>
@@ -155,8 +162,8 @@
 
 	<div id="section_links" class="w3-row w3-center">
 		<div class="link">
-			<h4>Exmoor Breaks</h4>
-			<p>Get away from it all with our special break rates</p>
+			<h4>Breakfasts</h4>
+			<p>Start the day with our delicious breakfast menu</p>
 		</div>
 		<div class="link">
 			<h4>Dinner at Chough's</h4>
