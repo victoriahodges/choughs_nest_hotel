@@ -6,6 +6,7 @@
 		</div>
 	</div>
 
+	<!-- Main content-->
 	<div class="w3-container">
 		[@booking_bar]
 
