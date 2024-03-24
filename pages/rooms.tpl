@@ -10,7 +10,7 @@
 	<div class="w3-container">
 		[@booking_bar]
 
-		<div id="welcome" class="w3-row">
+		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
 					<span>
@@ -30,7 +30,7 @@
 					<p>Bedrooms on the first floor are spacious with high-ceilings and large bay windows while second
 					floor bedrooms feature all the comforts of home plus stunning views across the bay.</p>
 
-					<a href="#our_hotel_rooms" class="button w3-margin-bottom">View our rooms</a>
+					<a href="#view-hotel-rooms" class="button w3-margin-bottom">View our rooms</a>
 				</div>
 				<div class="w3-col grid-col l6 xl5">
 					<h2>Hotel facilities</h2>
@@ -58,7 +58,7 @@
 					<hr class="short">
 					<p>Starting from 4 nights, we offer a great discount for longer stays on all of our rooms.<br>
 					<span class="small">Subject to availability, terms and conditions apply.</span></p>
-					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+					<a class="button w3-margin-top" [@qbook_href]>
 						Check availability
 					</a>
 					
@@ -90,7 +90,7 @@
 		</div>
 	</div>
 
-	<div id="our_hotel_rooms" class="alternating-cards">
+	<div id="view-hotel-rooms" class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
 				<img src="[@URL]images/room_2.jpg" alt="Four poster Nest bedroom " border="0"/>
@@ -102,7 +102,7 @@
 					<h3>From &pound;130 per night</h3>
 					<p>The 'Nest' is our premier bedroom. A very spacious king-size four-poster room which boasts 
 					panoramic views of Lynmouth Bay. It has an en suite bathroom with bath and shower.</p>
-					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+					<a class="button w3-margin-top" [@qbook_href]>
 						Book now
 					</a>
 
@@ -125,7 +125,7 @@
 					<h3>From &pound;120 per night</h3>
 					<p>Our large superior rooms feature a comfy king-size bed, 
 					glorious sea views and en suite facilities with bath and shower.</p>
-					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+					<a class="button w3-margin-top" [@qbook_href]>
 						Book now
 					</a>
 					
@@ -148,7 +148,7 @@
 					<h3>From &pound;98 per night</h3>
 					<p>Located on the second floor, our classic double bedrooms offer excellent value 
 					for a short stay. These rooms have sea views and en suite facilities with  both bath and shower.</p>
-					<a class="button w3-margin-top" href="https://web-bookings.hotels.uk.com/#/booking/4541/items/availability?k=YS1KvPZvRfrRZlPNVAOaiWYVt" target="_blank">
+					<a class="button w3-margin-top" [@qbook_href]>
 						Book now
 					</a>
 					
