@@ -32,8 +32,8 @@
 					sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 				</div>
-				<div class="w3-col grid-col m5 l4 xl3">
-					<img src="[@URL]images/food_image.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
+				<div class="w3-col grid-col m5 l4 xl3 w3-margin-bottom">
+					<img class=" w3-margin-bottom" src="[@URL]images/food_image.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
 
 				</div>
 			</div>

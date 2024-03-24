@@ -31,8 +31,8 @@
 					<p><strong>If you do have any specific dietary requirements, please let us know when booking your room.</strong></p>
 
 				</div>
-				<div class="w3-col grid-col m5 l4 xl3">
-					<img src="[@URL]images/breakfast_image.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
+				<div class="w3-col grid-col m5 l4 xl3 w3-margin-bottom">
+					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_image.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
 
 				</div>
 			</div>
