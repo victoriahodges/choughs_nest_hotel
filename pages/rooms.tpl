@@ -30,18 +30,21 @@
 					<p>Bedrooms on the first floor are spacious with high-ceilings and large bay windows while second
 					floor bedrooms feature all the comforts of home plus stunning views across the bay.</p>
 
-					<a href="#view-hotel-rooms" class="button w3-margin-bottom">View our rooms</a>
+					<a href="#view-hotel-rooms" class="button w3-margin-bottom">View our rooms</a> 
+
+					<p>All our prices include a freshly cooked Full English breakfast and VAT.</p>
+					<a href="[@URL]breakfast-menu" class="button w3-margin-bottom">View Breakfast menu</a>
 				</div>
 				<div class="w3-col grid-col l6 xl5">
 					<h2>Hotel facilities</h2>
 					<p>The the following facilities are available to our guests:</p>
 					<ul class="list">
 						<li>Free private car parking</li>
-						<li>Free Wi-Fi broadband internet</li>
-						<li>Digital Freeview television</li>
+						<li>Free Wi-Fi fibre broadband internet</li>
+						<li>Digital Freeview smart television</li>
 						<li>DAB digital radio and clock</li>
 						<li>Tea and coffee facilities</li>
-						<li>Iron &amp; ironing board </li>
+						<li>Iron and ironing board </li>
 						<li>Local walking maps, guide books and information</li>
 						<li>Drying facilities for walkers/cyclists</li>
 					</ul>
