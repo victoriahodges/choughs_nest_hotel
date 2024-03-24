@@ -48,15 +48,15 @@
 			</div>
 			<div class="social">
 				<a href="https://facebook.com/choughsnesthotel" target="_blank">
-					<img src="[@URL]images/icons/facebook.png" alt="Facebook" title="Follow us on Facebook" border="0" />
+					<img src="[@URL]images/icons/facebook.png" alt="Facebook" title="Follow us on Facebook" />
 				</a>	
 				<a href="https://instagram.com/choughs_nest_lynton" target="_blank">
-					<img src="[@URL]images/icons/instagram.png" alt="Instagram" title="Follow us on Instagram" border="0" />
+					<img src="[@URL]images/icons/instagram.png" alt="Instagram" title="Follow us on Instagram" />
 				</a>
 			</div>
 
 			<div class="address w3-padding-top-32" style="margin-bottom: 64px;">
-				<img class="white-logo" src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" border="0" />
+				<img class="white-logo" src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" />
 				<span itemprop="name" style="display:none;">Chough's Nest Hotel</span>
 				<p>
 					<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
@@ -76,14 +76,12 @@
 				<span itemprop="priceRange" style="display:none;">&pound 90.00 - &pound 130.00</span>
 			</div>
 		</div>
-
-
 	</nav>
   
 	<!-- Top menu on small screens -->
 	<header class="w3-container w3-top w3-hide-xlarge dark-iris-bg w3-xlarge w3-padding-16" style="height:83px">
 		<span class="w3-left mobile-title-logo">
-			<img src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" border="0" />
+			<a href="[@URL]"><img src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" /></a>
 		</span>
 		<a href="javascript:void(0)" class="w3-display-right menu-button iris-bg floral-white-text" onclick="w3_open()">☰</a>
 	</header>
