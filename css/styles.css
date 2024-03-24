@@ -478,7 +478,7 @@ font-weight: normal; }
 
 /* Content
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.content {width: 80%;margin: 0 auto;}
+.content {width: 95%; margin: 0 auto;}
 .grid-wrap {
     margin-left: -4em;
     overflow: hidden;
@@ -504,6 +504,7 @@ font-weight: normal; }
     padding: 24px;
 }
 @media (min-width:601px){
+    .content {width: 90%; margin: 0 auto;}
     #feature {
         width: calc(80% - 32px);
     }
@@ -515,6 +516,7 @@ font-weight: normal; }
     }
 }
 @media (min-width: 993px){
+    .content {width: 80%; margin: 0 auto;}
     #feature {
         height: 500px;
         width: 90%;
