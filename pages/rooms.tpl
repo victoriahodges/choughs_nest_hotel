@@ -96,7 +96,7 @@
 	<div id="view-hotel-rooms" class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/room_2.jpg" alt="Four poster Nest bedroom " border="0"/>
+				<img src="[@URL]images/room_2.jpg" alt="Four poster Nest bedroom "/>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -119,7 +119,7 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image" >
-				<img src="[@URL]images/room_1.jpg" alt="Superior hotel bedroom" border="0"/>
+				<img src="[@URL]images/room_1.jpg" alt="Superior hotel bedroom"/>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -142,7 +142,7 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/room_8.jpg" alt="Classic hotel double bedroom" border="0" />
+				<img src="[@URL]images/room_8.jpg" alt="Classic hotel double bedroom" />
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
