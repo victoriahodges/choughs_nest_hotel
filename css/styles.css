@@ -169,7 +169,6 @@ hr.short {
     padding: 40px 30px;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
 }
 @media (min-width:601px){
@@ -553,7 +552,7 @@ font-weight: normal; }
     }
 }
 @media (min-width:850px) {
-    .special-offer {width: 90%; margin: 32px auto;}
+    .special-offer, .sample-dinner-menu {width: 90%; margin: 32px auto;}
 
     #section_links {
         width: 90%;
@@ -575,7 +574,7 @@ font-weight: normal; }
 }
 
 @media (min-width:1300px) {
-    .special-offer {width: 80%;}
+    .special-offer, .sample-dinner-menu {width: 80%;}
     #section_links {width: 80%;}
     #section_links .link { padding: 20px 50px 0;}
 }
