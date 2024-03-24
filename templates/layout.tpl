@@ -111,38 +111,38 @@
 			<div class="w3-row">
 				<div class="w3-col m6 l3">
 					<h3>The Hotel</h3>
-					<p>How To Get Here</p>
-					<p>Parking</p>
-					<p>Accessibility</p>
-					<p>Contact</p>
+					<p><a href="[@URL]contact/#how-to-get-here">How To Get Here</a></p>
+					<p><a href="[@URL]contact/#parking">Parking</a></p>
+					<p><a href="[@URL]accessibility/">Accessibility</a></p>
+					<p><a href="[@URL]contact/">Contact</a></p>
 					<hr class="short w3-hide-large">
 				</div>
 				
 				<div class="w3-col m6 l3">
 					<h3>Staying</h3>
-					<p>Reserve A Room</p>
-					<p>Our Rooms</p>
-					<p>Tariffs</p>
-					<p>Booking Terms</p>
+					<p><a href="[@URL]rooms/">Our Rooms</a></p>
+					<p><a href="[@URL]gallery/">Gallery</a></p>
+					<p><a href="[@URL]terms-and-conditions/">Booking Terms</a></p>
+					<p><a class="button" [@qbook_href]>Book Online</a></p>
 					<hr class="short w3-hide-large">
 				</div>
 
 				<div class="w3-col m6 l3">
 					<h3>Dining</h3>
-					<p>Dining at Chough's</p>
-					<p>Sample Menus</p>	
-					<p>Breakfast Menu</p>	
-					<p>Eating Out</p>
+					<p><a href="[@URL]dining/">Dining at Chough's</a></p>
+					<p><a href="[@URL]dining#sample-dinner-menu">Sample Menus</a></p>
+					<p><a href="[@URL]breakfast-menu/">Breakfast Menu</a></p>
+					<p><a href="[@URL]where-to-eat-in-Lynton-and-Lynmouth/">Eating Out</a></p>
 					<hr class="short w3-hide-medium w3-hide-large">
 				</div>
 
 				<div class="w3-col m6 l3">
 					<h3>Exploring</h3>
-					<p>Lynton & Lynmouth</p>
-					<p>Local Attractions</p>
-					<p>Local Walks</p>
-					<p>Things to See & Do</p>
-					<p>What Are Choughs?</p>
+				<p><a href="[@URL]a-guide-to-Lynton-and-Lynmouth/">Lynton & Lynmouth</a></p>
+					<p><a href="[@URL]local-attractions-in-Lynton-and-Lynmouth/">Local Attractions</a></p>
+					<p><a href="[@URL]local-walks-around-Lynton-and-Lynmouth/">Local Walks</a></p>
+					<p><a href="[@URL]things-to-see-and-do/">Things to See &amp; Do</a></p>
+					<p><a href="[@URL]choughs/">What Are Choughs?</a></p>	
 				</div>
 			</div>
 
