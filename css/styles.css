@@ -113,6 +113,7 @@ hr {
 hr.short {
     width: 60%; margin: 2em auto;
 }
+.alternating-cards .fancy-card hr {margin-top: 0.5em;}
 
 .feature-card-row,
 .fancy-card-row {
@@ -124,7 +125,6 @@ hr.short {
 .fancy-card {
     padding: 30px;
 }
-.fancy-card hr {margin-top: 0.5em;}
 
 .corner {
     height:20px;
@@ -171,13 +171,11 @@ hr.short {
     flex-direction: column;
     justify-content: center;
 }
+.fancy-card-border .button {align-self: center;}
 @media (min-width:601px){
     .fancy-card-border {padding: 40px 60px;}
 }
-@media (min-width:1150px){
-    .fancy-card hr {margin-top: 1.5em;}
-}
-  
+
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 img {max-width: 100%; }
@@ -229,7 +227,7 @@ nav .white-logo {width: 75%; margin: 4px 0;}
 
 @media (min-width:993px){
     .alternating-cards .fancy-card-row:nth-child(even) .fancy-card-image {order: 2;}
-    .fancy-card-image {max-height: 500px;}
+    .fancy-card-image {max-height: 505px;}
     .fancy-card-image img {max-height: 505px;  max-width: unset;}
 
     .feature-card-image {
