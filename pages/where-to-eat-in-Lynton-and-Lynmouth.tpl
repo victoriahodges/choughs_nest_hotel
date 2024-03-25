@@ -18,6 +18,7 @@
 				</div>
 			</div>
 		</div>
+
 		<div class="content">
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col s12 w3-margin-bottom">

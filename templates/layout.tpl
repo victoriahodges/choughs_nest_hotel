@@ -109,8 +109,8 @@
 			<div class="w3-row">
 				<div class="w3-col m6 l3">
 					<h3>The Hotel</h3>
-					<p><a href="[@URL]contact/#how-to-get-here">How To Get Here</a></p>
-					<p><a href="[@URL]contact/#parking">Parking</a></p>
+					<p><a href="[@URL]how-to-get-here">How To Get Here</a></p>
+					<p><a href="[@URL]how-to-get-here#parking">Parking</a></p>
 					<p><a href="[@URL]accessibility/">Accessibility</a></p>
 					<p><a href="[@URL]contact/">Contact</a></p>
 					<hr class="short w3-hide-large">
