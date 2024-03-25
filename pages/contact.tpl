@@ -110,7 +110,7 @@
 					<p style="margin-bottom: 32px;"><a href="[@URL]how-to-get-here" class="button button-iris">How to get here</a></p>
 
 					<h2>Access Statement</h2>
-					<p>For information on accessibility, please read out Access Statement.</p>
+					<p>For information on accessibility, please read our Access Statement.</p>
 
 					<p><a href="[@URL]accessibility" class="button button-iris">View Access Statement</a></p>
 				</div>
