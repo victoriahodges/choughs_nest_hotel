@@ -68,30 +68,13 @@ $eating_out_script = '';
 					"keywords"		=> "hotel, bed and breakfast, accommodation, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
 					"nav"			=> "Hotel")
   
-		  , array(	"pageURL" 		=> "accessibility",
-					"pagetitle"		=> "Accessibility",
-					"pagedesc"		=> "Find out more about accessibility at Chough's Nest Hotel. As it is a Victorian building, there are a few things you should be aware of.",
-					"keywords"		=> "accessibility, access statement, getting around, before your visit, ",
-					"nav"			=> "")
+		  
 
 		  , array(	"pageURL" 		=> "rooms",
 					"pagetitle"		=> "Rooms - Four Poster, Superior or Classic Double Bedrooms",
 					"pagedesc"		=> "Rooms at Chough's Nest Hotel feature glorious views of the sea and Exmoor National Park. Four-poster suite, Superior bedrooms and Classic double bedrooms",
 					"keywords"		=> "room, accommodation, superior, double, four poster, facilities, hotel, sea views",
 					"nav"			=> "Rooms & Prices")
-
-		  , array(	"pageURL" 		=> "gallery",
-					"pagetitle"		=> "Photo Gallery",
-					"pagedesc"		=> "View images of the hotel rooms, views and surrounding area at Chough's Nest Hotel",
-					"keywords"		=> "images, picutes, photo gallery, photo collection, album, sea views",
-					"nav"			=> "Gallery")
-					
-		  , array(	"pageURL" 		=> "terms-and-conditions",
-					"pagetitle"		=> "Booking Terms",
-					"pagedesc"		=> "Terms and Conditions with Access statement, cancellation and booking policy.",
-					"keywords"		=> "booking policy, terms, conditions, access statement, cancellation, pets, smoking, privacy policy, check-in, check-out",
-					"nav"			=> "")
-
 		
 		  , array(	"pageURL" 		=> "dining",
 					"pagetitle"		=> "Dinner at Chough's Nest",
@@ -139,13 +122,37 @@ $eating_out_script = '';
 					"pagetitle"		=> "What are Chough's?",
 					"pagedesc"		=> "Information on other attractions near Chough's Nest Hotel in North Devon and Exmoor National Park.",
 					"keywords"		=> "attractions, cliff railway, valley of rocks, watersmeet, lynton, lynmouth, north devon, exmoor national park",
-					"nav"			=> "Things To See &amp; Do")
+					"nav"			=> "")
+
+		  , array(	"pageURL" 		=> "gallery",
+					"pagetitle"		=> "Photo Gallery",
+					"pagedesc"		=> "View images of the hotel rooms, views and surrounding area at Chough's Nest Hotel",
+					"keywords"		=> "images, picutes, photo gallery, photo collection, album, sea views",
+					"nav"			=> "Gallery")
 				
 		  , array(	"pageURL" 		=> "contact",
 					"pagetitle"		=> "Contact Us - How to Get Here",
 					"pagedesc"		=> "Contact details for Chough's Nest Hotel. View the hotel's location map and directions. How to get to Lynton &amp; Lynmouth and parking information",
 					"keywords"		=> "contact, message, address, location, directions, map, lynton, lynmouth, parking",
 					"nav"			=> "Contact")
+
+		  , array(	"pageURL" 		=> "how-to-get-here",
+					"pagetitle"		=> "How To Get Here",
+					"pagedesc"		=> "Direction to Chough's Nest Hotel as well as information on parking an public transport options.",
+					"keywords"		=> "parking, directions, location, map, how to get here, how to find us",
+					"nav"			=> "")
+
+		  , array(	"pageURL" 		=> "accessibility",
+					"pagetitle"		=> "Accessibility",
+					"pagedesc"		=> "Find out more about accessibility at Chough's Nest Hotel. As it is a Victorian building, there are a few things you should be aware of.",
+					"keywords"		=> "accessibility, access statement, getting around, before your visit, ",
+					"nav"			=> "")
+
+		  , array(	"pageURL" 		=> "terms-and-conditions",
+					"pagetitle"		=> "Booking Terms",
+					"pagedesc"		=> "Terms and Conditions with Access statement, cancellation and booking policy.",
+					"keywords"		=> "booking policy, terms, conditions, access statement, cancellation, pets, smoking, privacy policy, check-in, check-out",
+					"nav"			=> "")
 					
 		  , array(	"pageURL" 		=> "thanks",
 					"pagetitle"		=> "Thank You",
