@@ -146,7 +146,7 @@
 
 
 			<div class="w3-row w3-padding-24 w3-margin-top w3-border-top champagne-text">
-				<p class="small">&copy; [@year] Chough's Nest Hotel - Proprietors: John &amp; Rosemary Hodges - <a href="[@URL]tariff/terms#data_protection">Privacy Policy</a> | designed by <a class="w3-hover-opacity" href="http://www.vhwebdesign.co.uk/"><strong>vhwebdesign.co.uk</strong></a></p>
+				<p class="small">&copy; [@year] Chough's Nest Hotel - Proprietors: John &amp; Rosemary Hodges - <a href="[@URL]terms-and-conditions#privacy-policy">Privacy Policy</a> | designed by <a class="w3-hover-opacity" href="http://www.vhwebdesign.co.uk/"><strong>vhwebdesign.co.uk</strong></a></p>
 			</div>
 			
 		</footer>
@@ -165,6 +165,28 @@
 	function w3_close() {
 	  document.getElementById("mySidebar").style.display = "none";
 	  document.getElementById("myOverlay").style.display = "none";
+	}
+
+	window.onscroll = function() {
+		// Script to hide/show back to top button
+		var appear = 200
+		var fade = 1000
+		var opacity = 0
+		if (window.pageYOffset < appear) {
+		// hide
+			document.getElementById("back_to_top").style.display = 'none';
+		}
+		else if (window.pageYOffset >= appear && window.pageYOffset <= fade) {
+		// fade
+		opacity = window.pageYOffset/fade;
+		document.getElementById("back_to_top").style.opacity = opacity;
+		document.getElementById("back_to_top").style.display = 'block';
+		} else {
+		// show fully
+		document.getElementById("back_to_top").style.display = 'block';
+		document.getElementById("back_to_top").style.opacity = '1';
+		}
+
 	}
 	
 	// Modal Image Gallery
