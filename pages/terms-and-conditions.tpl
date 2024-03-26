@@ -19,7 +19,7 @@
 			</div>
 		</div>
 
-		<a id="back_to_top" href="#page-title" class="w3-display-right menu-button iris-bg floral-white-text">&uarr;</a>
+		<a id="back_to_top" href="#page-title" class="menu-button iris-bg floral-white-text">&uarr;</a>
 		<div class="content">
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col s12 w3-margin-bottom">
