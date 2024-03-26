@@ -19,6 +19,7 @@
 			</div>
 		</div>
 
+		<a id="back_to_top" href="#page-title" class="menu-button iris-bg floral-white-text">&uarr;</a>
 		<div class="content">
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col s12 m6 w3-margin-bottom">
@@ -35,8 +36,9 @@
 					<p>Chough's Nest Hotel has its own private parking for hotel guests. It is fully flood-lit at night.</p>
 					
 					<p>The car park is located at road level. As you drive down North Walk, you will see the hotel up on the left.
-					Carry on straight past the hotel, and you will find our car park about another 50 yards on the left. We have 
-					one parking bay allocated per room. It is often easier if you reverse into a space to park.</p>
+					Carry on straight past the hotel, and you will find our car park about another 50 yards on the left.</p>
+					<p>There is one parking bay allocated per hotel room. We recommend guests reverse into a space. Please leave 
+					your car registration number with reception so we can identify vehicles.</p>
 				</div>
 			</div>
 			<hr>

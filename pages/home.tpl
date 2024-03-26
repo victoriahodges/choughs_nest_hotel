@@ -105,7 +105,7 @@
 					<h2>The Location</h2>
 					<hr class="short">
 					<h3>See the stunning views</h3>
-					<p>Located on the coast path, Chough's Nest Hotel is ideally placed for you to explore the incredible landscapes of Exmoor National Park.</p>
+					<p>Located on the coast path, Chough's Nest Hotel is ideally placed for you to explore the incredible landscapes of Exmoor National.</p>
 					<a class="button w3-margin-top" href="[@URL]local-area">Explore</a>
 					
 					<div class="corner top-right-corner champagne-bg"></div>

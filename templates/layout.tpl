@@ -169,22 +169,25 @@
 
 	window.onscroll = function() {
 		// Script to hide/show back to top button
-		var appear = 200
+		var appear = 450
 		var fade = 1000
 		var opacity = 0
-		if (window.pageYOffset < appear) {
-		// hide
-			document.getElementById("back_to_top").style.display = 'none';
-		}
-		else if (window.pageYOffset >= appear && window.pageYOffset <= fade) {
-		// fade
-		opacity = window.pageYOffset/fade;
-		document.getElementById("back_to_top").style.opacity = opacity;
-		document.getElementById("back_to_top").style.display = 'block';
-		} else {
-		// show fully
-		document.getElementById("back_to_top").style.display = 'block';
-		document.getElementById("back_to_top").style.opacity = '1';
+		if(document.body.scrollHeight > 4000) {
+			// show if page height is too long
+			if (window.pageYOffset < appear) {
+			// hide
+				document.getElementById("back_to_top").style.display = 'none';
+			}
+			else if (window.pageYOffset >= appear && window.pageYOffset <= fade) {
+			// fade
+			opacity = (window.pageYOffset-appear)/(fade-appear);
+			document.getElementById("back_to_top").style.opacity = opacity;
+			document.getElementById("back_to_top").style.display = 'block';
+			} else {
+			// show fully
+			document.getElementById("back_to_top").style.display = 'block';
+			document.getElementById("back_to_top").style.opacity = '1';
+			}
 		}
 
 	}
