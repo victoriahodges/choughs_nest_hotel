@@ -41,7 +41,7 @@
 	style="z-index:3;width:300px;" id="mySidebar">
 		<div style="height: 100%; display: flex; flex-direction: column;">
 			
-			<div class="w3-padding-top-64" style="flex-grow: 1;">
+			<div class="w3-padding-top-64" style="margin-bottom: 64px; flex-grow: 1;">
 				<a href="javascript:void(0)" class="w3-display-topright w3-hide-xlarge menu-button iris-bg floral-white-text" onclick="w3_close()">&times;</a>
 			
 				[@navigation]

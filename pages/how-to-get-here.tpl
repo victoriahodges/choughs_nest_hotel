@@ -91,11 +91,12 @@
 					left towards town, then turn left on Lee Road towards St. Mary's parish church. North Walk leads downhill from the church on the left, follow the road straight at the foot of North Walk Hill,
 					crossing the last cliff-railway bridge, and continue for another 200 yards to the hotel.</p>
 					<h3>Combe Martin to Lynton</h3>
-					<p>Arriving in the Valley of Rocks, from the roundabout in the middle of the valley, follow the cliff-top coast path. Pass through the 'goat gate' onto North Walk and continue for 
-					another 300 yards. You will see Chough's Nest Hotel on the right.</p>
+					<p>Arriving in the Valley of Rocks, take the path from the roundabout in the middle of the valley and follow the cliff-top coast path
+					for about &frac34;-mile. Pass through the 'goat gate' onto North Walk and continue for another 300 yards. You will see Chough's Nest
+					Hotel on the right.</p>
 
 					<h3>Luggage transfers</h3>
-					<p>There are a number of luggage transfer and taxi companies who will forward you bags onto your next accommodation.</p>
+					<p>Here are some luggage transfer and taxi companies who will forward you bags on to your next accommodation.</p>
 					<ul class="list">
 						<li><strong><a href="http://www.lynvalleytaxi.co.uk/" target="_blank">Lyn Valley Taxi</a></strong> - <a href="tel:+447907161666">07907 161 666</a><br>
 						Offer luggage transfers and pick-up/drop-off for walkers</li>
