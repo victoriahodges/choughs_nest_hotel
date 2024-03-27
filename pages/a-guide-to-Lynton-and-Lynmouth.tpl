@@ -1,7 +1,8 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/lynton_and_lynmouth.jpg" style="width:100%; height: 100%;" alt="Dinner at Chough's Nest Hotel in Lynton">
+			<img src="[@URL]images/hero_images/lynton_and_lynmouth.jpg" style="width:100%; height: 100%;" 
+			alt="View of Lynton and Lynmouth overlooking the Bristol Channel">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -47,8 +48,8 @@
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
-						<p>Find out about local visitor attractions in and around Lynton.</p>
-						<p><a class="button" href="">View more</a></p>
+						<p>Find out about visitor attractions in and around the twin towns.</p>
+						<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View more</a></p>
 					</div>
 				</div>
 			</div>
@@ -60,7 +61,7 @@
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
 						<p>Explore Lynton &amp; Lynmouth on foot and discover beautiful paths and trails.</p>
-						<p><a class="button" href="">View more</a></p>
+						<p><a class="button" href="[@URL]local-walks-around-Lynton-and-Lynmouth">View more</a></p>
 					</div>
 				</div>
 			</div>
@@ -72,7 +73,7 @@
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>
 						<p>Information on top attractions and activites in North Devon &amp; Exmoor National Park</p>
-						<p><a class="button" href="">View more</a></p>
+						<p><a class="button" href="[@URL]things-to-see-and-do">View more</a></p>
 					</div>
 				</div>
 			</div>
@@ -83,14 +84,50 @@
 	<div class="w3-container">
 		<div class="content">		
 			<div class="w3-row grid-wrap">
-				<div class="w3-col grid-col s12 m6 w3-margin-bottom">
+				<div class="w3-col grid-col s12 l6 w3-margin-bottom">
 					<h2>England's 'Little Switzerland'</h2>
 					<p>During the early 1800s, whilst the Napoleonic wars raged on the continent, those unable to make their Grand Tour
 					to Europe opted for a 'staycation' in the West Country.</p>
-					<p>The countryside around Lynton &amp; Lynmouth served as a reminder of the route many would take through the Alps 
-					to Italy and so the fashion for building in the Swiss Style is to be seen in much of the local architecture.</p>
-					<p>With the coming of the railways, the towns grew and developed into a flourishing Victorian holiday resort and has 
-					been a popular holiday destination ever since.</p>
+
+					<p>The countryside around Lynton &amp; Lynmouth was reminiscent of the route many of the Romantics would take through the French
+					and Swiss Alps en route to Italy. The fashion for building in the Swiss Style is to be seen in much of the
+					local architecture.</p>
+
+					<h3>The Romantic poets and artists</h3>
+					<p>The landscape surrounding Lynton &amp; Lynmouth's have been captured in the writings of famous poets and authors.</p>
+					<p>William Wordsworth and Samuel Taylor Coleridge walked here from Coleridge's house at Nether Stowey, Somerset. The latter
+					taking inspiration from the Valley of Rocks to compose his epic ballad, <em>The Rime of the Ancient Mariner</em> in 1798.
+					</p>
+
+					<p>The artist Thomas Gainsborough honeymooned in Lynmouth and it is supposed that Percy Bysshe Shelley had a cottage 
+					somewhere near the harbour.</p>
+
+					<p>The poet Robert Southey coined the phrase 'Little Switzerland' when he stayed here in 1799, and wrote "<em>I am assured by 
+					one who is familiar with Switzerland, resembles a Swiss village</em>".</p>
+
+					<p>His praise of Lynton &amp; Lynmouth's picturesque beauty has meant it has been a popular holiday destination ever since.</p>
+				</div>
+				<div class="w3-col grid-col s12 l6 w3-margin-bottom">
+					<h2>Victorian holiday resort</h2>
+					<p>Tourism in Exmoor boomed during the Victorian era and the towns gained many new hotels and inns along the Lyn rivers,
+					some which were lost in the floods of 1952.<p>
+
+					<p>Paddle steamers from Bristol and Wales would dock regularly in the harbour and with the coming of the railways, 
+					the towns grew and developed into a flourishing Victorian holiday resort.</p>
+
+					<h3>Sir George Newnes</h3>
+					<p>George Newnes (1851 - 1910) was a publisher, editor and MP who founded <em>Tit-Bits</em> and <em>The Strand Magazine</em>,
+					in which Sir Arthur Conan Doyle first serialised his <em>Sherlock Holmes</em> stories. He was also the main sponsor of the
+					Southern Cross Expedition to Antarctica, a precursor to notorious expedition led by Captain Scott.</p>
+
+					<p>He had a house on Hollerday Hill in Lynton which, after his death, was severely damaged by fire in 1913.</p>
+
+					<p>A hude benefactor to the towns, Sir George funded the building of the Lynton &amp; Lynmouth Cliff Railway to aid transport
+					of goods and passengers to Lynton, which until then had relied on packhorses or horse drawn carts up the steep hill from Lynmouth harbour.</p>
+						
+					<p>He also gifted the Town Hall in Lynton and contributed to the construction of the 19-mile Lynton &amp; Barnstaple Railway
+					to bring visitors from the mainline railways at Barnstaple. A section of this railway is still running at Woody Bay Station.
+					</p>
 				</div>
 			</div>
 		</div>
