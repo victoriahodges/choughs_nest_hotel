@@ -122,7 +122,7 @@
 
 					<p>He had a house on Hollerday Hill in Lynton which, after his death, was severely damaged by fire in 1913.</p>
 
-					<p>A hude benefactor to the towns, Sir George funded the building of the Lynton &amp; Lynmouth Cliff Railway to aid transport
+					<p>A huge benefactor to the towns, Sir George funded the building of the Lynton &amp; Lynmouth Cliff Railway to aid transport
 					of goods and passengers to Lynton, which until then had relied on packhorses or horse drawn carts up the steep hill from Lynmouth harbour.</p>
 						
 					<p>He also gifted the Town Hall in Lynton and contributed to the construction of the 19-mile Lynton &amp; Barnstaple Railway
