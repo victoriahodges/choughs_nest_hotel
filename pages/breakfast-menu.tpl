@@ -46,32 +46,53 @@
 					<hr class="short">
 					<div class="w3-row grid-wrap">
 						<div class="w3-col grid-col s12 l6 w3-margin-bottom">
-						<h4>To start the day</h4>
-						<p>Cereals</p>
-						<p>Muesli</p>
-						<p>Porridge</p>
-						<p>Grapefruit segments</p>
-						<p>Fruit yogurt</p>
+						<h4>Good Morning...</h4>
+						<p>Pot of English Breakfast Tea<br>
+							<span class="small">Earl Grey, Mint, Green,
+							Red Berry or Decaffeinated Tea</span></p>
+						<p>Cafeti&egrave;re of Arabica Coffee<br>
+							<span class="small">Decaffeinated available on request</span></p>
 						<p><span class="gold-text">*****</span></p>
-						<p>Wholemeal Toast with Tiptree Preserves</p>
-						<p>Cafeti&egrave;re of Fresh Coffee</p>
-						<p>Pot of English Breakfast Tea</p>
+						<p>Granary Toast with Tiptree Marmalade and Preserves</p>
+						<p><span class="gold-text">*****</span></p>
+						<h4>To start the day</h4>
+						<p>Greek Yogurt<br>
+							<span class="small">Plain or with Homemade Mixed Berry Compote</span></p>
+						<p>Cornflakes<br>
+						Weetabix<br>
+						Bran Flakes<br>
+						Fruit and Nut Muesli</p>
+						<p>Freshly Made Porridge</p>
+						<p>Grapefruit Segments or Prunes</p>
+						
+						
 						<hr class="w3-hide-large short">
 						</div>
 						<div class="w3-col grid-col s12 l6 w3-margin-bottom">
 						<h4>To follow</h4>
-						<p>Poached, scrambled or fried eggs<br>
-							<span class="small">served on wholemeal toast with a grilled tomato</span>	
-						</p>
-						<p>Eggs Benedict</p>
-						<p>Whole Kipper</p>
-						<p><span class="gold-text">*****</span></p>
+
 						<p>Full English Breakfast<br>
-						<span class="small">Sausage, Bacon, Baked Beans, Hash Brown, Mushrooms, Grilled Tomatoes, with Fried, Scrambled or Poached Eggs</span>
+							<span class="small">Fried Eggs, Grilled Bacon, Pork Sausage, Hash Browns, Mushrooms, Grilled Tomatoes and Baked Beans</span>
 						</p>
+						
 						<p>Full Meat-free Vegetarian Breakfast<br>
-						<span class="small">Baked Beans, Hash Brown, Mushrooms, Grilled Tomatoes, with Fried, Scrambled or Poached Eggs</span>
+							<span class="small">Fried Eggs, Veggie Sausage, Hash Browns, Mushrooms, Grilled Tomatoes, Wilted Spinach and Baked Beans</span>
 						</p>
+						<p><span class="gold-text">*****</span></p>
+						
+						<p>Poached, scrambled or fried eggs<br>
+							<span class="small">served on granary toast with grilled tomatoes</span>	
+						</p>
+						<p>Baked Beans on Toast</p>
+						<p>Welsh Rarebit
+						<span class="small">1 or 2 slices<br>
+						made with Exmoor Ale, Worcestershire Sauce<br> and English Mustard</span>	
+						</p>
+						<p><span class="gold-text">*****</span></p>
+						<p>Grilled Whole Kipper*<br>
+							<span class="small">*must be pre-ordered</span>
+						</p>
+						
 						</div>
 					</div>
 					
@@ -86,15 +107,15 @@
 
 	<div id="section_links" class="w3-row w3-center">
 		<div class="link">
-			<h4>Dinner at Chough's</h4>
+			<h4><a href="[@URL]dining">Dinner at Chough's</a></h4>
 			<p>Experience great food and amazing views from our dining room</p>
 		</div>
 		<div class="link">
-			<h4>Eating out in Lynton</h4>
+			<h4><a href="[@URL]where-to-eat-in-Lynton-and-Lynmouth">Eating out in Lynton</a></h4>
 			<p>Find local places to eat near the Hotel</p>
 		</div>
 		<div class="link">
-			<h4>Local Area</h4>
+			<h4><a href="[@URL]things-to-see-and-do">Local Area</a></h4>
 			<p>Explore all that Exmoor &amp; North Devon have to offer</p>
 		</div>
 	</div>
