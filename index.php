@@ -68,8 +68,6 @@ $eating_out_script = '';
 					"keywords"		=> "hotel, bed and breakfast, accommodation, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
 					"nav"			=> "Hotel")
   
-		  
-
 		  , array(	"pageURL" 		=> "rooms",
 					"pagetitle"		=> "Rooms - Four Poster, Superior or Classic Double Bedrooms",
 					"pagedesc"		=> "Rooms at Chough's Nest Hotel feature glorious views of the sea and Exmoor National Park. Four-poster suite, Superior bedrooms and Classic double bedrooms",
@@ -229,9 +227,6 @@ else { // HOME page if no page requested
 }
 // Set TAG values
 
-include("edit-tariff/tariff.php");
-include("tariff_block.include.php");
-
 $map_script = <<<HTMLBLOCK
 <script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
 <script src="{$url}js/map_script.js"></script>
@@ -271,15 +266,8 @@ $tags = array (
 		"navigation"		=>	$pagesNav,
 		"booking_bar"		=>	$booking_bar,
 		"qbook_href"		=>	$qbook_href,
-		
-		"tariff_block" 		=>  $tariff_block,
-		"children_12_16_tariff" => $children_12_16_tariff,
-		"min_nest_price"	=>  $min_nest_price,
-		"min_superior_price"	=>  $min_superior_price,
-		"min_classic_price"	=>  $min_classic_price,
 
-		"map_script"		=>	$map_script,
-		"eating_out_script" =>  $eating_out_script
+		"map_script"		=>	$map_script
 );
 
 //Loop through tags in page content templates
