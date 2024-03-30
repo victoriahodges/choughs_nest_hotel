@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/lynton_and_lynmouth_cliff_railway.jpg" style="width:100%; height: 100%;" 
+			<img src="[@URL]images/hero_images/valley_of_rocks_sunset_from _hollerday_hill.jpg" style="width:100%; height: 100%;" 
 			alt="View of Lynton and Lynmouth overlooking the Bristol Channel">
 			<div class="hero-overlay"></div>
 		</div>
@@ -24,12 +24,57 @@
 		<a id="back_to_top" href="#page-title" class="menu-button iris-bg floral-white-text">&uarr;</a>
 	</div>
 
+	
+	<div id="card_links">
+		<div class="w3-row grid-wrap narrow-gutter w3-center card-row">
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynmouth" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Find out about Lynton &amp; Lynmouth</h3>
+						<p>Read about the history of the famous twin towns.</p>
+						<p><a class="button" href="[@URL]a-guide-to-Lynton-and-Lynmouth">View more</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/walking_boots.jpg" alt="Lynmouth" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Local Walks &amp; Trails</h3>
+						<p>Explore Lynton &amp; Lynmouth on foot and discover beautiful paths and trails.</p>
+						<p><a class="button" href="[@URL]local-walks-around-Lynton-and-Lynmouth">View more</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Lynmouth" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Things to See &amp; Do</h3>
+						<p>Information on top attractions and activites in North Devon &amp; Exmoor National Park</p>
+						<p><a class="button" href="[@URL]things-to-see-and-do">View more</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<div class="content">
 		<div class="w3-row grid-wrap">
 			<div class="w3-col grid-col s12 w3-margin-bottom">
 				<h2>Things to see and do in Lynton &amp; Lynmouth</h2>
 				<p>There is so much to see and experience during a stay in Lynton and no holiday to Lynton &amp; Lynmouth would
-				be complete without a visit to these top attractions.</p>
+				be complete without a visit to these top attractions. Most are just a short walk from Chough's Nest Hotel.</p>
+				<p>If you are looking for more to do in North Devon &amp; Exmoor, we have a whole list of activites and attractions
+				for you to experience across the region.</p>
+				<p><a class="button" href="[@URL]things-to-see-and-do">View Things to See &amp; Do</a></p>
 			</div>
 		</div>
 		<div class="w3-row grid-wrap">
@@ -50,7 +95,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/lynton_and_lynmouth_cliff_railway.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>
@@ -64,6 +109,8 @@
 							awe-inspiring views of the Exmoor coast or indulge in a cream tea picnic while watching a game of cricket at Lynton &amp;
 							Lynmouth Club's ground - thought of as the most picturesque in England!
 							</p>
+							<p>Further afield there are wooded paths and coastal trails which carry on towards Lee Abbey, Woody Bay and the 
+							beautiful Heddon Valley.</p>
 							<div class="rest_contact">
 								<p><strong>Distance:</strong> 20 minutes walk<br />
 								<a href="https://visitlyntonandlynmouth.com/visit/valley-of-rocks/" target="_blank">visitlyntonandlynmouth.com/visit/valley-of-rocks</a></p>
@@ -90,7 +137,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/lynton_cinema.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/lynton_cinema.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>
@@ -111,7 +158,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/watersmeet.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/watersmeet.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>
@@ -130,7 +177,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/lyn_and_exmoor_museum.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/lyn_and_exmoor_museum.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>
@@ -148,7 +195,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/woody_bay_train_station.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/woody_bay_train_station.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>
@@ -167,57 +214,38 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/hole_in_1_lynmouth_putting_green.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/hole_in_1_lynmouth_putting_green.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>
 
+				<div class="w3-padding-large w3-margin-bottom champagne-bg">
+					<div class="w3-row grid-wrap ">
+						<div class="w3-col grid-col s12 m6 l7">
+							<h3>West Ilkerton Farm Tours</h3>
+							<p>Discover a real working Exmoor Hill farm and see and experience the local wildlife with a tractor 
+							tour of West Ilkerton Farm.</p>
+							<p>The Eveleigh family have been running their farm at Barbrook for generations and are proud of
+							the relationship their farming has with the local Exmoor environment.
+							</p>
+							<p>Learn about how they raise their Red Ruby Devon cattle and Exmoor horn sheep, see Exmoor ponies and 
+							even the chance to spot some deer on the surrounding hills.
+							</p>
+							<p><strong>Booking in advance is essential.</strong></p>
+							<div class="rest_contact">
+								<p><strong>Distance:</strong> 10 minute drive<br />
+								<a href="https://westilkerton.co.uk/farm-tours" target="_blank">westilkerton.co.uk/farm-tours</a></p>
+							</div>
+						</div>
+						<div class="w3-col grid-col s12 m6 l5">
+							<img class="rest_img box" src="[@URL]images/attractions/west_ilkerton_farm_tours.jpg" alt="West Ilkerton Farm tractor tours" />
+						</div>
+					</div>
+				</div>
 
 			</div>
 		</div>
 	</div>
-
-	<div id="card_links">
-		<div class="w3-row grid-wrap narrow-gutter w3-center w3-padding-top-32 card-row">
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynmouth" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Lynton &amp; Lynmouth</h3>
-						<p>Read about the history of the famous twin towns.</p>
-						<p><a class="button" href="[@URL]a-guide-to-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Lynmouth" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Local Walks &amp; Trails</h3>
-						<p>Explore Lynton &amp; Lynmouth on foot and discover beautiful paths and trails.</p>
-						<p><a class="button" href="[@URL]local-walks-around-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/watersmeet.jpg" alt="Lynmouth" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Things to See &amp; Do</h3>
-						<p>Information on top attractions and activites in North Devon &amp; Exmoor National Park</p>
-						<p><a class="button" href="[@URL]things-to-see-and-do">View more</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
 
 	<!-- Push down subscribe form --> 
 	<div style="margin-top:100px"></div>
