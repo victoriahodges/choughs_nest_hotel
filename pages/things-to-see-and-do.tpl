@@ -69,8 +69,16 @@
 		<div class="w3-row grid-wrap">
 			<div class="w3-col grid-col s12 w3-margin-bottom">
 				<h2>Things to see and do in North Devon &amp; Exmoor</h2>
-				<p>There is so much to see and experience during a stay in Lynton and no holiday to Lynton &amp; Lynmouth would
-				be complete without a visit to these top attractions.</p>
+				<p>There is a wealth of experiences and places to explore during your stay at Chough's Nest Hotel, so why not take a look
+				at some of the amazing North Devon and Exmoor attractions and activities you can do on your holiday?
+				</p>
+				<p>Visit historic houses, beautiful gardens and the golden beaches of North Devon. Take a thrilling ride on a heritage steam
+				engine or a boat trip to explore Lundy Island. There are so many day-trips and excursions to experience and enjoy while you
+				are here.
+				</p>
+				<p>If you are looking for more to do closer to the hotel, view our list of activites and attractions to visit
+				in Lynton &amp; Lynmouth. Most are just a short walk from Chough's Nest.</p>
+				<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View Lynton &amp; Lynmouth attractions</a></p>
 			</div>
 		</div>
 
@@ -78,7 +86,7 @@
 
 
 		<div class="w3-bar dark-iris-bg floral-white-text">
-			<button class="w3-bar-item w3-button" onclick="openTab('Attractions')">Attractions &amp; Activities</button>
+			<button class="w3-bar-item w3-button active" onclick="openTab('Attractions')">Attractions &amp; Activities</button>
 			<button class="w3-bar-item w3-button" onclick="openTab('Houses')">Historic Sites &amp; Houses</button>
 			<button class="w3-bar-item w3-button" onclick="openTab('Gardens')">Gardens</button>
 			<button class="w3-bar-item w3-button" onclick="openTab('Beaches')">Beaches</button>
@@ -126,6 +134,22 @@
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap ">
 							<div class="w3-col grid-col s12 m6 l7">
+								<h3>Exmoor Red Stag Safari</h3>
+								<p></p>
+								<div class="rest_contact">
+									<p><strong>Location:</strong> across Devon &amp; Somerset<br />
+									<a href="https://www.redstagsafari.co.uk/" target="_blank">www.redstagsafari.co.uk</a></p>
+								</div>
+							</div>
+							<div class="w3-col grid-col s12 m6 l5">
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor-safaris-red-stag.jpg" alt="Exmoor Red Stag Safaris" />
+							</div>
+						</div>
+					</div>
+					
+					<div class="w3-padding-large w3-margin-bottom champagne-bg">
+						<div class="w3-row grid-wrap ">
+							<div class="w3-col grid-col s12 m6 l7">
 								<h3>Hele Corn Mill &amp; Tea Rooms</h3>
 								<p></p>
 								<div class="rest_contact">
@@ -151,22 +175,6 @@
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
 								<img class="rest_img box" src="[@URL]images/attractions/exmoor_zoo.jpg" alt="Exmoor Zoo home of the exmoor beast" />
-							</div>
-						</div>
-					</div>
-
-					<div class="w3-padding-large w3-margin-bottom champagne-bg">
-						<div class="w3-row grid-wrap ">
-							<div class="w3-col grid-col s12 m6 l7">
-								<h3>West Ilkerton Farm Tours</h3>
-								<p></p>
-								<div class="rest_contact">
-									<p><strong>Location:</strong> West Ilkerton, Barbrook<br />
-									<a href="https://westilkerton.co.uk/farm-tours" target="_blank">westilkerton.co.uk/farm-tours</a></p>
-								</div>
-							</div>
-							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/west_ilkerton_farm_tours.jpg" alt="West Ilkerton Farm tractor tours" />
 							</div>
 						</div>
 					</div>
@@ -492,6 +500,10 @@
 				x[i].style.display = "none";
 			}
 			document.getElementById(tabName).style.display = "block";
+			var y = document.getElementsByClassName("w3-bar-item");
+			for (i = 0; i < y.length; i++) {
+				y[i].classList.remove('active')
+			}
 			}
 		</script>
 

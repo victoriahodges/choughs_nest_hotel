@@ -358,6 +358,16 @@ border-color: #33435B; }
 #map_canvas button {border-radius: 0;}
 #back_to_top {position: fixed; top: calc(100% - 72px); right: 0; display: none; opacity: 0; z-index: 5;}
 
+.w3-bar button {
+    height: 45px;
+    font-size: 16px;
+    border-radius: 0;
+}
+.w3-bar button.active {
+    background-color: #A6843A;
+    color: #292929;
+}
+
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 form {
