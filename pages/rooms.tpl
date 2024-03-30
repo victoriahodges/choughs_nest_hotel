@@ -166,15 +166,15 @@
 
 	<div id="section_links" class="w3-row w3-center">
 		<div class="link">
-			<h4>Breakfasts</h4>
+			<h4><a href="[@URL]breakfast-menu">Breakfasts</a></h4>
 			<p>Start the day with our delicious breakfast menu</p>
 		</div>
 		<div class="link">
-			<h4>Dinner at Chough's</h4>
+			<h4><a href="[@URL]dining">Dinner at Chough's</a></h4>
 			<p>Experience great food and amazing views from our dining room</p>
 		</div>
 		<div class="link">
-			<h4>Local Area</h4>
+			<h4><a href="[@URL]things-to-see-and-do">Local Area</a></h4>
 			<p>Explore all that Exmoor &amp; North Devon have to offer</p>
 		</div>
 	</div>
