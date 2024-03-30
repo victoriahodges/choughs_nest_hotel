@@ -33,21 +33,21 @@
 			<p>Rest assured, you'll be chuffed with Chough's Nest!</p>
 		</div>
 		<div class="w3-col s12 l6 feature-card-image">
-			<img src="[@URL]images/hotel_view_gallery.jpg" alt="Hotel Sea View" />
+			<img src="[@URL]images/hotel_view.jpg" alt="Hotel Sea View" />
 		</div>
 	</div>
 
 	<div id="section_links" class="w3-row w3-center">
 		<div class="link">
-			<h4>Exmoor Breaks</h4>
+			<h4><a href="[@URL]rooms">Exmoor Breaks</a></h4>
 			<p>Get away from it all with our special break rates</p>
 		</div>
 		<div class="link">
-			<h4>Dinner at Chough's</h4>
+			<h4><a href="[@URL]dining">Dinner at Chough's</a></h4>
 			<p>Experience great food and amazing views from our dining room</p>
 		</div>
 		<div class="link">
-			<h4>Local Area</h4>
+			<h4><a href="[@URL]a-guide-to-Lynton-and-Lynmouth">Local Area</a></h4>
 			<p>Explore all that Exmoor &amp; North Devon have to offer</p>
 		</div>
 	</div>
@@ -105,8 +105,8 @@
 					<h2>The Location</h2>
 					<hr class="short">
 					<h3>See the stunning views</h3>
-					<p>Located on the coast path, Chough's Nest Hotel is ideally placed for you to explore the incredible landscapes of Exmoor National.</p>
-					<a class="button w3-margin-top" href="[@URL]local-area">Explore</a>
+					<p>Located on the coast path, Chough's Nest Hotel is ideally placed for you to explore the incredible landscapes of Exmoor National Park.</p>
+					<a class="button w3-margin-top" href="[@URL]things-to-see-and-do">Explore</a>
 					
 					<div class="corner top-right-corner champagne-bg"></div>
 					<div class="corner top-left-corner champagne-bg"></div>
