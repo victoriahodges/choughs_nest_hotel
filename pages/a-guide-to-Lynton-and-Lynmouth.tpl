@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/lynton_and_lynmouth.jpg" style="width:100%; height: 100%;" 
+			<img src="[@URL]images/hero_images/lynmouth_harbour.jpg" style="width:100%; height: 100%;" 
 			alt="View of Lynton and Lynmouth overlooking the Bristol Channel">
 			<div class="hero-overlay"></div>
 		</div>
@@ -44,7 +44,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynmouth" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -68,7 +68,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/watersmeet.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Lynmouth" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>
