@@ -286,6 +286,8 @@ nav .w3-button:hover.selected {background-color:#2D3A4E!important;color: #A6843A
 }
 .menu-button:hover {color: #C5A359;}
 nav .menu-button {margin-top: 16px;}
+#section_links a {text-decoration: underline; color: #33435B;}
+#section_links a:hover {text-decoration: none; color: #2D3A4E;}
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
