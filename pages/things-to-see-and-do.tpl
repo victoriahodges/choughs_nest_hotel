@@ -78,7 +78,7 @@
 				</p>
 				<p>If you are looking for more to do closer to the hotel, view our list of activites and attractions to visit
 				in Lynton &amp; Lynmouth. Most are just a short walk from Chough's Nest.</p>
-				<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View Lynton &amp; Lynmouth attractions</a></p>
+				<p><a class="button button-iris" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View Lynton &amp; Lynmouth attractions</a></p>
 			</div>
 		</div>
 
@@ -86,10 +86,10 @@
 
 
 		<div id="attraction_menu" class="w3-bar dark-iris-bg floral-white-text">
-			<button class="w3-bar-item w3-button active" onclick="openTab('Attractions')">Attractions &amp; Activities</button>
-			<button class="w3-bar-item w3-button" onclick="openTab('Houses')">Historic Sites &amp; Houses</button>
-			<button class="w3-bar-item w3-button" onclick="openTab('Gardens')">Gardens</button>
-			<button class="w3-bar-item w3-button" onclick="openTab('Beaches')">Beaches</button>
+			<button id="tab_1" class="w3-bar-item w3-button active" onclick="openTab('Attractions', 'tab_1')">Attractions &amp; Activities</button>
+			<button id="tab_2" class="w3-bar-item w3-button" onclick="openTab('Houses', 'tab_2')">Historic Sites &amp; Houses</button>
+			<button id="tab_3" class="w3-bar-item w3-button" onclick="openTab('Gardens', 'tab_3')">Gardens</button>
+			<button id="tab_4" class="w3-bar-item w3-button" onclick="openTab('Beaches', 'tab_4')">Beaches</button>
 		</div> 
 		<div id="Attractions" class="tab">
 			<div class="w3-row grid-wrap w3-margin-top">
@@ -433,7 +433,7 @@
 		<div id="Beaches" class="tab" style="display:none">
 			<div class="w3-row grid-wrap w3-margin-top">
 				<div class="w3-col grid-col s12">
-					<h2>Beaches</h2>
+					<h2>North Devon Beaches</h2>
 					<p>North Devon is home to some of the best beaches in the United Kingdom. We've provided a list of
 					some of the best spots to enjoy a day of sun, sea and sand.
 					</p>
@@ -573,7 +573,7 @@
 		</div>
 
 		<script>
-			function openTab(tabName) {
+			function openTab(tabName, tabNum) {
 			var i;
 			var x = document.getElementsByClassName("tab");
 			for (i = 0; i < x.length; i++) {
@@ -584,6 +584,7 @@
 			for (i = 0; i < y.length; i++) {
 				y[i].classList.remove('active')
 			}
+			document.getElementById(tabNum).classList.add('active');
 			}
 		</script>
 

@@ -74,7 +74,7 @@
 				be complete without a visit to these top attractions. Most are just a short walk from Chough's Nest Hotel.</p>
 				<p>If you are looking for more to do in North Devon &amp; Exmoor, we have a whole list of activites and attractions
 				for you to experience across the region.</p>
-				<p><a class="button" href="[@URL]things-to-see-and-do">View Things to See &amp; Do</a></p>
+				<p><a class="button button-iris" href="[@URL]things-to-see-and-do">View Things to See &amp; Do</a></p>
 			</div>
 		</div>
 		<div class="w3-row grid-wrap">
