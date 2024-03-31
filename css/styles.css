@@ -358,15 +358,26 @@ border-color: #33435B; }
 #map_canvas button {border-radius: 0;}
 #back_to_top {position: fixed; top: calc(100% - 72px); right: 0; display: none; opacity: 0; z-index: 5;}
 
-.w3-bar button {
+#attraction_menu {margin-bottom: 32px;}
+#attraction_menu button {
+    width: 100%;
     height: 45px;
     font-size: 16px;
     border-radius: 0;
+    border-bottom: 1px #3a4c68 solid;
 }
-.w3-bar button.active {
+#attraction_menu button.active {
     background-color: #A6843A;
     color: #292929;
+    border: 0;
 }
+@media (min-width: 993px){
+    #attraction_menu button {width: unset;
+        border-bottom: 0;
+        border-right: 1px #445a7a solid;
+    }
+}
+
 
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
