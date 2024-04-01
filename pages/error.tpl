@@ -13,7 +13,7 @@
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col l6 xl7 w3-margin-bottom">
 					<h1>Are you lost?</h1>	
-					<p>The URL you requested "[@requested]" cannot be found.<br /><br /></p>
+					<p>The page you requested "[@requested]" cannot be found.<br /><br /></p>
 					<a href="[@URL]" class="button button-iris">Return To Homepage</a>
 				</div>
 			</div>

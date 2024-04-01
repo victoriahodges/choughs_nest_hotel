@@ -26,7 +26,7 @@
 					<h2>Our Location</h2>
 					<p><strong>Address:</strong> North Walk, Lynton, Devon</p>
 					<p><strong>Postcode:</strong> EX35 6HJ</p>
-					<p><strong>What3words:</strong> ///round.shifters.resting</p>
+					<p><strong>What3words:</strong> <a href="https://what3words.com/round.shifters.resting" target="_blank">///round.shifters.resting</a></p>
 
 					<p><a class="button " href="[@URL]pages/map_directions.pdf" target="_blank">Print map &amp; directions</a></p>
 					<p><a class="button button-iris" href="https://www.google.com/maps/dir/?api=1&destination=51.232199,-3.8371" target="_blank">Google maps directions</a></p>
@@ -55,12 +55,19 @@
 					
 					<h3>By Bus</h3>
 					<h4>309/310 Bus route</h4>
+					<p><a href="http://www.filers.co.uk/bus/" target="_blank">www.filers.co.uk/bus</a></p>
 					<p>The 309/310 is a regular service running to Lynton &amp; Lynmouth from
 					Barnstaple bus and train stations</p>
 					<p><a href="http://www.filers.co.uk/wp-content/uploads/2023/04/309-310-Timetable-Summer-2023.pdf" target="_blank" class="button button-iris">309/310 timetable</a></p>
 					<h4>Exmoor Coaster</h4>
+					<p><a href="https://www.firstbus.co.uk/adventures-bus/services/exmoor-coaster" target="_blank">www.firstbus.co.uk/adventures-bus/services/exmoor-coaster</a></p>
 					<p>A spectacular open-top bus journey along the A39 Coast Road, connecting Watchet, Minehead, Porlock, Countisbury and Lynmouth.</p>
-					<p><a href="https://www.firstbus.co.uk/sites/default/files/public/adventures-by-bus/exmoor%20coaster%20leaflet%20feb24%20web_0.pdf" target="_blank" class="button button-iris">Exmoor Coaster timetable</a></p>
+					<p>
+						<a href="https://www.firstbus.co.uk/somerset/plan-journey/timetables?search=EXMO" target="_blank" class="button button-iris">Exmoor Coaster timetables</a>
+					</p>
+					<p>
+						<a href="https://www.firstbus.co.uk/sites/default/files/public/adventures-by-bus/exmoor%20coaster%20leaflet%20feb24%20web_0.pdf" target="_blank" class="button button-iris">Exmoor Coaster leaflet</a>
+					</p>
 					
 					<h3>Local taxis</h3>
 					<p>Lynton &amp; Lynmouth taxi services offer airport transfers, luggage transfers and pick-up/drop-off for walkers:</p>

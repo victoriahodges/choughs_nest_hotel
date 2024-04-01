@@ -80,13 +80,13 @@
 						</p>
 						<p><span class="gold-text">*****</span></p>
 						
-						<p>Poached, scrambled or fried eggs<br>
-							<span class="small">served on granary toast with grilled tomatoes</span>	
+						<p>Poached or Scrambled Eggs<br>
+							<span class="small">Served on Granary Toast with Grilled Tomatoes</span>	
 						</p>
 						<p>Baked Beans on Toast</p>
 						<p>Welsh Rarebit
 						<span class="small">1 or 2 slices<br>
-						made with Exmoor Ale, Worcestershire Sauce<br> and English Mustard</span>	
+						Made with Exmoor Ale, Worcestershire Sauce<br> and English Mustard</span>	
 						</p>
 						<p><span class="gold-text">*****</span></p>
 						<p>Grilled Whole Kipper*<br>

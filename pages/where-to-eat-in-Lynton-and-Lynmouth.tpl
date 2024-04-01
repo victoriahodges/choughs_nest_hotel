@@ -72,7 +72,8 @@
 								<p>Italian inspired restaurant in the heart of Lynton, serving delicious pasta dishes, pizzas, and authentic Italian flavours.</p>
 								<div class="rest_contact">
 									<p><strong>Distance:</strong> 7 minutes walk<br />
-									<strong>Telephone:</strong> 01598 751 028
+									<strong>Telephone:</strong> 01598 751 028<br>
+									<strong>Location:</strong> 10 Lee Road, Lynton, EX35 6HW
 								</div>
 							
 							</div>
