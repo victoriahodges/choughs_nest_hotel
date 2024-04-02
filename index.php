@@ -47,6 +47,11 @@ $page_keywords = '';
 $map_script = '';
 $eating_out_script = '';
 
+$map_block = <<<HTMLBLOCK
+<script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
+<script src="{$url}js/map_script.js"></script>
+HTMLBLOCK;
+
 
 // echo <<<HTMLBLOCK
 // 	<div style="width: 100%; background: #ccc;">
@@ -203,35 +208,18 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 			$page_title = "Error: ".$_REQUEST['page']." - ";	
 	}
 	
-	if ($_REQUEST['page'] == "contact") {
-		$map_script = <<<HTMLBLOCK
-<script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
-<script src="{$url}js/map_script.js"></script>
-   
-HTMLBLOCK;
-		
-	}
-	if ($_REQUEST['page'] == "where-to-eat") {
-		$eating_out_script = <<<HTMLBLOCK
-<script src="{$url}js/eating_out_script.js"></script>
-   
-HTMLBLOCK;
-		
+	if ($_REQUEST['page'] == "contact" || $_REQUEST['page'] == "how-to-get-here") {
+		$map_script = $map_block;		
 	}
 }
 else { // HOME page if no page requested
 	$content = new Template('pages/home.tpl');
-		$page_title  = $pages[0]["pagetitle"];
-		$page_desc  = $pages[0]["pagedesc"];
+	$page_title  = $pages[0]["pagetitle"];
+	$page_desc  = $pages[0]["pagedesc"];
+	$map_script = $map_block; // map also on homepage
 		
 }
 // Set TAG values
-
-$map_script = <<<HTMLBLOCK
-<script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
-<script src="{$url}js/map_script.js"></script>
-   
-HTMLBLOCK;
 
 $from_date = date('Y-m-d');
 $to_date = date('Y-m-d',strtotime('+1 day'));
