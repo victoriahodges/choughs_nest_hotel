@@ -117,7 +117,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/valley_of_rocks.jpg" alt="The Old Bank" />
 						</div>
 					</div>
 				</div>

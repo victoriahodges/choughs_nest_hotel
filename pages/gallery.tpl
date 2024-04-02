@@ -22,6 +22,9 @@
 		<div class="content">
 			<div class="w3-row grid-wrap narrow-gutter">
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/hotel_front.jpg" style="width:100%" onclick="onClick(this)" alt="Chough's Nest Hotel, Lynton, Devon">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/four-poster-nest-bedroom.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
@@ -40,13 +43,10 @@
 					<img src="[@URL]images/hotel_view.jpg" style="width:100%" onclick="onClick(this)" alt="View of Foreland Point from Chough's Nest">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
-					<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" style="width:100%" onclick="onClick(this)" alt="View of Valley of Rocks">
+					<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" style="width:100%" onclick="onClick(this)" alt="Valley of Rocks at sunset">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
-					<img src="[@URL]images/lynton_and_lynmouth.jpg" style="width:100%" onclick="onClick(this)" alt="View of Lynton &amp; Lynmouth">
-				</div>
-				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
-					<img src="[@URL]images/lynmouth.jpg" style="width:100%" onclick="onClick(this)" alt="View of Lynmouth">
+					<img src="[@URL]images/lynton_and_lynmouth.jpg" style="width:100%" onclick="onClick(this)" alt="Lynton &amp; Lynmouth">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/lynton_and_lynmouth_cliff_railway.jpg" style="width:100%" onclick="onClick(this)" alt="The Cliff Railway in Lynton">
@@ -55,7 +55,22 @@
 					<img src="[@URL]images/view_of_sunrise_at_choughs_nest_hotel.jpg" style="width:100%" onclick="onClick(this)" alt="View of the sunrise from Chough's Nest Hotel">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/lynmouth.jpg" style="width:100%" onclick="onClick(this)" alt="Lynmouth">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/lynmouth_harbour.jpg" style="width:100%" onclick="onClick(this)" alt="Lynmouth Harbour">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/valley_of_rocks.jpg" style="width:100%" onclick="onClick(this)" alt="The Valley of Rocks in spring">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/winter_foreland_point_devon.jpg" style="width:100%" onclick="onClick(this)" alt="Foreland Point in winter">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/winter_choughs_nest_hotel.jpg" style="width:100%" onclick="onClick(this)" alt="Chough's Nest Hotel in winter">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/winter_valley_of_rocks.jpg" style="width:100%" onclick="onClick(this)" alt="The Valley of Rocks in winter">
 				</div>
 
 			</div>
