@@ -467,7 +467,7 @@
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap ">
 							<div class="w3-col grid-col s12 m6 l7">
-								<h3>Lee Bay</h3>
+								<h3>Lee Bay Beach</h3>
 								<p>With golden sands exposed at low tide, this attractive little bay can be accessed via the 
 								coastal toll road (&pound;2 for motor vehicles) through the Valley of Rocks from Lynton. 
 								</p>
