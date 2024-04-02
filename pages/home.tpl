@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="Front of hotel Chough's Nest Hotel in Lynton">
+			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="Front of hotel, Chough's Nest Hotel in Lynton">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -33,7 +33,7 @@
 			<p>Rest assured, you'll be chuffed with Chough's Nest!</p>
 		</div>
 		<div class="w3-col s12 l6 feature-card-image">
-			<img src="[@URL]images/hotel_view.jpg" alt="Hotel Sea View" />
+			<img src="[@URL]images/hotel_view.jpg" alt="Hotel Sea Views" />
 		</div>
 	</div>
 
@@ -56,7 +56,7 @@
 	<div class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="hotel bedroom"/>
+				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Chough's Nest Hotel bedroom"/>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">

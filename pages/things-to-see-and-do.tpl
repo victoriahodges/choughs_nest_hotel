@@ -29,7 +29,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -41,7 +41,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Exmoor and North Devon" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
@@ -221,7 +221,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor_adventures.jpg" alt="Exmoor Zoo home of the exmoor beast" />
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor_adventures.jpg" alt="Exmoor Adventures and bicycle hire" />
 							</div>
 						</div>
 					</div>
@@ -291,7 +291,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/clovelly_north_devon.jpg" alt="The Old Bank" />
+								<img class="rest_img box" src="[@URL]images/attractions/clovelly_north_devon.jpg" alt="Clovelly Harbour, North Devon" />
 							</div>
 						</div>
 					</div>
@@ -562,7 +562,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/saunton_sands_braunton_burrows.jpg" alt="The Old Bank" />
+								<img class="rest_img box" src="[@URL]images/attractions/saunton_sands_braunton_burrows.jpg" alt="Saunton Sands Beach and Braunton Burrows" />
 							</div>
 						</div>
 					</div>

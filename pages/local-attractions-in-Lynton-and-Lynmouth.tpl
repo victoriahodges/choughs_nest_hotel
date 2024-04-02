@@ -2,7 +2,7 @@
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
 			<img src="[@URL]images/hero_images/valley_of_rocks_sunset_from _hollerday_hill.jpg" style="width:100%; height: 100%;" 
-			alt="View of Lynton and Lynmouth overlooking the Bristol Channel">
+			alt="View of Valley of Rocks in Lynton at sunset">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -30,7 +30,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton &amp; Lynmouth" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>
@@ -42,7 +42,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Lynton &amp; Lynmouth, North Devon" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
@@ -54,7 +54,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Rooms" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>
@@ -95,7 +95,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/valley_of_rocks.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/valley_of_rocks.jpg" alt="The Valley of Rocks" />
 						</div>
 					</div>
 				</div>
@@ -137,7 +137,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/lynton_cinema.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/lynton_cinema.jpg" alt="Lynton Cinema" />
 						</div>
 					</div>
 				</div>
@@ -158,7 +158,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/watersmeet.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden" />
 						</div>
 					</div>
 				</div>
@@ -177,7 +177,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/lyn_and_exmoor_museum.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/lyn_and_exmoor_museum.jpg" alt="The Lyn &amp; Exmoor Museum" />
 						</div>
 					</div>
 				</div>
@@ -195,7 +195,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/woody_bay_train_station.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/woody_bay_train_station.jpg" alt="Lynton &amp; Barnstaple Railway Woody Bay Station" />
 						</div>
 					</div>
 				</div>
@@ -214,7 +214,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/hole_in_1_lynmouth_putting_green.jpg" alt="The Old Bank" />
+							<img class="rest_img box" src="[@URL]images/attractions/hole_in_1_lynmouth_putting_green.jpg" alt="Hole in 1 - Lynmouth Putting Green" />
 						</div>
 					</div>
 				</div>

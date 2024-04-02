@@ -2,7 +2,7 @@
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
 			<img src="[@URL]images/hero_images/walking_paths_and_trails.jpg" style="width:100%; height: 100%;" 
-			alt="View of Lynton and Lynmouth overlooking the Bristol Channel">
+			alt="Footpath near Lyn river valley at Watersmeet, Lynmouth, Devon">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>
@@ -41,7 +41,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynmouth" />
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -53,7 +53,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth from Countisbury" />
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth, view from Countisbury" />
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>
@@ -94,7 +94,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-hollerday-hill.jpg" alt="Heddon Valley North Devon"/>
+							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-hollerday-hill.jpg" alt="Hollerday Hill walk, North Devon"/>
 						</div>
 					</div>
 				</div>
@@ -116,7 +116,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-valley-of-rocks.jpg" alt="The Lorna Doone Valley in Exmoor" />
+							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-valley-of-rocks.jpg" alt="The Valley of Rocks in Exmoor" />
 						</div>
 					</div>
 				</div>
@@ -138,7 +138,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-watersmeet.jpg" alt="Baggy Point near Croyde Devon" />
+							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-watersmeet.jpg" alt="Watersmeet House walk in Devon" />
 						</div>
 					</div>
 				</div>
@@ -165,7 +165,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/porlock_weir.jpg" alt="Heddon Valley North Devon" />
+							<img class="rest_img box" src="[@URL]images/walks/porlock_weir.jpg" alt="Porlock Weir walk to Lynmouth" />
 						</div>
 					</div>
 				</div>

@@ -78,7 +78,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_number_ten_lynton.jpg" alt="The Crown Hotel" />
+								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_number_ten_lynton.jpg" alt="Number Ten Lynton" />
 							</div>
 						</div>
 					</div>
@@ -152,7 +152,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_rock_house.jpg" alt="The Rock House" />
+								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_rock_house.jpg" alt="The Rock House in Lynmouth" />
 							</div>
 						</div>
 					</div>
@@ -169,7 +169,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_rising_sun.jpg" alt="The Rising Sun" />
+								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_rising_sun.jpg" alt="The Rising Sun in Lynmouth" />
 							</div>
 						</div>	
 					</div>
@@ -209,7 +209,7 @@
 
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_blue_ball.jpg" alt="The Vanilla Pod" />
+								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_blue_ball.jpg" alt="The Blue Ball, Countisbury" />
 							</div>
 						</div>	
 					</div>
@@ -226,7 +226,7 @@
 
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_fox_goose.jpg" alt="The Vanilla Pod" />
+								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_fox_goose.jpg" alt="The Fox and Goose, Parracombe" />
 							</div>
 						</div>	
 					</div>

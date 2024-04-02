@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/breakfast_room.jpg" style="width:100%; height: 100%;" alt="Dinner at Chough's Nest Hotel in Lynton">
+			<img src="[@URL]images/hero_images/breakfast_room.jpg" style="width:100%; height: 100%;" alt="Breakfast at Chough's Nest Hotel in Lynton">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -32,7 +32,7 @@
 
 				</div>
 				<div class="w3-col grid-col m5 l4 xl3 w3-margin-bottom">
-					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_image.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
+					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_image.jpg" alt="A full English cooked breakfast at Chough's Nest Hotel in Lynton">
 
 				</div>
 			</div>

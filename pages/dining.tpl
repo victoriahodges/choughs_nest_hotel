@@ -30,7 +30,7 @@
 					<strong>Booking is essential - please reserve a table when reserving your room.</strong></p>
 				</div>
 				<div class="w3-col grid-col m5 l4 w3-margin-bottom">
-					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_room.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
+					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_room.jpg" alt="Dining room at Chough's Nest Hotel in Lynton">
 
 				</div>
 			</div>

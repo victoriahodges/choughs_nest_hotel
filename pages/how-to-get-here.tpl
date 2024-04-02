@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="Dinner at Chough's Nest Hotel in Lynton">
+			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="Chough's Nest Hotel in Lynton">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
