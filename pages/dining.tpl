@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/light-bites.jpg" style="width:100%; height: 100%;" alt="Dinner at Chough's Nest Hotel in Lynton">
+			<img src="[@URL]images/hero_images/lite_bites_dinners.jpg" style="width:100%; height: 100%;" alt="Dinner at Chough's Nest Hotel in Lynton">
 			<div class="hero-overlay"></div>
 		</div>
 	</div>
@@ -28,9 +28,6 @@
 					The room is tastefully decorated using William Morris designs to complement the Victorian history of the hotel building.</p>
 					<p>The dining room is where we serve our 'Lite Bites' evening meals, Fridays - Tuesday at 7pm.,<br>
 					<strong>Booking is essential - please reserve a table when reserving your room.</strong></p>
-					<p>In the morning, you can enjoy our delicious Full English breakfasts as the sun rises over the Countisbury headland.</p>
-					<p><a href="[@URL]breakfast-menu" class="button">View Breakfast Menu</a></p>
-
 				</div>
 				<div class="w3-col grid-col m5 l4 w3-margin-bottom">
 					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_room.jpg" alt="Dinner at Chough's Nest Hotel in Lynton">
@@ -78,6 +75,20 @@
 					<div class="corner top-left-corner champagne-bg"></div>
 					<div class="corner bottom-right-corner champagne-bg"></div>
 					<div class="corner bottom-left-corner champagne-bg"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="content">
+			<div class="w3-row grid-wrap w3-padding-top-32">
+				<div class="w3-col grid-col m5 xl4 w3-margin-bottom">
+					<img src="[@URL]images/desserts.jpg" alt="Desserts at Chough's Nest Hotel">
+				</div>
+				<div class="w3-col grid-col m7 xl8 w3-margin-bottom">
+					<h2>Sweet delights</h2>
+					<p>We offer a range of cakes and desserts in addition to our 'Lite Bites' menu.</p>
+					<p>Our delicious desserts are freshly made so change regulary, but you can guarantee that there
+					will be something tasty and sweet to enjoy after your meal.</p>
 				</div>
 			</div>
 		</div>
