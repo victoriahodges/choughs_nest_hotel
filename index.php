@@ -45,7 +45,7 @@ $pagesNav ='';
 $page_heading = '';
 $page_keywords = '';
 $map_script = '';
-$eating_out_script = '';
+$recaptcha_script = '';
 
 $map_block = <<<HTMLBLOCK
 <script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
@@ -211,6 +211,9 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 	if ($_REQUEST['page'] == "contact" || $_REQUEST['page'] == "how-to-get-here") {
 		$map_script = $map_block;		
 	}
+	if ($_REQUEST['page'] == "contact") {
+		$recaptcha_script = "<script src='https://www.google.com/recaptcha/api.js'></script>";	
+	}
 }
 else { // HOME page if no page requested
 	$content = new Template('pages/home.tpl');
@@ -255,7 +258,8 @@ $tags = array (
 		"booking_bar"		=>	$booking_bar,
 		"qbook_href"		=>	$qbook_href,
 
-		"map_script"		=>	$map_script
+		"map_script"		=>	$map_script,
+		"recaptcha_script"		=>	$recaptcha_script
 );
 
 //Loop through tags in page content templates
