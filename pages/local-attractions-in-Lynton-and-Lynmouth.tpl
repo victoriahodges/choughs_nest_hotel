@@ -1,7 +1,7 @@
 	<!-- Hero image -->
 	<div id="hero" class="w3-row">
 		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/valley_of_rocks_sunset_from _hollerday_hill.jpg" style="width:100%; height: 100%;" 
+			<img src="[@URL]images/hero_images/valley_of_rocks_sunset_from_hollerday_hill.jpg" style="width:100%; height: 100%;" 
 			alt="View of Valley of Rocks in Lynton at sunset">
 			<div class="hero-overlay"></div>
 		</div>

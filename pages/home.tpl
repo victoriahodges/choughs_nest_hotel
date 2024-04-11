@@ -98,7 +98,7 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" alt="Valley of Rocks in Lynton and Lynmouth" />
+				<img src="[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg" alt="Valley of Rocks in Lynton and Lynmouth" />
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">

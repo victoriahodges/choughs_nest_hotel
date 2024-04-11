@@ -43,7 +43,7 @@
 					<img src="[@URL]images/hotel_view.jpg" style="width:100%" onclick="onClick(this)" alt="View of Foreland Point from Chough's Nest">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
-					<img src="[@URL]images/valley_of_rocks_sunset_from _hollerday_hill.jpg" style="width:100%" onclick="onClick(this)" alt="Valley of Rocks at sunset">
+					<img src="[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg" style="width:100%" onclick="onClick(this)" alt="Valley of Rocks at sunset">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/lynton_and_lynmouth.jpg" style="width:100%" onclick="onClick(this)" alt="Lynton &amp; Lynmouth">
