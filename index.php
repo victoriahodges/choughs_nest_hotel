@@ -48,8 +48,8 @@ $map_script = '';
 $recaptcha_script = '';
 
 $map_block = <<<HTMLBLOCK
-<script src="https://maps.googleapis.com/maps/api/js?key=****&amp;sensor=true"></script>
 <script src="{$url}js/map_script.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=****&amp&loading=async&callback=choughsNestMap"></script>
 HTMLBLOCK;
 
 
@@ -69,8 +69,8 @@ HTMLBLOCK;
 	$pages = array(
 			array(	"pageURL" 		=> "",
 					"pagetitle"		=> "",
-					"pagedesc"		=> "Chough's Nest Hotel - BOOK DIRECT for your stay in Lynton &amp; Lynmouth. The hotel has stunning sea views in a prime location for exploring North Devon. Family-run Bed and breakfast accommodation. Exmoor Short Break Special offers available. Best Price Guarantee",
-					"keywords"		=> "hotel, bed and breakfast, accommodation, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
+					"pagedesc"		=> "Chough's Nest Hotel - BOOK DIRECT for your stay in Lynton &amp; Lynmouth. The hotel has stunning sea views in a prime location for exploring North Devon &amp; Exmoor. Family-run hotel offering dinner, bed and breakfast accommodation. Exmoor Break Special offers available.",
+					"keywords"		=> "hotel, bed and breakfast, dinner, accommodation, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
 					"nav"			=> "Hotel")
   
 		  , array(	"pageURL" 		=> "rooms",
