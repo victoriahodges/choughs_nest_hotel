@@ -106,7 +106,7 @@
 					<hr class="short">
 					<h3>See the stunning views</h3>
 					<p>Located on the coast path, Chough's Nest Hotel is ideally placed for you to explore the incredible landscapes of Exmoor National Park.</p>
-					<a class="button w3-margin-top" href="[@URL]things-to-see-and-do">Explore</a>
+					<a class="button w3-margin-top" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">Explore</a>
 					
 					<div class="corner top-right-corner champagne-bg"></div>
 					<div class="corner top-left-corner champagne-bg"></div>
