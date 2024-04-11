@@ -23,27 +23,38 @@
 		<div class="content">
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col s12 w3-margin-bottom">
-					<p>We reserve the right to alter these booking terms, any hotel prices and tariffs without prior notice (updated January 2024).</p>
+					<p>We reserve the right to alter these booking terms and any hotel prices and tariffs without prior notice.<br>(updated January 2024)</p>
 
 
-				<h2>Deposits</h2>
-				<p>When making a reservation we will require a non-refundable deposit of <strong>&pound;15.00</strong> per person, per night.
-				This will be taken from a valid Credit or Debit Card at the time of booking and we will confirm your reservation via email.</p>
-				<p>If you are <strong>booking online</strong> then a payment of 30% of the total booking amount will be taken as a deposit to
-				secure your reservation, unless otherwise stated.</p>
-				<hr />
+				<h2>Booking &amp; Payments </h2>
+				<p>We are unable to accept "provisional bookings" or hold rooms without a written confirmation. All bookings must be confirmed via email.</p>
+				<p>You will be charged in the local currency of the hotel (GBP). All prices include Value Added Tax.</p>
 				
-				<h2>Access Statement</h2>
-				<p>For information on accessibility, please read our Access Statement.</p>
+				<h3>Direct Bookings</h3>
+				<p>When making a hotel room reservation either by telephone or online via our website booking system, we will require details of a valid Debit or Credit Card at the time
+				of booking and we will confirm your	reservation via email.</p>
 
-				<p><a href="[@URL]accessibility" class="button button-iris">View Access Statement</a></p>
+				<h3>Third-Party Bookings</h3>
+				<p>If you have reserved a hotel room and made payment via a third-party booking provider or online travel agent (OTA) you must contact them regarding your booking.</p>
+
+				<h3>Deposits</h3>
+				<p>We do not take any payment in the form of a deposit prior to your arrival, therefore <strong>the total amount due</strong> will be presented in your room bill
+				on departure.</p>
+
+				<h3>Payments</h3>
+				<p>All accounts and any invoices are due for settlement on the day of departure. We accept payment by cash, or
+				via a valid Debit or Credit Card.</p>
+				<p>We <strong>do not</strong> accept payment by Amex, Diners, Business Cheque or Personal Cheque.</p>
 				<hr />
 				
 				<h2>Cancellation</h2>
 				<h3>Direct Bookings</h3>
-				<p>If you booked direct with Chough's Nest, then we allow a cancellation of your reservation within <strong>21 days</strong>
-				of the date of arrival. Cancellation within <strong>21 days</strong> can incur a charge up to the full cost of the reservation
-				in the event of us being unable to re-sell the accommodation.</p>
+				<p>If you booked direct with Chough's Nest Hotel, then we allow <strong>free cancellation</strong> of your reservation up to <strong>21 days</strong> before
+				the date of arrival.</p>
+
+				<p>Cancellation within <strong>21 days</strong> before the date of arrival can incur a charge up to the full cost of the reservation
+				in the event of us being unable to re-sell the accommodation. Failure to check-in, or 'no-show' bookings, will incur the full cost of the reservation.</p>
+
 				<p>If you need to change or cancel your reservation, you must telephone the hotel directly on <strong><a href="tel:+441598753315">01598 753 315</a></strong>.
 				We are unable to accept any changes to bookings or cancellations made by email as they can be lost or missed.</p>
 
@@ -52,11 +63,10 @@
 				third-party provider or booking agent you used and is subject to their terms and conditions or cancellation policies.</p>
 				<hr />
 				
-				<h2>Booking &amp; Payments </h2>
-				<p>Please note we are unable to accept "provisional bookings", all bookings must be confirmed via email.</p>
-				<p>You will be charged in the local currency of the hotel (GBP). All prices include Value Added Tax.</p>
-				<p>All accounts and any invoices are due for settlement on the day of departure. We accept payment by cash, 
-				a valid debit or credit card. We <strong>do not</strong> accept payment by Amex, Diners, Business Cheque or Personal Cheque.</p>
+				<h2>Access Statement</h2>
+				<p>For information on accessibility, please read our Access Statement.</p>
+
+				<p><a href="[@URL]accessibility" class="button button-iris">View Access Statement</a></p>
 				<hr />
 
 				<h2>Holiday Insurance</h2>
@@ -68,17 +78,25 @@
 				<p>The hotel car park has one allocated parking space per room and these are available on a first-come, first-serve basis.
 				We recommend guests reverse into a space and leave their registration number with reception so that vehicles can be identified.
 				If you bring an additional car, you will need to park it on the road along North Walk.</p>
-				<p>The carpark is fully flood-lit at night. Guest vehicles and personal belongings are left entirely at their own risk.</p>
+				<p>The car park is fully flood-lit at night. Guest vehicles and personal belongings are left entirely at their own risk.</p>
 				<hr />
 
 				<h2>Check-in &amp; Check-Out Times</h2>
 				<p>Normal check-in time is from <strong>2:00pm</strong> on the day of arrival.</p>
 				<p>Should you require access to your room before 2:00pm (i.e. you are attending a wedding or event) please 
 				telephone <a href="tel:+441598753315">01598 753 315</a> to advise us of your time of arrival and we will endeavour to oblige.</p>
-				<p>We require guests to vacate their bedrooms by <strong>10.30am</strong> on the day of their departure.</p>
+				<p>We require guests to vacate their bedrooms by <strong>10:30am</strong> on the day of their departure.<br>
+				Please remember to return your room key to reception on departure.</p>
 				<hr />
 
-				<h2>Children &amp; Pets </h2>
+				<h2>Dinner</h2>
+				<p>The hotel provides dinners to guests from Friday to Tuesday. <strong>We do not serve dinners on Wednesday or Thursday.</strong></p>
+				<p><strong>Booking is essential.</strong> Pre-order of your meal is required before 5:00pm.</p>
+				<p>Please call us on <strong><a href="tel:+441598753315">01598 753 315</a></strong> if you require
+				an evening meal	on the first night of your stay.</p>
+				<hr />
+
+				<h2>Children &amp; Pets</h2>
 				<p>The hotel is unsuitable for children under <strong>12 years of age</strong>.</p>
 				<p>We regret that we do not accept <strong>any pets</strong>.</p>
 				<hr />
@@ -114,12 +132,12 @@
 				a form, login or interact with the site by doing something that goes beyond clicking on simple links.</p>
 				<p>We also use some non-essential cookies to anonymously track visitors to enhance your experience of the site. To control third party cookies, 
 				you can adjust your browser settings.</p>
-				<p>By using our website you accept the terms of our Privacy Policy.</p>
+				<p>By using our website you accept the terms of this Privacy Policy.</p>
 
 				<h3>Website Information</h3>
 
 				<p>While all reasonable efforts have been taken to ensure the accuracy of the information on the website, we do not accept any responsibility
-				for errors or omissions and reserve the right to amend, cancel or vary any of the arrangements features on the websites without notice.</p>
+				for errors or omissions and reserve the right to amend, cancel or vary any of the arrangements or features of the website without notice.</p>
 					
 				<p>Hyperlinks to third party websites are provided for your convenience. We cannot accept responsibility for the content of third party sites.</p>
 				</div>
