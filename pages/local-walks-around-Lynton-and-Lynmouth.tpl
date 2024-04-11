@@ -14,9 +14,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Walks &amp; Trails</h1>
-					</span>
+					<h1><span>Walks &amp; Trails</span></h1>
 				</div>
 			</div>
 		</div>
@@ -46,14 +44,14 @@
 							Iron Age hill fort and admire the spectacular views.</p>
 							<p></p>
 							<div class="rest_contact">
-								<p><strong>Difficulty:</strong> Easy<br />
+								<p><strong>Difficulty:</strong> Easy<br>
 								<strong>Start location:</strong> Town Hall, Lynton, EX35 6HW<br>
 								<a href="https://visitlyntonandlynmouth.com/visit/hollerday-hill/" target="_blank">visitlyntonandlynmouth.com/visit/hollerday-hill</a></p>
 								<p><a class="button button-iris" href="https://www.visitlyntonandlynmouth.com/downloads/VLL-Hollerday-Hill.pdf" target="_blank">Download walk leaflet</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-hollerday-hill.jpg" alt="Hollerday Hill walk, North Devon"/>
+							<img src="[@URL]images/walks/walk-leaflet-on-hollerday-hill.jpg" alt="Hollerday Hill walk, North Devon">
 						</div>
 					</div>
 				</div>
@@ -68,14 +66,14 @@
 							with is wonderful views high above the valley and across the Bristol Channel.
 							</p>
 							<div class="rest_contact">
-								<p><strong>Difficulty:</strong> Easy - Medium<br />
+								<p><strong>Difficulty:</strong> Easy - Medium<br>
 								<strong>Start location:</strong> Cliff Railway, Lynton, EX35 6HW<br>
 								<a href="https://visitlyntonandlynmouth.com/visit/valley-of-rocks/" target="_blank">visitlyntonandlynmouth.com/visit/valley-of-rocks</a></p>
 								<p><a class="button button-iris" href="https://www.visitlyntonandlynmouth.com/downloads/VLL-Valley-of-Rocks.pdf" target="_blank">Download walk leaflet</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-valley-of-rocks.jpg" alt="The Valley of Rocks in Exmoor" />
+							<img src="[@URL]images/walks/walk-leaflet-on-valley-of-rocks.jpg" alt="The Valley of Rocks in Exmoor">
 						</div>
 					</div>
 				</div>
@@ -90,14 +88,14 @@
 							climb up to the Myrtleberry Hill Fort and along the Lyn Cleave back to Lynton.
 							</p>
 							<div class="rest_contact">
-								<p><strong>Difficulty:</strong> Easy - Medium<br />
+								<p><strong>Difficulty:</strong> Easy - Medium<br>
 								<strong>Start location:</strong> The Esplanade, Lynmouth, EX35 6EQ<br>
 								<a href="https://visitlyntonandlynmouth.com/visit/watersmeet/" target="_blank">visitlyntonandlynmouth.com/visit/watersmeet</a></p>
 								<p><a class="button button-iris" href="https://www.visitlyntonandlynmouth.com/downloads/VLL-Watersmeet.pdf" target="_blank">Download walk leaflet</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walk-leaflet-on-watersmeet.jpg" alt="Watersmeet House walk in Devon" />
+							<img src="[@URL]images/walks/walk-leaflet-on-watersmeet.jpg" alt="Watersmeet House walk in Devon">
 						</div>
 					</div>
 				</div>
@@ -118,13 +116,13 @@
 							<p>This walk follows the South West Coast Path from Porlock Weir to County Gate, or further onto Lynmouth and visits 
 							one of England's smallest churches at Culbone.</p>
 							<div class="rest_contact">
-								<p><strong>Difficulty:</strong> Hard (long/steep climbs)<br />
-								<strong>Start location:</strong> Porlock Weir, Somerset, TA24 8PB<br />
+								<p><strong>Difficulty:</strong> Hard (long/steep climbs)<br>
+								<strong>Start location:</strong> Porlock Weir, Somerset, TA24 8PB<br>
 								<a href="https://visitlyntonandlynmouth.com/visit/porlock-weir-to-lynmouth/" target="_blank">visitlyntonandlynmouth.com/visit/porlock-weir-to-lynmouth/</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/porlock_weir.jpg" alt="Porlock Weir walk to Lynmouth" />
+							<img src="[@URL]images/walks/porlock_weir.jpg" alt="Porlock Weir walk to Lynmouth">
 						</div>
 					</div>
 				</div>
@@ -139,12 +137,12 @@
 							walk towards Watersmeet and Foreland Point with views over the sea.</p>
 							<p>Facilities include a tea room, book shop, car park and public toilets.</p>
 							<div class="rest_contact">
-								<p><strong>Location:</strong> Malmsmead, Devon, EX35 6NU<br />
+								<p><strong>Location:</strong> Malmsmead, Devon, EX35 6NU<br>
 								<a href="https://www.nationaltrust.org.uk/visit/devon/lorna-doone-valley" target="_blank">www.nationaltrust.org.uk/visit/devon/lorna-doone-valley</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/lorna_doone_valley.jpg" alt="The Lorna Doone Valley in Exmoor" />
+							<img src="[@URL]images/walks/lorna_doone_valley.jpg" alt="The Lorna Doone Valley in Exmoor">
 						</div>
 					</div>
 				</div>
@@ -157,12 +155,12 @@
 							explore further east along coast paths to Woody Bay, a quiet and wooded cove with spectacular views over the Bristol Channel. </p>
 							<p>Facilities include the Hunter's Inn pub, car park and public toilets.</p>
 							<div class="rest_contact">
-								<p><strong>Location:</strong> Near Parracombe, Devon, EX31 4PY<br />
+								<p><strong>Location:</strong> Near Parracombe, Devon, EX31 4PY<br>
 								<a href="https://www.nationaltrust.org.uk/visit/devon/heddon-valley" target="_blank">www.nationaltrust.org.uk/visit/devon/heddon-valley</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/heddon_valley.jpg" alt="Heddon Valley North Devon" />
+							<img src="[@URL]images/walks/heddon_valley.jpg" alt="Heddon Valley North Devon">
 						</div>
 					</div>
 				</div>
@@ -175,13 +173,13 @@
 							<p>A short circular walk leads from the car park across the bridge and along both banks of the river.</p>
 							<div class="rest_contact">
 
-								<p><strong>Difficulty:</strong> Easy<br />
-								<strong>Start location:</strong> Dulverton, Somerset, TA22 9PY<br />
+								<p><strong>Difficulty:</strong> Easy<br>
+								<strong>Start location:</strong> Dulverton, Somerset, TA22 9PY<br>
 								<a href="https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/things-to-do/tarr-steps" target="_blank">www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/things-to-do/tarr-steps</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/tarr_steps_exmoor.jpg" alt="The Tarr Steps Exmoor" />
+							<img src="[@URL]images/walks/tarr_steps_exmoor.jpg" alt="The Tarr Steps Exmoor">
 						</div>
 					</div>
 				</div>
@@ -194,12 +192,12 @@
 							<p>It has stunning coastal views, overlooking Croyde Bay, one of the best surfing beaches in North Devon.</p>
 							<p>Facilities include a tea rooms, car park and public toilets.</p>
 							<div class="rest_contact">
-								<p><strong>Location:</strong> Croyde, Devon, EX33 1PA<br />
+								<p><strong>Location:</strong> Croyde, Devon, EX33 1PA<br>
 								<a href="https://www.nationaltrust.org.uk/visit/devon/baggy-point" target="_blank">www.nationaltrust.org.uk/visit/devon/baggy-point</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/view-croyde-bay-baggy-point.jpg" alt="Baggy Point near Croyde Devon" />
+							<img src="[@URL]images/walks/view-croyde-bay-baggy-point.jpg" alt="Baggy Point near Croyde Devon">
 						</div>
 					</div>
 				</div>
@@ -228,7 +226,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/south_west_coast_path_valley_of_rocks_credit_ENPA.jpg" alt="South West Coast Path at the Valley of Rocks" />
+							<img src="[@URL]images/walks/south_west_coast_path_valley_of_rocks_credit_ENPA.jpg" alt="South West Coast Path at the Valley of Rocks">
 						</div>
 					</div>
 				</div>
@@ -245,7 +243,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/tarka_trail_devon_tarka_the_otter.jpg" alt="The Tarka Trail named after Tarka the Otter" />
+							<img src="[@URL]images/walks/tarka_trail_devon_tarka_the_otter.jpg" alt="The Tarka Trail named after Tarka the Otter">
 						</div>
 					</div>
 				</div>
@@ -263,7 +261,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/two_moors_way_east_lyn_river_valley_lynmouth.jpg" alt="The Two Moors Way at Lynmouth" />
+							<img src="[@URL]images/walks/two_moors_way_east_lyn_river_valley_lynmouth.jpg" alt="The Two Moors Way at Lynmouth">
 						</div>
 					</div>
 				</div>
@@ -280,7 +278,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/walks/walker_statue_coleridge_way_lynmouth.jpg" alt="The Walker Statue on the Coleridge Way Lynmouth Devon" />
+							<img src="[@URL]images/walks/walker_statue_coleridge_way_lynmouth.jpg" alt="The Walker Statue on the Coleridge Way Lynmouth Devon">
 						</div>
 					</div>
 				</div>
@@ -294,7 +292,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden" />
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>
@@ -306,7 +304,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -318,7 +316,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth, view from Countisbury" />
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth, view from Countisbury">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>

@@ -12,9 +12,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Accessibility</h1>
-					</span>
+					<h1><span>Accessibility</span></h1>
 				</div>
 			</div>
 		</div>
@@ -28,7 +26,7 @@
 
 					<h3>Location</h3>
 					<p>Chough's Nest Hotel is located on North Walk in Lynton on the north coast of Devon.</p>
-					North Walk is a narrow, single-carriage lane accessed via North Walk Hill, which is also narrow, single-carriage and has a steep incline 
+					<p>North Walk is a narrow, single-carriage lane accessed via North Walk Hill, which is also narrow, single-carriage and has a steep incline 
 					leading from Lynton town centre.</p>
 					<p>Lynton is situated at an elevation of approximately 500 feet (152 metres) above sea level. The surrounding area is hilly and includes
 					a number of steep paths and roads, most notably Lynmouth Hill and Countisbury Hill both 1:4 (25%) gradients in places.

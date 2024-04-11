@@ -13,9 +13,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Dining at Chough's Nest</h1>
-					</span>
+					<h1><span>Dining at Chough's Nest</span></h1>
 				</div>
 			</div>
 		</div>

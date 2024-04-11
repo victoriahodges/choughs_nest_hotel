@@ -12,9 +12,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Photo Gallery</h1>
-					</span>
+					<h1><span>Photo Gallery</span></h1>
 				</div>
 			</div>
 		</div>
@@ -81,7 +79,7 @@
 	<div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
 	<span class="w3-button w3-xlarge w3-display-topright iris-bg floral-white-text">&times;</span>
 	<div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
-		<img id="img01" class="w3-image">
+		<img id="img01"  src="[@URL]images/hotel_front.jpg" alt="Chough's Nest Hotel, Lynton &amp; Lynmouth, Devon">
 		<p id="caption" class="floral-white-text iris-bg w3-padding"></p>
 	</div>
 	</div>

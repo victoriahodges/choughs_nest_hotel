@@ -5,24 +5,24 @@
 <!--[if gt IE 8]><!--><html lang="en-GB"><!--<![endif]-->
 <head>
 <!-- Basic Page Needs -->
-	<meta charset="utf-8"/>
+	<meta charset="utf-8">
 
 	<title>[@title]Chough's Nest Hotel | Book Direct for your stay in Lynton &amp; Lynmouth</title>
-	<meta name="description" content="[@description]" />
+	<meta name="description" content="[@description]">
 	<meta name="keywords" content="[@keywords]">
-	<meta name="author" content="Victoria Hodges Web Design" />
+	<meta name="author" content="Victoria Hodges Web Design">
 
 <!-- CSS -->
-	<link rel="stylesheet" href="[@URL]css/w3.css" />
-	<link rel="stylesheet" href="[@URL]css/styles.css" />
-	<link rel="stylesheet" href="[@URL]css/datepicker.min.css" />
+	<link rel="stylesheet" href="[@URL]css/w3.css">
+	<link rel="stylesheet" href="[@URL]css/styles.css">
+	<link rel="stylesheet" href="[@URL]css/datepicker.min.css">
 
 <!-- Mobile Specific Metas -->
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 <!-- FAVICON -->	
-<link rel="shortcut icon" href="[@URL]favicon.ico" type="image/vnd.microsoft.icon" /> 
-<link rel="icon" href="[@URL]favicon.ico" type="image/vnd.microsoft.icon" /> 
+<link rel="shortcut icon" href="[@URL]favicon.ico" type="image/vnd.microsoft.icon"> 
+<link rel="icon" href="[@URL]favicon.ico" type="image/vnd.microsoft.icon"> 
 	
 <!-- FONT -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,9 +43,8 @@
 </script> -->
 
 
-	<span itemscope itemtype="https://schema.org/LocalBusiness"></span>
 
-	<!-- Sidebar/menu -->
+<!-- Sidebar/menu -->
 	<nav class="w3-sidebar w3-bar-block w3-collapse w3-top w3-center dark-iris-bg floral-white-text" 
 	style="z-index:3;width:300px;" id="mySidebar">
 		<div style="height: 100%; display: flex; flex-direction: column;">
@@ -58,32 +57,34 @@
 			</div>
 			<div class="social">
 				<a href="https://facebook.com/choughsnesthotel" target="_blank">
-					<img src="[@URL]images/icons/facebook.png" alt="Facebook" title="Follow us on Facebook" />
+					<img src="[@URL]images/icons/facebook.png" alt="Facebook" title="Follow us on Facebook">
 				</a>	
 				<a href="https://instagram.com/choughs_nest_lynton" target="_blank">
-					<img src="[@URL]images/icons/instagram.png" alt="Instagram" title="Follow us on Instagram" />
+					<img src="[@URL]images/icons/instagram.png" alt="Instagram" title="Follow us on Instagram">
 				</a>
 			</div>
-
+			
 			<div class="address w3-padding-top-32" style="margin-bottom: 64px;">
-				<img class="white-logo" src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" />
-				<span itemprop="name" style="display:none;">Chough's Nest Hotel</span>
+				<img class="white-logo" src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel">
 				<p>
-					<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-					<span itemprop="streetAddress">North Walk</span>, 
-					<span itemprop="addressLocality">Lynton</span><br />
-					<span itemprop="addressRegion">Devon</span>
-					<span itemprop="postalCode">EX35 6HJ</span></span>
-					<span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates" style="display:none;">
-					<span itemprop="latitude">51.23217</span>
-					<span itemprop="longitude">-3.837113</span></span>
+					<span itemscope itemtype="https://schema.org/LocalBusiness">
+						<span itemprop="name" style="display:none;">Chough's Nest Hotel</span>
+						<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+							<span itemprop="streetAddress">North Walk</span>, 
+							<span itemprop="addressLocality">Lynton</span><br>
+							<span itemprop="addressRegion">Devon</span>
+							<span itemprop="postalCode">EX35 6HJ</span>
+						</span>
+
+						<span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates" style="display:none;">
+							<span itemprop="latitude">51.23217</span>
+							<span itemprop="longitude">-3.837113</span>
+						</span>
+						<span itemprop="priceRange" style="display:none;">&pound; 90.00 - &pound; 130.00</span>
+						<br><br>
+						<span itemprop="telephone">Tel: <a href="tel:+441598753315">01598 753 315</a></span>
 					</span>
 				</p>
-
-				<p><span itemprop="telephone">Tel: <a href="tel:+441598753315">01598 753 315</a></span></p>
-				
-				
-				<span itemprop="priceRange" style="display:none;">&pound 90.00 - &pound 130.00</span>
 			</div>
 		</div>
 	</nav>
@@ -91,7 +92,7 @@
 	<!-- Top menu on small screens -->
 	<header class="w3-container w3-top w3-hide-xlarge dark-iris-bg w3-xlarge w3-padding-16" style="height:83px">
 		<span class="w3-left mobile-title-logo">
-			<a href="[@URL]"><img src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel" /></a>
+			<a href="[@URL]"><img src="[@URL]images/logo/logo_floralwhite.png" alt="Chough's Nest Hotel"></a>
 		</span>
 		<a href="javascript:void(0)" class="w3-display-right menu-button iris-bg floral-white-text" onclick="w3_open()">☰</a>
 	</header>
@@ -112,8 +113,8 @@
 				<form action="https://choughsnesthotel.us5.list-manage.com/subscribe/post?u=b53379aab6e62596dd6ff0b69&amp;id=fb9898de3b" method="post" 
 				id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 				<label class="dark-iris-text">SUBSCRIBE</label>
-					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter email address..." required /> 
-					<input class="button-iris" type="submit" value="Sign up" name="subscribe" id="mc-embedded-subscribe" />
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter email address..." required> 
+					<input class="button-iris" type="submit" value="Sign up" name="subscribe" id="mc-embedded-subscribe">
 				</form>
 			</div>
 			<div class="w3-row">

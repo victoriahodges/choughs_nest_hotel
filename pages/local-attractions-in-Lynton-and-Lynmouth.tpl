@@ -14,9 +14,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Lynton &amp; Lynmouth Attractions</h1>
-					</span>
+					<h1><span>Lynton &amp; Lynmouth Attractions</span></h1>
 				</div>
 			</div>
 		</div>
@@ -47,12 +45,12 @@
 							<p>The Lynton and Lynmouth Cliff Railway is open daily from 10:00am during the season. Check their website for more information 
 							on times and prices.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 8 minutes walk<br />
+								<p><strong>Distance:</strong> 8 minutes walk<br>
 								<a href="https://www.cliffrailwaylynton.co.uk/" target="_blank">www.cliffrailwaylynton.co.uk</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
+							<img class="rest_img box" src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway">
 						</div>
 					</div>
 				</div>
@@ -69,12 +67,12 @@
 							<p>Further afield there are wooded paths and coastal trails which carry on towards Lee Abbey, Woody Bay and the 
 							beautiful Heddon Valley.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 20 minutes walk<br />
+								<p><strong>Distance:</strong> 20 minutes walk<br>
 								<a href="https://visitlyntonandlynmouth.com/visit/valley-of-rocks/" target="_blank">visitlyntonandlynmouth.com/visit/valley-of-rocks</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/valley_of_rocks.jpg" alt="The Valley of Rocks" />
+							<img class="rest_img box" src="[@URL]images/valley_of_rocks.jpg" alt="The Valley of Rocks">
 						</div>
 					</div>
 				</div>
@@ -89,12 +87,12 @@
 							<p>Make a night out in Lynton special with a trip to the cinema after a meal in one of our local restaurants.</p>
 							<p>There are usually two daily screenings during the summer months. Check their website for the latest films and times.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 10 minutes walk<br />
+								<p><strong>Distance:</strong> 10 minutes walk<br>
 								<a href="http://lyntoncinema.co.uk" target="_blank">lyntoncinema.co.uk</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/lynton_cinema.jpg" alt="Lynton Cinema" />
+							<img class="rest_img box" src="[@URL]images/attractions/lynton_cinema.jpg" alt="Lynton Cinema">
 						</div>
 					</div>
 				</div>
@@ -110,12 +108,12 @@
 							<p>Watersmeet Tea Rooms are open daily from 10:30am during the season. Check their website for more information 
 							on opening times and facilities.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 1 hour walk<br />
+								<p><strong>Distance:</strong> 1 hour walk<br>
 								<a href="https://www.nationaltrust.org.uk/visit/devon/watersmeet" target="_blank">www.nationaltrust.org.uk/visit/devon/watersmeet</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden" />
+							<img class="rest_img box" src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden">
 						</div>
 					</div>
 				</div>
@@ -129,12 +127,12 @@
 							<p>The Lyn &amp; Exmoor Museum is open Monday to Saturday from 11:00am during the season. Check their website for more information 
 							on times and prices.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 8 minutes walk<br />
+								<p><strong>Distance:</strong> 8 minutes walk<br>
 								<a href="https://www.devonmuseums.net/Lyn-and-Exmoor-Museum/Devon-Museums/" target="_blank">www.devonmuseums.net/Lyn-and-Exmoor-Museum/Devon-Museums</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/lyn_and_exmoor_museum.jpg" alt="The Lyn &amp; Exmoor Museum" />
+							<img class="rest_img box" src="[@URL]images/attractions/lyn_and_exmoor_museum.jpg" alt="The Lyn &amp; Exmoor Museum">
 						</div>
 					</div>
 				</div>
@@ -147,12 +145,12 @@
 							<p>Devon's most popular narrow-gauge railway, this heritage attraction offers visitors a unique train ride experience. </p>
 							<p>The Lynton and Barnstaple Railway is open almost daily during the season. Check their website for timetables and prices.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 10 minutes drive or travel by the 309/310 bus towards Barnstaple<br />
+								<p><strong>Distance:</strong> 10 minutes drive or travel by the 309/310 bus towards Barnstaple<br>
 								<a href="https://www.lynton-rail.co.uk/" target="_blank">www.lynton-rail.co.uk</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/woody_bay_train_station.jpg" alt="Lynton &amp; Barnstaple Railway Woody Bay Station" />
+							<img class="rest_img box" src="[@URL]images/attractions/woody_bay_train_station.jpg" alt="Lynton &amp; Barnstaple Railway Woody Bay Station">
 						</div>
 					</div>
 				</div>
@@ -166,12 +164,12 @@
 							<p>Play a round on the 36-hole course, the only one in the South West! A kiosk offers refreshments and there
 							is a tennis court too.</p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 15 minutes walk<br />
+								<p><strong>Distance:</strong> 15 minutes walk<br>
 								<a href="https://www.holein1lynmouth.co.uk/" target="_blank">www.holein1lynmouth.co.uk</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/hole_in_1_lynmouth_putting_green.jpg" alt="Hole in 1 - Lynmouth Putting Green" />
+							<img class="rest_img box" src="[@URL]images/attractions/hole_in_1_lynmouth_putting_green.jpg" alt="Hole in 1 - Lynmouth Putting Green">
 						</div>
 					</div>
 				</div>
@@ -190,12 +188,12 @@
 							</p>
 							<p><strong>Booking in advance is essential.</strong></p>
 							<div class="rest_contact">
-								<p><strong>Distance:</strong> 10 minute drive<br />
+								<p><strong>Distance:</strong> 10 minute drive<br>
 								<a href="https://westilkerton.co.uk/farm-tours" target="_blank">westilkerton.co.uk/farm-tours</a></p>
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img class="rest_img box" src="[@URL]images/attractions/west_ilkerton_farm_tours.jpg" alt="West Ilkerton Farm tractor tours" />
+							<img class="rest_img box" src="[@URL]images/attractions/west_ilkerton_farm_tours.jpg" alt="West Ilkerton Farm tractor tours">
 						</div>
 					</div>
 				</div>
@@ -213,7 +211,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton &amp; Lynmouth" />
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton &amp; Lynmouth">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>
@@ -225,7 +223,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Lynton &amp; Lynmouth, North Devon" />
+						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Lynton &amp; Lynmouth, North Devon">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
@@ -237,7 +235,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Rooms" />
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Rooms">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>

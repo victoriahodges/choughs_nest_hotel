@@ -14,9 +14,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Lynton &amp; Lynmouth</h1>
-					</span>
+					<h1><span>Lynton &amp; Lynmouth</span></h1>
 				</div>
 			</div>
 		</div>
@@ -35,7 +33,7 @@
 			Exmoor and visiting North Devon's golden beaches and top attractions.</p>
 		</div>
 		<div class="w3-col s12 l6 feature-card-image">
-			<img src="[@URL]images/lynmouth.jpg" alt="View of Lynmouth and Lyn River" />
+			<img src="[@URL]images/lynmouth.jpg" alt="View of Lynmouth and Lyn River">
 		</div>
 	</div>
 	
@@ -44,7 +42,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway, Devon" />
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway, Devon">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -56,7 +54,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Walks around Lynton &amp; Lynmouth" />
+						<img src="[@URL]images/walking_boots.jpg" alt="Walks around Lynton &amp; Lynmouth">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
@@ -68,7 +66,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet House and Tea Garden" />
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet House and Tea Garden">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>

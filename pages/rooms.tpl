@@ -13,9 +13,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Our Rooms</h1>
-					</span>
+<h1><span>Our Rooms</span></h1>
 				</div>
 			</div>
 		</div>
@@ -73,7 +71,7 @@
 			</div>
 		</div>
 
-		<div id="section_links" class="w3-row">
+		<div id="section_links_icons" class="w3-row">
 			<div class="link half-width">
 				<img class="link-image" src="[@URL]images/icons/desk-bell.png" alt="Check-in at Chough's Nest Hotel">
 				<div class="link-text">
@@ -96,7 +94,7 @@
 	<div id="view-hotel-rooms" class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/room_2.jpg" alt="Four poster Nest bedroom "/>
+				<img src="[@URL]images/room_2.jpg" alt="Four poster Nest bedroom ">
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -119,7 +117,7 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image" >
-				<img src="[@URL]images/room_1.jpg" alt="Superior hotel bedroom"/>
+				<img src="[@URL]images/room_1.jpg" alt="Superior hotel bedroom">
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -142,7 +140,7 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/room_8.jpg" alt="Classic hotel double bedroom" />
+				<img src="[@URL]images/room_8.jpg" alt="Classic hotel double bedroom">
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">

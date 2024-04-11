@@ -88,11 +88,7 @@ gap: 28px;
     position: relative;
     height: 5px;
     border-bottom: 1px solid #C5A359;
-    width: 30%;
-}
-.fancy.short span:before,
-.fancy.short span:after {
-    width: 3.5em;
+    width: 15%;
 }
 .fancy.welcome span::before,
 .fancy.welcome span::after {
@@ -101,14 +97,8 @@ gap: 28px;
 .fancy.page-title span::before,
 .fancy.page-title span::after {
     align-self:center;
-    margin-bottom: 2em;
     flex-grow: 1;
     flex: none;
-}
-
-@media (min-width:769px){
-    .fancy.short span:before,
-    .fancy.short span:after {width: 8em;}
 }
 
 hr {
@@ -171,7 +161,6 @@ hr.short {
     height:100%;
     width:100%;
     border: solid 2px #C5A359;
-    border-radius: 5px -5px 5px 5px;
     padding: 40px 30px;
     display: flex;
     flex-direction: column;
@@ -212,13 +201,13 @@ img {max-width: 100%; }
 
 nav .white-logo {width: 75%; margin: 4px 0;}
 
-#section_links .link-image {
+#section_links_icons .link-image {
     display: block;
     margin: 0 auto 16px;
     width: 96px;
 }
 @media (min-width:480px){
-    #section_links .link-image {
+    #section_links_icons .link-image {
         float: left;
         width: 128px;
     }
@@ -609,7 +598,7 @@ font-weight: normal; }
     margin: 32px -16px;
 }
 
-#section_links {
+#section_links, #section_links_icons {
     width: 95%;
     margin: 24px auto 24px;
     padding: 0 24px
@@ -620,9 +609,13 @@ font-weight: normal; }
 }
 #section_links div:last-child {border-bottom: none;}
 
-#section_links .link-text {text-align: center;}
+#section_links .link-text,
+#section_links_icons .link-text {
+    text-align: center;
+}
 @media (min-width:480px) {
-    #section_links .link-text {
+    #section_links .link-text,
+    #section_links_icons .link-text {
         margin-left: calc(10% + 128px); min-height: 144px; /* image height 128px */
         text-align: left;
     }
@@ -630,27 +623,30 @@ font-weight: normal; }
 @media (min-width:850px) {
     .special-offer, .sample-dinner-menu {width: 90%; margin: 32px auto;}
 
-    #section_links {
+    #section_links, #section_links_icons {
         width: 90%;
         margin: 50px auto 60px;
         padding: 0;
         display: table;
     }
-    #section_links .link {
+    #section_links .link,
+    #section_links_icons .link {
         border-right: 1px solid #C5A359;
         border-bottom: none;
         padding: 20px 36px 0;
         display:table-cell;
         vertical-align: top;
     }
-    #section_links .half-width {width:49.99999%;}
-    #section_links .half-width:first-child {padding-left: 0;}
-    #section_links .half-width:last-child {padding-right: 0;}
-    #section_links div:last-child {border-right: none;}
+    #section_links .half-width, #section_links_icons .half-width {width:49.99999%;}
+    #section_links .half-width:first-child, #section_links_icons .half-width:first-child {padding-left: 0;}
+    #section_links .half-width:last-child,#section_links_icons .half-width:last-child  {padding-right: 0;}
+    #section_links div:last-child, #section_links_icons div:last-child {border-right: none;}
 }
 
 @media (min-width:1366px) {
     .special-offer, .sample-dinner-menu {width: 80%;}
-    #section_links {width: 80%;}
+    #section_links, #section_links_icons {width: 80%;}
     #section_links .link { padding: 20px 50px 0;}
 }
+
+.qbook-compare-max-main {border: 3px solid #A6843A!important}

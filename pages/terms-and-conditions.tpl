@@ -12,9 +12,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Booking Terms</h1>
-					</span>
+					<h1><span>Booking Terms</span></h1>
 				</div>
 			</div>
 		</div>
@@ -45,7 +43,7 @@
 				<p>All accounts and any invoices are due for settlement on the day of departure. We accept payment by cash, or
 				via a valid Debit or Credit Card.</p>
 				<p>We <strong>do not</strong> accept payment by Amex, Diners, Business Cheque or Personal Cheque.</p>
-				<hr />
+				<hr>
 				
 				<h2>Cancellation</h2>
 				<h3>Direct Bookings</h3>
@@ -61,25 +59,25 @@
 				<h3>Third-Party Bookings</h3>
 				<p>Bookings made via a third-party booking provider or online travel agent (OTA) can <strong>only</strong> be cancelled through the
 				third-party provider or booking agent you used and is subject to their terms and conditions or cancellation policies.</p>
-				<hr />
+				<hr>
 				
 				<h2>Access Statement</h2>
 				<p>For information on accessibility, please read our Access Statement.</p>
 
 				<p><a href="[@URL]accessibility" class="button button-iris">View Access Statement</a></p>
-				<hr />
+				<hr>
 
 				<h2>Holiday Insurance</h2>
 				<p>It is strongly recommended that you take out adequate holiday insurance. This is to safe-guard against loss in the event of sickness,
 				ill-health or any other unforeseen circumstances which may result in you having to cancel your holiday with us.</p>
-				<hr />
+				<hr>
 				
 				<h2>Parking</h2>
 				<p>The hotel car park has one allocated parking space per room and these are available on a first-come, first-serve basis.
 				We recommend guests reverse into a space and leave their registration number with reception so that vehicles can be identified.
 				If you bring an additional car, you will need to park it on the road along North Walk.</p>
 				<p>The car park is fully flood-lit at night. Guest vehicles and personal belongings are left entirely at their own risk.</p>
-				<hr />
+				<hr>
 
 				<h2>Check-in &amp; Check-Out Times</h2>
 				<p>Normal check-in time is from <strong>2:00pm</strong> on the day of arrival.</p>
@@ -87,26 +85,26 @@
 				telephone <a href="tel:+441598753315">01598 753 315</a> to advise us of your time of arrival and we will endeavour to oblige.</p>
 				<p>We require guests to vacate their bedrooms by <strong>10:30am</strong> on the day of their departure.<br>
 				Please remember to return your room key to reception on departure.</p>
-				<hr />
+				<hr>
 
 				<h2>Dinner</h2>
 				<p>The hotel provides dinners to guests from Friday to Tuesday. <strong>We do not serve dinners on Wednesday or Thursday.</strong></p>
 				<p><strong>Booking is essential.</strong> Pre-order of your meal is required before 5:00pm.</p>
 				<p>Please call us on <strong><a href="tel:+441598753315">01598 753 315</a></strong> if you require
 				an evening meal	on the first night of your stay.</p>
-				<hr />
+				<hr>
 
 				<h2>Children &amp; Pets</h2>
 				<p>The hotel is unsuitable for children under <strong>12 years of age</strong>.</p>
 				<p>We regret that we do not accept <strong>any pets</strong>.</p>
-				<hr />
+				<hr>
 
 				<h2>Smoking, Vaping and E-Cigarettes</h2>
 				<p>Chough's Nest Hotel is a non-smoking establishment. It is against the law to smoke within the hotel bedrooms, hallways and public areas, 
 				however guests may smoke or vape on the terrace located outside of the hotel building.</p>
 				<p>Due to the sensitivity of the hotel's fire alarms, vaping is not permitted within the hotel.</p>
 				<p>Please dispose of cigarettes and e-cigarettes, containing batteries, responsibly.</p>
-				<hr />				
+				<hr>				
 					
 				<h2>Conditions of Stay</h2>
 				<h3>Damage</h3>
@@ -118,7 +116,7 @@
 				<p> We reserve the right to terminate your booking immediately without being liable for any refund or compensation, and 
 				refuse accommodation or service to you, where you engage
 				in unacceptable behaviour that causes a disturbance or nuisance to our other guests.</p>
-				<hr />
+				<hr>
 				
 				<div id="privacy-policy">
 				<h2>Data Protection &amp; Privacy Policy</h2>

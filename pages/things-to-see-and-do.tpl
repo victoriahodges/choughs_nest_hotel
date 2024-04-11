@@ -14,9 +14,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Things To See &amp; Do</h1>
-					</span>
+					<h1><span>Things To See &amp; Do</span></h1>
 				</div>
 			</div>
 		</div>
@@ -52,7 +50,6 @@
 			<div class="w3-row grid-wrap w3-margin-top">
 				<div class="w3-col grid-col s12">
 					<h2>Attractions &amp; Activites</h2>
-					<p></p>
 				</div>
 			</div>
 			<div class="w3-row grid-wrap">
@@ -67,12 +64,12 @@
 								in Britain and makes for a great day out while staying at Chough's Nest.</p>
 								<p>Visit their website for information, prices and the latest timetables.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Minehead, Somerset, TA24 5BG<br />
+									<p><strong>Location:</strong> Minehead, Somerset, TA24 5BG<br>
 									<a href="https://www.west-somerset-railway.co.uk/" target="_blank">www.west-somerset-railway.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/west_somerset_railway.jpg" alt="The West Somerset Railway" />
+								<img class="rest_img box" src="[@URL]images/attractions/west_somerset_railway.jpg" alt="The West Somerset Railway">
 							</div>
 						</div>
 					</div>
@@ -89,12 +86,12 @@
 								visitor centre and the opportunity to purchase some luxury crystal in their factory shop.
 								</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Torrington, Devon, EX38 7AN<br />
+									<p><strong>Location:</strong> Torrington, Devon, EX38 7AN<br>
 									<a href="https://visitdartington.co.uk/" target="_blank">visitdartington.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/visit_dartington_crystal_factory.jpg" alt="Visit Dartington Crystal factory" />
+								<img class="rest_img box" src="[@URL]images/attractions/visit_dartington_crystal_factory.jpg" alt="Visit Dartington Crystal factory">
 							</div>
 						</div>
 					</div>
@@ -111,12 +108,12 @@
 								so call or email them to discuss requirements.
 								</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> across Exmoor<br />
+									<p><strong>Location:</strong> across Exmoor<br>
 									<a href="https://www.redstagsafari.co.uk/" target="_blank">www.redstagsafari.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor-safaris-red-stag.jpg" alt="Exmoor Red Stag Safaris" />
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor-safaris-red-stag.jpg" alt="Exmoor Red Stag Safaris">
 							</div>
 						</div>
 					</div>
@@ -133,12 +130,12 @@
 								</p>
 								<p>Opening times do vary, so please check their website and Facebook pages for news and times.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Hele, near Ilfracombe, North Devon, EX34 9QY<br />
+									<p><strong>Location:</strong> Hele, near Ilfracombe, North Devon, EX34 9QY<br>
 									<a href="https://www.helecornmill.com/" target="_blank">www.helecornmill.com</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/hele_corn_mill.jpg" alt="Hele corn mill in North Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/hele_corn_mill.jpg" alt="Hele corn mill in North Devon">
 							</div>
 						</div>
 					</div>
@@ -154,12 +151,12 @@
 								which focus on a variety of topics and subjects about their mammals, birds, reptiles and amphibians.</p>
 								<p>Visit their website for information on admission prices and events.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Bratton Fleming, North Devon, EX31 4SG<br />
+									<p><strong>Location:</strong> Bratton Fleming, North Devon, EX31 4SG<br>
 									<a href="https://www.exmoorzoo.co.uk/" target="_blank">www.exmoorzoo.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor_zoo.jpg" alt="Exmoor Zoo home of the exmoor beast" />
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor_zoo.jpg" alt="Exmoor Zoo home of the exmoor beast">
 							</div>
 						</div>
 					</div>
@@ -173,12 +170,12 @@
 								<p>Find your next Exmoor adventure with their range of mountain biking, kayaking, archery, paddleboarding activities and more...</p>
 								<p>Visit their website for the full list of activites and prices.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Porlock, Somerset, TA24 8PE<br />
+									<p><strong>Location:</strong> Porlock, Somerset, TA24 8PE<br>
 									<a href="https://exmooradventures.co.uk/" target="_blank">exmooradventures.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor_adventures.jpg" alt="Exmoor Adventures and bicycle hire" />
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor_adventures.jpg" alt="Exmoor Adventures and bicycle hire">
 							</div>
 						</div>
 					</div>
@@ -204,12 +201,12 @@
 								with demonstrations, tea rooms and gift shop.</p>
 								<p>For opening times and admission prices, visit the National Trust website.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Dunster, near Minehead, Somerset, TA24 6NY<br />
+									<p><strong>Location:</strong> Dunster, near Minehead, Somerset, TA24 6NY<br>
 									<a href="https://www.nationaltrust.org.uk/visit/somerset/dunster-castle-and-watermill" target="_blank">www.nationaltrust.org.uk/visit/somerset/dunster-castle-and-watermill</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/dunster-castle-somerset.jpg" alt="Dunster Castle and Watermill National Trust Exmoor" />
+								<img class="rest_img box" src="[@URL]images/attractions/dunster-castle-somerset.jpg" alt="Dunster Castle and Watermill National Trust Exmoor">
 							</div>
 						</div>
 					</div>
@@ -223,12 +220,12 @@
 								<p>The former home of the Chichester family, Arlington Court hosts a collection of treasures and curiosities
 								and with miles of trails and footpaths it is definitely worth a day of exploring.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Arlington, near Barnstaple, Devon, EX31 4LP<br />
+									<p><strong>Location:</strong> Arlington, near Barnstaple, Devon, EX31 4LP<br>
 									<a href="https://www.nationaltrust.org.uk/visit/devon/arlington-court-and-the-national-trust-carriage-museum" target="_blank">www.nationaltrust.org.uk/visit/devon/arlington-court-and-the-national-trust-carriage-museum</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/south-front-arlington-court-devon.jpg" alt="Arlington Court and National Trust Carriage Collection Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/south-front-arlington-court-devon.jpg" alt="Arlington Court and National Trust Carriage Collection Devon">
 							</div>
 						</div>
 					</div>
@@ -243,12 +240,12 @@
 								the year.
 								</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Clovelly, near Bideford, Devon, EX39 5TA<br />
+									<p><strong>Location:</strong> Clovelly, near Bideford, Devon, EX39 5TA<br>
 									<a href="https://www.clovelly.co.uk/" target="_blank">www.clovelly.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/clovelly_north_devon.jpg" alt="Clovelly Harbour, North Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/clovelly_north_devon.jpg" alt="Clovelly Harbour, North Devon">
 							</div>
 						</div>
 					</div>
@@ -263,12 +260,12 @@
 								With over 1200 plant species unique to Knightshayes.</p>
 								<p>For opening times and admission prices, visit the National Trust website.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong>  Tiverton, Devon, EX16 7RQ<br />
+									<p><strong>Location:</strong>  Tiverton, Devon, EX16 7RQ<br>
 									<a href="https://www.nationaltrust.org.uk/visit/devon/knightshayes" target="_blank">www.nationaltrust.org.uk/visit/devon/knightshayes</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/knightshayes_devon.jpg" alt="Knightshayes National Trust Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/knightshayes_devon.jpg" alt="Knightshayes National Trust Devon">
 							</div>
 						</div>
 					</div>
@@ -284,12 +281,12 @@
 								<p>There is 4000 years of human history to discover as well as rich and varied wildlife: puffins, seals, dolphins, Sika deer and more</p>
 								<p>To book day tickets, view timetables and fares, visit the website link below.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Lundy<br />
+									<p><strong>Location:</strong> Lundy<br>
 									<a href="https://www.landmarktrust.org.uk/lundyisland/day-trips/" target="_blank">www.landmarktrust.org.uk/lundyisland/day-trips</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/lundy_island.jpg" alt="Lundy Island and the MS Oldenburg" />
+								<img class="rest_img box" src="[@URL]images/attractions/lundy_island.jpg" alt="Lundy Island and the MS Oldenburg">
 							</div>
 						</div>
 					</div>
@@ -316,12 +313,12 @@
 								the gardens' 65 acres make for a glorious day out in Devon, blending formal and informal planting to magical effect.
 								</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Great Torrington, Devon, EX38 8PH<br />
+									<p><strong>Location:</strong> Great Torrington, Devon, EX38 8PH<br>
 									<a href="https://www.rhs.org.uk/gardens/rosemoor" target="_blank">www.rhs.org.uk/gardens/rosemoor</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/rhs_rosemoor_devon.jpg" alt="RHS Rosemoor Gardens Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/rhs_rosemoor_devon.jpg" alt="RHS Rosemoor Gardens Devon">
 							</div>
 						</div>
 					</div>
@@ -337,12 +334,12 @@
 								</p>
 
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Marwood, near Barnstaple, Devon, EX31 4EA<br />
+									<p><strong>Location:</strong> Marwood, near Barnstaple, Devon, EX31 4EA<br>
 									<a href="https://marwoodhillgarden.co.uk/" target="_blank">marwoodhillgarden.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/marwood_hill_gardens_devon.jpg" alt="Marwood Hill Gardens North Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/marwood_hill_gardens_devon.jpg" alt="Marwood Hill Gardens North Devon">
 							</div>
 						</div>
 					</div>
@@ -356,12 +353,12 @@
 								longest Camelia hedge and Magnolia Wood. Wander by the river to the Ugley Bridge then climb to the Castle for magnificent
 								views of Exmoor, Dartmoor and beyond.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Filleigh, near South Molton<br />
+									<p><strong>Location:</strong> Filleigh, near South Molton<br>
 									<a href="https://castlehilldevon.co.uk/gardens-castle-hill-devon/" target="_blank">castlehilldevon.co.uk/gardens-castle-hill-devon</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/castle_hill_gardens_devon.jpg" alt="Castle Hill Gardens North Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/castle_hill_gardens_devon.jpg" alt="Castle Hill Gardens North Devon">
 							</div>
 						</div>
 					</div>
@@ -374,12 +371,12 @@
 								extensive grounds through which to wander and enjoy.</p>
 								<p>The stunning valley leads down to the rugged Atlantic cove and cottage at Blackpool Mill, the location for many notable films.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Hartland, near Bideford, Devon, EX39 6DT<br />
+									<p><strong>Location:</strong> Hartland, near Bideford, Devon, EX39 6DT<br>
 									<a href="https://www.hartlandabbey.com/" target="_blank">www.hartlandabbey.com</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/hartland_abbey_gardens_north_devon.jpg" alt="Hartland Abbey and Gardens North Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/hartland_abbey_gardens_north_devon.jpg" alt="Hartland Abbey and Gardens North Devon">
 							</div>
 						</div>
 					</div>
@@ -416,7 +413,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/lynmouth_beach.jpg" alt="Eastern Beach in Lynmouth" />
+								<img class="rest_img box" src="[@URL]images/attractions/lynmouth_beach.jpg" alt="Eastern Beach in Lynmouth">
 							</div>
 						</div>
 					</div>
@@ -432,12 +429,12 @@
 								beach. The Lee Abbey Tea Cottage is open in the summer months offering food and refreshments.
 								</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Lee Abbey Estate, Lynton, EX35 6JL<br />
+									<p><strong>Location:</strong> Lee Abbey Estate, Lynton, EX35 6JL<br>
 									<a href="https://leeabbeydevon.org.uk/visit/tea-cottage/" target="_blank">leeabbeydevon.org.uk/visit/tea-cottage</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/lee_abbey_beach.jpg" alt="Lee Bay Beach near Valley of Rocks Lynton" />
+								<img class="rest_img box" src="[@URL]images/attractions/lee_abbey_beach.jpg" alt="Lee Bay Beach near Valley of Rocks Lynton">
 							</div>
 						</div>
 					</div>
@@ -446,19 +443,19 @@
 						<div class="w3-row grid-wrap ">
 							<div class="w3-col grid-col s12 m6 l7">
 								<h3>Woolacombe Beach</h3>
-								<p>Award-winning Woolacombe Beach is widely recognised as one of the best beaches in the UK.</p>
+								<p>Award-winning Woolacombe Beach is widely recognised as one of the best beaches in the UK.
 								Located on the North Devon coast, between Croyde and Ilfracombe, the 3-mile sandy beach is popular with 
 								surfers and those looking for a traditional seaside experience.
 								</p>
 								<p>Overlooked by the South West Coast Path and edged with sand dunes, Woolacombe Beach has superb
 								views to Lundy Island and  is renowned for its cleanliness, water quality and facilities.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Woolacombe, Devon, EX34 7DN<br />
+									<p><strong>Location:</strong> Woolacombe, Devon, EX34 7DN<br>
 									<a href="https://www.woolacombetourism.co.uk/" target="_blank">www.woolacombetourism.co.uk</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/woolacombe_beach_north_devon_gold_coast.jpg" alt="Woolacombe Beach North Devon" />
+								<img class="rest_img box" src="[@URL]images/attractions/woolacombe_beach_north_devon_gold_coast.jpg" alt="Woolacombe Beach North Devon">
 							</div>
 						</div>
 					</div>
@@ -473,12 +470,12 @@
 								<p>There is a large car park above the beach, for which there is a daily charge.
 								</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Putsborough, Devon EX33 1LB<br />
+									<p><strong>Location:</strong> Putsborough, Devon EX33 1LB<br>
 									<a href="https://www.woolacombetourism.co.uk/local-beaches" target="_blank">www.woolacombetourism.co.uk/local-beaches</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/putsborough_woolacombe_beach.jpg" alt="Putsborough Sands Woolacombe Beach" />
+								<img class="rest_img box" src="[@URL]images/attractions/putsborough_woolacombe_beach.jpg" alt="Putsborough Sands Woolacombe Beach">
 							</div>
 						</div>
 					</div>
@@ -493,12 +490,12 @@
 								to Baggy Point which offer spectacular views.</p>
 								<p>The village boasts a range of food outlets, toilets, shops and beach car park.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Croyde, Devon, EX33 1NZ<br />
+									<p><strong>Location:</strong> Croyde, Devon, EX33 1NZ<br>
 									<a href="https://www.visitdevon.co.uk/northdevon/listings-northdevon/croyde-beach/251255301/" target="_blank">www.visitdevon.co.uk/northdevon/listings-northdevon/croyde-beach</a></p>
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/croyde_bay.jpg" alt="Croyde Bay North Devon Gold coast" />
+								<img class="rest_img box" src="[@URL]images/attractions/croyde_bay.jpg" alt="Croyde Bay North Devon Gold coast">
 							</div>
 						</div>
 					</div>
@@ -519,7 +516,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/saunton_sands_braunton_burrows.jpg" alt="Saunton Sands Beach and Braunton Burrows" />
+								<img class="rest_img box" src="[@URL]images/attractions/saunton_sands_braunton_burrows.jpg" alt="Saunton Sands Beach and Braunton Burrows">
 							</div>
 						</div>
 					</div>
@@ -552,7 +549,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -564,7 +561,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Exmoor and North Devon" />
+						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Exmoor and North Devon">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
@@ -576,7 +573,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth from Countisbury" />
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth from Countisbury">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>

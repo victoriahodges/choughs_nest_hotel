@@ -12,9 +12,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Eating Out</h1>
-					</span>
+					<h1><span>Eating Out</span></h1>
 				</div>
 			</div>
 		</div>
@@ -47,7 +45,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_the_old_bank.jpg" alt="The Old Bank" />
+								<img src="[@URL]images/local_restaurants/restaurant_the_old_bank.jpg" alt="The Old Bank">
 							</div>
 						</div>
 					</div>
@@ -67,7 +65,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_the_crown_hotel.jpg" alt="The Crown Hotel" />
+								<img src="[@URL]images/local_restaurants/restaurant_the_crown_hotel.jpg" alt="The Crown Hotel">
 							</div>
 						</div>
 					</div>
@@ -86,7 +84,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_number_ten_lynton.jpg" alt="Number Ten Lynton" />
+								<img src="[@URL]images/local_restaurants/restaurant_number_ten_lynton.jpg" alt="Number Ten Lynton">
 							</div>
 						</div>
 					</div>
@@ -97,8 +95,8 @@
 								<p>A rustic tapas restaurant offering a range of Spanish inspired dishes and good wines.</p>
 								<div class="rest_contact">
 									<p>
-										<strong>Distance:</strong> 8 minutes walk<br />
-										<strong>Telephone:</strong> 01598 753 838<br />
+										<strong>Distance:</strong> 8 minutes walk<br>
+										<strong>Telephone:</strong> 01598 753 838<br>
 										<a href="https://www.theoakroomlynton.co.uk/" target="_blank">www.theoakroomlynton.co.uk</a><br>
 										<strong>Location:</strong> Lee Road, Lynton, EX35 6HW
 									</p>
@@ -106,7 +104,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_the_oak_room.jpg" alt="The Oak Room Restaurant" />
+								<img src="[@URL]images/local_restaurants/restaurant_the_oak_room.jpg" alt="The Oak Room Restaurant">
 							</div>
 						</div>								
 					</div>
@@ -125,7 +123,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_vanilla_pod.jpg" alt="The Vanilla Pod Restaurant" />
+								<img src="[@URL]images/local_restaurants/restaurant_vanilla_pod.jpg" alt="The Vanilla Pod Restaurant">
 							</div>
 						</div>									
 					</div>
@@ -145,7 +143,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_nartnapa.jpg" alt="Nartnapa Thai Kitchen at The Cottage Inn" />
+								<img src="[@URL]images/local_restaurants/restaurant_nartnapa.jpg" alt="Nartnapa Thai Kitchen at The Cottage Inn">
 							</div>					
 						</div>
 					</div>
@@ -171,7 +169,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_rock_house.jpg" alt="The Rock House in Lynmouth" />
+								<img src="[@URL]images/local_restaurants/restaurant_rock_house.jpg" alt="The Rock House in Lynmouth">
 							</div>
 						</div>
 					</div>
@@ -182,8 +180,8 @@
 								<p>Located right on the harbour in Lynmouth, The Rising Sun offer locally caught seafood and seasonal produce.</p>
 								<div class="rest_contact">
 									<p>
-										<strong>Distance:</strong> 14 minutes walk<br />
-										<strong>Telephone:</strong> 01598 753 223<br />
+										<strong>Distance:</strong> 14 minutes walk<br>
+										<strong>Telephone:</strong> 01598 753 223<br>
 										<a href="https://www.risingsunlynmouth.co.uk/dine" target="_blank">www.risingsunlynmouth.co.uk/dine</a><br>
 										<strong>Location:</strong> Harbourside, Lynmouth, EX35 6EG
 									</p>
@@ -191,7 +189,7 @@
 							
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_rising_sun.jpg" alt="The Rising Sun in Lynmouth" />
+								<img src="[@URL]images/local_restaurants/restaurant_rising_sun.jpg" alt="The Rising Sun in Lynmouth">
 							</div>
 						</div>	
 					</div>
@@ -211,7 +209,7 @@
 
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_ancient_mariner.jpg" alt="The Ancient MAriner" />
+								<img src="[@URL]images/local_restaurants/restaurant_ancient_mariner.jpg" alt="The Ancient MAriner">
 							</div>
 						</div>
 					</div>
@@ -237,7 +235,7 @@
 
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_blue_ball.jpg" alt="The Blue Ball, Countisbury" />
+								<img src="[@URL]images/local_restaurants/restaurant_blue_ball.jpg" alt="The Blue Ball, Countisbury">
 							</div>
 						</div>	
 					</div>
@@ -257,7 +255,7 @@
 
 							</div>
 							<div class="w3-col grid-col s12 m6 l4 xl3">
-								<img class="rest_img box" src="[@URL]images/local_restaurants/restaurant_fox_goose.jpg" alt="The Fox and Goose, Parracombe" />
+								<img src="[@URL]images/local_restaurants/restaurant_fox_goose.jpg" alt="The Fox and Goose, Parracombe">
 							</div>
 						</div>	
 					</div>

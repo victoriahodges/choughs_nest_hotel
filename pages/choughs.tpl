@@ -12,9 +12,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>What are choughs?</h1>
-					</span>
+					<h1><span>What are choughs?</span></h1>
 				</div>
 			</div>
 		</div>

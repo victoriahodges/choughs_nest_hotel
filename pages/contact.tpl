@@ -12,9 +12,7 @@
 		<div id="page-title" class="w3-row">
 			<div class="w3-col w3-center">
 				<div class="fancy short page-title">
-					<span>
-					<h1>Contact Us</h1>
-					</span>
+					<h1><span>Contact Us</span></h1>
 				</div>
 			</div>
 		</div>
@@ -35,7 +33,7 @@
 							
 							<label>Title
 								<select name="title" id="title">
-									<option selected="selected"></option>
+									<option selected="selected">Please select...</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Miss.">Miss.</option>
@@ -46,31 +44,32 @@
 								</select>
 							</label>
 							<label>Name*
-								<input type="text" name="realname" id="name" required />
+								<input type="text" name="realname" id="name" required>
 							</label>
 							<label>Email*
-								<input type="text" name="email" id="email" required />
+								<input type="text" name="email" id="email" required>
 							</label>
 							<label>Phone
-								<input type="text" name="PHONE" id="phone"/>
+								<input type="text" name="PHONE" id="phone">
 							</label>		
 							<label class="marketing">How did you hear about us?
 								<select name="MARKETING" id="marketing">
 								<option selected="selected">Please select...</option>
 								<option>Search Engine</option>
-								<option>Online booking website</option>
-								<option>TripAdvisor</option>
-								<option>Friend or family</option>
-								<option>Word of mouth</option>
 								<option>Email newsletter</option>
+								<option>Booking.com</option>
+								<option>TripAdvisor</option>
+								<option>Friend or family recommended</option>
+								<option>Word of mouth</option>
 								<option>Direct mailing</option>
+								<option>Other (please specify in your message)</option>
 								</select>
 							</label>
 							<label>Your message
 								<textarea class="message" name="MESSAGE" id="message"></textarea>
 							</label>	
 							<label style="width: 100%; float: right; padding: 0; margin-bottom: 20px;" class="small">
-								<input type="checkbox" name="SUBSCRIBE"  value="Yes" id="subscribe_check"/>
+								<input type="checkbox" name="SUBSCRIBE"  value="Yes" id="subscribe_check">
 								<strong>Subscribe:</strong> If you would like to receive emails from Chough's Nest Hotel 
 								about future news and special offers, please tick this box.
 							</label>
@@ -79,7 +78,7 @@
 							data-sitekey="6LeDJx4UAAAAAFXkd4_yYtr2ES9dQxneYS88UurL"></div>					
 							
 							<div class="w3-center">
-								<input class="button-primary" type="submit" value="Send Enquiry" />
+								<input class="button-primary" type="submit" value="Send Enquiry">
 							</div>
 							
 						</form>
@@ -100,7 +99,7 @@
 					<p><a href="tel:+441598753315">01597 753 315</a></p>
 					
 					<h3>Email</h3>
-					<p style="margin-bottom: 32px;"><span id="obf2"><script>document.getElementById("obf2").innerHTML="<n uers=\"znvygb:erynk@pubhtufarfgubgry.pb.hx?fhowrpg=Jrofvgr radhvel\" >erynk@pubhtufarfgubgry.pb.hx</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+					<p style="margin-bottom: 32px;"><span id="obf2"><script>document.getElementById("obf2").innerHTML="<n uers=\"znvygb:erynk@pubhtufarfgubgry.pb.hx?fhowrpg=Jrofvgr radhvel\">erynk@pubhtufarfgubgry.pb.hx</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
 					<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">ku.oc.letohtsenshguohc@xaler</span></noscript></span></p>	
 					<hr>
 
