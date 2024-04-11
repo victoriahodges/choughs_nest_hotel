@@ -7,7 +7,7 @@
 <!-- Basic Page Needs -->
 	<meta charset="utf-8"/>
 
-	<title>[@title]Chough's Nest Hotel | A Lynton &amp; Lynmouth hotel with glorious sea views in Exmoor, North Devon. Hotel rooms with the best views. BOOK DIRECT - Best Rate Guarantee</title>
+	<title>[@title]Chough's Nest Hotel | Book Direct for your stay in Lynton &amp; Lynmouth</title>
 	<meta name="description" content="[@description]" />
 	<meta name="keywords" content="[@keywords]">
 	<meta name="author" content="Victoria Hodges Web Design" />
@@ -31,6 +31,18 @@
 
 </head>
 <body class="floral-white-bg  w3-content" style="max-width:100%">
+
+<!-- Google tag (gtag.js) -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6ZFS80EHE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K6ZFS80EHE');
+</script> -->
+
+
 	<span itemscope itemtype="https://schema.org/LocalBusiness"></span>
 
 	<!-- Sidebar/menu -->
@@ -42,6 +54,7 @@
 				<a href="javascript:void(0)" class="w3-display-topright w3-hide-xlarge menu-button iris-bg floral-white-text" onclick="w3_close()">&times;</a>
 			
 				[@navigation]
+				<p class="w3-margin-top"><a class="button" [@qbook_href]>Book Online</a></p>
 			</div>
 			<div class="social">
 				<a href="https://facebook.com/choughsnesthotel" target="_blank">
@@ -169,7 +182,7 @@
 		var appear = 450
 		var fade = 1000
 		var opacity = 0
-		if(document.body.scrollHeight > 4000) {
+		if(document.body.scrollHeight > 4000 && document.getElementById("back_to_top")) {
 			// show if page height is too long
 			if (window.pageYOffset < appear) {
 			// hide
@@ -286,16 +299,5 @@
 
 [@map_script]
 [@recaptcha_script]
-
-<!--<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-1323967-1', 'auto');
-  ga('send', 'pageview');
-
-</script> -->
 </body>
 </html>
