@@ -1,22 +1,21 @@
-      function initialize() {
-        var myLatLong = new google.maps.LatLng(51.232157,-3.837104);
-		 var styles = [{
+      function choughsNestMap() {
+		const position = { lat: 51.232157, lng: -3.837104 };
+
+		var styles = [{
 			featureType: "poi.business",
 			stylers: [{ visibility: "off" }]
 			}];
 
-		 var myOptions = {
-			center: myLatLong,
+		var myOptions = {
+			center: position,
 			zoom: 12,
-			
 			disableDefaultUI: true,
 			panControl: false,
 			zoomControl: true,
 			scaleControl: true,
 			mapTypeControl: true,
 			styles: styles,
-			
-          mapTypeId: google.maps.MapTypeId.ROADMAP
+          	mapTypeId: google.maps.MapTypeId.ROADMAP,
         };
 		
 		
@@ -36,19 +35,15 @@
 			content: contentString
 		});
 		 
-		var marker = new google.maps.Marker({
-			position: myLatLong,
+		const marker = new google.maps.Marker({
 			map: map,
-			title:"Chough\'s Nest Hotel, Lynton",
+			position: position,
+			title: "Chough\'s Nest Hotel, Lynton",
 			icon: "https://www.choughsnesthotel.co.uk/images/location.png"
 		});
 		 
 		google.maps.event.addListener(marker, 'click', function() {
 		  infowindow.open(map,marker);
 		});
-		// infowindow.open(map,marker);
 
 		}
-google.maps.event.addDomListener(window, 'load', initialize);			
-      
-
