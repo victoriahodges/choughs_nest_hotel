@@ -103,7 +103,7 @@
 					Hotel on the right.</p>
 
 					<h3>Luggage transfers</h3>
-					<p>Here are some luggage transfer and taxi companies who will forward you bags on to your next accommodation.</p>
+					<p>Here are some luggage transfer and taxi companies who will forward your bags on to your next accommodation.</p>
 					<ul class="list">
 						<li><strong><a href="http://www.lynvalleytaxi.co.uk/" target="_blank">Lyn Valley Taxi</a></strong> - <a href="tel:+447907161666">07907 161 666</a><br>
 						Offer luggage transfers and pick-up/drop-off for walkers</li>
