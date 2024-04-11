@@ -22,16 +22,15 @@
 
 		<div class="content">
 			<div class="w3-row grid-wrap">
-				<div class="w3-col grid-col m7 l8 w3-margin-bottom">
-					<h2>Take in the view</h2>
+				<div class="w3-col grid-col l7 xl8 w3-margin-bottom">
+					<h2>Take in the view</h2>				
 					<p>The dining room at Chough's Nest Hotel boasts full views of Lynmouth Bay and the Bristol Channel beyond.
 					The room is tastefully decorated using William Morris designs to complement the Victorian history of the hotel building.</p>
 					<p>The dining room is where we serve our 'Lite Bites' evening meals, Fridays - Tuesday at 7pm.,<br>
 					<strong>Booking is essential - please reserve a table when reserving your room.</strong></p>
 				</div>
-				<div class="w3-col grid-col m5 l4 w3-margin-bottom">
+				<div class="w3-col grid-col l5 xl4 w3-margin-bottom">
 					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_room.jpg" alt="Dining room at Chough's Nest Hotel in Lynton">
-
 				</div>
 			</div>
 		</div>
