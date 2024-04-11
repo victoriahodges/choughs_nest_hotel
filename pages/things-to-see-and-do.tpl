@@ -24,51 +24,10 @@
 		<a id="back_to_top" href="#page-title" class="menu-button iris-bg floral-white-text">&uarr;</a>
 	</div>
 
-	<div id="card_links">
-		<div class="w3-row grid-wrap narrow-gutter w3-center card-row">
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Lynton &amp; Lynmouth Attractions</h3>
-						<p>Find out about visitor attractions in and around the twin towns.</p>
-						<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Exmoor and North Devon" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Local Walks &amp; Trails</h3>
-						<p>Explore Lynton &amp; Lynmouth on foot and discover beautiful paths and trails.</p>
-						<p><a class="button" href="[@URL]local-walks-around-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth from Countisbury" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Find out about Lynton &amp; Lynmouth</h3>
-						<p>Read about the history of the famous twin towns.</p>
-						<p><a class="button" href="[@URL]a-guide-to-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
 	<div class="content">
 		<div class="w3-row grid-wrap">
 			<div class="w3-col grid-col s12 w3-margin-bottom">
-				<h2>Things to see and do in North Devon &amp; Exmoor</h2>
+				<h2>Things to see and do while visiting North Devon &amp; Exmoor</h2>
 				<p>There is a wealth of experiences and places to explore during your stay at Chough's Nest Hotel, so why not take a look
 				at some of the amazing North Devon and Exmoor attractions and activities you can do on your holiday?
 				</p>
@@ -76,21 +35,19 @@
 				engine or a boat trip to explore Lundy Island. There are so many day-trips and excursions to experience and enjoy while you
 				are here.
 				</p>
-				<p>If you are looking for more to do closer to the hotel, view our list of activites and attractions to visit
-				in Lynton &amp; Lynmouth. Most are just a short walk from Chough's Nest.</p>
-				<p><a class="button button-iris" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View Lynton &amp; Lynmouth attractions</a></p>
+				<p>If you are looking for more to do closer to the hotel, view our list of <strong><a href="[@URL]local-attractions-in-Lynton-and-Lynmouth">
+				activites and attractions to visit in Lynton &amp; Lynmouth</a></strong>.
+				Most are just a short walk from Chough's Nest.</p>
 			</div>
 		</div>
-
-
-
 
 		<div id="attraction_menu" class="w3-bar dark-iris-bg floral-white-text">
 			<button id="tab_1" class="w3-bar-item w3-button active" onclick="openTab('Attractions', 'tab_1')">Attractions &amp; Activities</button>
 			<button id="tab_2" class="w3-bar-item w3-button" onclick="openTab('Houses', 'tab_2')">Historic Sites &amp; Houses</button>
 			<button id="tab_3" class="w3-bar-item w3-button" onclick="openTab('Gardens', 'tab_3')">Gardens</button>
 			<button id="tab_4" class="w3-bar-item w3-button" onclick="openTab('Beaches', 'tab_4')">Beaches</button>
-		</div> 
+		</div>
+
 		<div id="Attractions" class="tab">
 			<div class="w3-row grid-wrap w3-margin-top">
 				<div class="w3-col grid-col s12">
@@ -128,7 +85,7 @@
 								watch skilled craftsmen and women shaping raw molten glass into intricate
 								designs and high quality homeware.
 								</p>
-								<p>Dartington Crystal Factory experience is a fantastic North Devon attraction with new a
+								<p>Dartington Crystal Factory experience is a fantastic North Devon attraction with a new
 								visitor centre and the opportunity to purchase some luxury crystal in their factory shop.
 								</p>
 								<div class="rest_contact">
@@ -146,7 +103,7 @@
 						<div class="w3-row grid-wrap ">
 							<div class="w3-col grid-col s12 m6 l7">
 								<h3>Exmoor Red Stag Safari</h3>
-								<p>Enjoy an unparalleled views of Exmoor with a safari experience from Red Stag Safari.</p>
+								<p>Enjoy unparalleled views of Exmoor with a safari experience from Red Stag Safari.</p>
 								<p>There's a chance to see Exmoor wildlife on the open moors, including wild Red Deer and Exmoor Ponies
 								as well as fox, hares and birds of prey.
 								</p>
@@ -195,7 +152,7 @@
 								</p>
 								<p>Open most of the year, they host educational talks and scheduled feeding times throughout the day
 								which focus on a variety of topics and subjects about their mammals, birds, reptiles and amphibians.</p>
-								<p>Visit their website for information on admisssion prices and events.</p>
+								<p>Visit their website for information on admission prices and events.</p>
 								<div class="rest_contact">
 									<p><strong>Location:</strong> Bratton Fleming, North Devon, EX31 4SG<br />
 									<a href="https://www.exmoorzoo.co.uk/" target="_blank">www.exmoorzoo.co.uk</a></p>
@@ -574,20 +531,61 @@
 
 		<script>
 			function openTab(tabName, tabNum) {
-			var i;
-			var x = document.getElementsByClassName("tab");
-			for (i = 0; i < x.length; i++) {
-				x[i].style.display = "none";
-			}
-			document.getElementById(tabName).style.display = "block";
-			var y = document.getElementsByClassName("w3-bar-item");
-			for (i = 0; i < y.length; i++) {
-				y[i].classList.remove('active')
-			}
-			document.getElementById(tabNum).classList.add('active');
+				var i;
+				var x = document.getElementsByClassName("tab");
+				for (i = 0; i < x.length; i++) {
+					x[i].style.display = "none";
+				}
+				document.getElementById(tabName).style.display = "block";
+				var y = document.getElementsByClassName("w3-bar-item");
+				for (i = 0; i < y.length; i++) {
+					y[i].classList.remove('active');
+				}
+				document.getElementById(tabNum).classList.add('active');
 			}
 		</script>
 
+	</div>
+
+	<div id="card_links">
+		<div class="w3-row grid-wrap narrow-gutter w3-center card-row">
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Lynton &amp; Lynmouth Attractions</h3>
+						<p>Find out about visitor attractions in and around the twin towns.</p>
+						<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View more</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/walking_boots.jpg" alt="Walks in Exmoor and North Devon" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Local Walks &amp; Trails</h3>
+						<p>Explore Lynton &amp; Lynmouth on foot and discover beautiful paths and trails.</p>
+						<p><a class="button" href="[@URL]local-walks-around-Lynton-and-Lynmouth">View more</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth from Countisbury" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Find out about Lynton &amp; Lynmouth</h3>
+						<p>Read about the history of the famous twin towns.</p>
+						<p><a class="button" href="[@URL]a-guide-to-Lynton-and-Lynmouth">View more</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<!-- Push down subscribe form --> 

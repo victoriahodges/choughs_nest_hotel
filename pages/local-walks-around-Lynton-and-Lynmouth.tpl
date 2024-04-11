@@ -24,54 +24,13 @@
 		<a id="back_to_top" href="#page-title" class="menu-button iris-bg floral-white-text">&uarr;</a>
 	</div>
 
-	<div id="card_links">
-		<div class="w3-row grid-wrap narrow-gutter w3-center card-row">
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Things to See &amp; Do</h3>
-						<p>Information on top attractions and activites in North Devon &amp; Exmoor National Park</p>
-						<p><a class="button" href="[@URL]things-to-see-and-do">View more</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Lynton &amp; Lynmouth Attractions</h3>
-						<p>Find out about visitor attractions in and around the twin towns.</p>
-						<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
-				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
-					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth, view from Countisbury" />
-					</div>
-					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
-						<h3>Find out about Lynton &amp; Lynmouth</h3>
-						<p>Read about the history of the famous twin towns.</p>
-						<p><a class="button" href="[@URL]a-guide-to-Lynton-and-Lynmouth">View more</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 
 	<div class="content">
 		<div class="w3-row grid-wrap w3-margin-top">
 			<div class="w3-col grid-col s12">
-				<h2>Walks &amp; Trails around Lynton &amp; Lynmouth</h2>
-				<h3>The walking capital of Exmoor!</h3>
-				<p>There is a wealth of footpaths and trails criss-crossing every part of Lynton &amp; Lynmouth's deep river valleys
-				and stunning coastline. From riverside walks to hill-top vistas, there are walks for all levels of fitness and ability.</p>
+				<h2>Walks around Lynton &amp; Lynmouth</h2>
+				<p>Known as the <strong>Walking Capital of Exmoor</strong>, there are miles of footpaths and trails criss-crossing every part of Lynton &amp; Lynmouth's
+				deep river valleys, moorlands and stunning coastline. From riverside walks to hill-top vistas, there are walks for all levels of fitness and ability.</p>
 				<p>Here, we have listed some of the most popular walks in Lynton &amp; Lynmouth with downloadable leaflets and maps. 
 				You can also find more walks around North Devon and Exmoor National Park such as the Heddon Valley, Tarr Steps or Baggy Point.
 				</p>
@@ -323,6 +282,48 @@
 						<div class="w3-col grid-col s12 m6 l5">
 							<img class="rest_img box" src="[@URL]images/walks/walker_statue_coleridge_way_lynmouth.jpg" alt="The Walker Statue on the Coleridge Way Lynmouth Devon" />
 						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="card_links">
+		<div class="w3-row grid-wrap narrow-gutter w3-center card-row">
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Things to See &amp; Do</h3>
+						<p>Information on top attractions and activites in North Devon &amp; Exmoor National Park</p>
+						<p><a class="button" href="[@URL]things-to-see-and-do">View more</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Lynton &amp; Lynmouth Attractions</h3>
+						<p>Find out about visitor attractions in and around the twin towns.</p>
+						<p><a class="button" href="[@URL]local-attractions-in-Lynton-and-Lynmouth">View more</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
+				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
+					<div class="w3-col s12 m6 l12 link-image">
+						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth, view from Countisbury" />
+					</div>
+					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
+						<h3>Find out about Lynton &amp; Lynmouth</h3>
+						<p>Read about the history of the famous twin towns.</p>
+						<p><a class="button" href="[@URL]a-guide-to-Lynton-and-Lynmouth">View more</a></p>
 					</div>
 				</div>
 			</div>
