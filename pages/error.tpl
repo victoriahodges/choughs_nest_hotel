@@ -1,10 +1,5 @@
 	<!-- Hero image -->
-	<div id="hero" class="w3-row">
-		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/goats_on_path.jpg" style="width:100%; height: 100%;" alt="Goats on the coastal path">
-			<div class="hero-overlay"></div>
-		</div>
-	</div>
+	[@hero_image]
 	<!-- Main content-->
 	<div class="w3-container">
 		[@booking_bar]

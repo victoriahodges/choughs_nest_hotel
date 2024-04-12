@@ -1,11 +1,5 @@
 	<!-- Hero image -->
-	<div id="hero" class="w3-row" style="position: relative;">
-		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/hotel_front.jpg" style="width:100%; height: 100%;" alt="Front of hotel, Chough's Nest Hotel in Lynton">
-			<div class="hero-overlay"></div>
-		</div>
-	</div>
-
+	[@hero_image]
 	<!-- Main content-->
 	<div class="w3-container">
 		[@booking_bar]
@@ -17,8 +11,8 @@
 					<em>Welcome to</em>
 					</span>
 				</div>
-				<img class="chough-logo" src="[@URL]images/logo/chough_web_logo.png" alt="Chough's Nest Hotel chough logo"><br>
-				<img class="title-logo" src="[@URL]images/logo/logo_iris.png" alt="Chough's Nest Hotel hotel logo">
+				<img class="chough-logo" src="[@URL]images/logo/chough_web_logo.png" alt="Chough's Nest Hotel chough logo" width="105"><br>
+				<img class="title-logo" src="[@URL]images/logo/logo_iris.png" alt="Chough's Nest Hotel hotel logo" width="450">
 			</div>
 		</div>
 
@@ -33,7 +27,16 @@
 			<p>Rest assured, you'll be chuffed with Chough's Nest!</p>
 		</div>
 		<div class="w3-col s12 l6 feature-card-image">
-			<img src="[@URL]images/hotel_view.jpg" alt="Hotel Sea Views">
+			<img
+			class="lazyload"
+			src="[@URL]images/view_from_choughs_nest_hotel_360.jpg"
+			data-src="[@URL]images/view_from_choughs_nest_hotel_800.jpg"
+			data-srcset="
+			[@URL]images/view_from_choughs_nest_hotel_360.jpg 360w,
+			[@URL]images/view_from_choughs_nest_hotel_800.jpg 768w
+			"
+			width="800" height="600" alt="Chough's Nest Hotel bedroom"
+			>
 		</div>
 	</div>
 
@@ -56,7 +59,17 @@
 	<div class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/four-poster-nest-bedroom.jpg" alt="Chough's Nest Hotel bedroom">
+				<img 
+				class="lazyload"
+				src="[@URL]images/four_poster_nest_bedroom_360.jpg"
+				data-src="[@URL]images/four_poster_nest_bedroom.jpg"
+				data-srcset="
+				[@URL]images/four_poster_nest_bedroom_360.jpg 360w,
+				[@URL]images/four_poster_nest_bedroom_800.jpg 768w,
+				[@URL]images/four_poster_nest_bedroom.jpg 1080w
+				"
+				width="1500" height="1125" alt="Chough's Nest Hotel bedroom"
+				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -77,7 +90,17 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image" >
-				<img src="[@URL]images/breakfast_room.jpg" alt="Hotel Bed and Breakfast">
+				<img 
+				class="lazyload"
+				src="[@URL]images/breakfast_room_360.jpg"
+				data-src="[@URL]images/breakfast_room.jpg"
+				data-srcset="
+				[@URL]images/breakfast_room_360.jpg 360w,
+				[@URL]images/breakfast_room_800.jpg 768w,
+				[@URL]images/breakfast_room.jpg 1080w
+				"
+				width="1500" height="1125" alt="Hotel Bed and Breakfast"
+				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -98,7 +121,17 @@
 
 		<div class="w3-row fancy-card-row champagne-bg">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img src="[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg" alt="Valley of Rocks in Lynton and Lynmouth">
+				<img 
+				class="lazyload"
+				src="[@URL]images/valley_of_rocks_sunset_from_hollerday_hill_360.jpg"
+				data-src="[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg"
+				data-srcset="
+				[@URL]images/valley_of_rocks_sunset_from_hollerday_hill_360.jpg 360w,
+				[@URL]images/valley_of_rocks_sunset_from_hollerday_hill_800.jpg 768w,
+				[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg 1080w
+				"
+				width="1500" height="1125" alt="Valley of Rocks in Lynton and Lynmouth"
+				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
@@ -118,7 +151,7 @@
 		</div>
 	</div>
 
-	<div id="map_canvas" class="w3-row" style="height: 550px;"></div>
+	<div id="map_canvas" class="w3-row"></div>
 	
 
 

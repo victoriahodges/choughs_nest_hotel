@@ -1,12 +1,5 @@
 	<!-- Hero image -->
-	<div id="hero" class="w3-row">
-		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/exmoor_ponies.jpg" style="width:100%; height: 100%;" 
-			alt="Wild Exmoor ponies on the moor North Devon">
-			<div class="hero-overlay"></div>
-		</div>
-	</div>
-	
+	[@hero_image]	
 	<!-- Main content-->
 	<div class="w3-container">
 		[@booking_bar]

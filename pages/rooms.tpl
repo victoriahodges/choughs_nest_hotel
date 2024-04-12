@@ -1,11 +1,5 @@
 	<!-- Hero image -->
-	<div id="hero" class="w3-row">
-		<div class="w3-col hero-wrap">
-			<img src="[@URL]images/hero_images/four_poster_nest_bedroom.jpg" style="width:100%; height: 100%;" alt="Four poster room at Chough's Nest Hotel in Lynton">
-			<div class="hero-overlay"></div>
-		</div>
-	</div>
-
+	[@hero_image]
 	<!-- Main content-->
 	<div class="w3-container">
 		[@booking_bar]
