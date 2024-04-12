@@ -116,7 +116,7 @@
 				<h2>Data Protection &amp; Privacy Policy</h2>
 				<p>Any data or information supplied to us by you will be used for the purposes of processing your reservation. We will never pass your details on to a third party.</p>
 				<p>We may from time to time send you notifications (via post or email newsletter) of special offers and promotions which may be of interest to you.</p>
-				<p>If you wish to opt-out at any time then please <a href="[@URL]contact">send a message</a> or call us on <a href="tel:+441598753315">01598 753 315</a>.</p>
+				<p>If you wish to opt-out at any time, you can click the 'unsubscribe' link in the email, alternatively <a href="[@URL]contact">send a message</a> or call us on <a href="tel:+441598753315">01598 753 315</a>.</p>
 				
 				<h3>Cookies</h3>
 				<p>This website uses some unobtrusive cookies to store information on your computer. Some cookies on this website are essential 

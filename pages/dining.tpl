@@ -22,7 +22,16 @@
 					<strong>Booking is essential - please reserve a table when reserving your room.</strong></p>
 				</div>
 				<div class="w3-col grid-col l5 xl4 w3-margin-bottom">
-					<img class=" w3-margin-bottom" src="[@URL]images/breakfast_room.jpg" alt="Dining room at Chough's Nest Hotel in Lynton">
+					<img 
+					class="lazyload w3-margin-bottom"
+					src="[@URL]images/breakfast_room_360.jpg"
+					data-src="[@URL]images/breakfast_room_800.jpg"
+					data-srcset="
+					[@URL]images/breakfast_room_360.jpg 360w,
+					[@URL]images/breakfast_room_800.jpg 768w
+					"
+					width="800" height="600" alt="Dining room at Chough's Nest Hotel in Lynton"
+					>
 				</div>
 			</div>
 		</div>
@@ -73,7 +82,16 @@
 		<div class="content">
 			<div class="w3-row grid-wrap w3-padding-top-32">
 				<div class="w3-col grid-col m5 xl4 w3-margin-bottom">
-					<img src="[@URL]images/desserts.jpg" alt="Desserts at Chough's Nest Hotel">
+					<img 
+					class="lazyload w3-margin-bottom"
+					src="[@URL]images/desserts_360.jpg"
+					data-src="[@URL]images/desserts_800.jpg"
+					data-srcset="
+					[@URL]images/desserts_360.jpg 360w,
+					[@URL]images/desserts_800.jpg 768w
+					"
+					width="800" height="800" alt="Desserts at Chough's Nest Hotel"
+					>
 				</div>
 				<div class="w3-col grid-col m7 xl8 w3-margin-bottom">
 					<h2>Sweet delights</h2>

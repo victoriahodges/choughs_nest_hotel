@@ -44,7 +44,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/walk-leaflet-on-hollerday-hill.jpg" alt="Hollerday Hill walk, North Devon">
+							<img src="[@URL]images/walks/walk-leaflet-on-hollerday-hill_530.jpg" alt="Hollerday Hill walk, North Devon">
 						</div>
 					</div>
 				</div>
@@ -66,7 +66,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/walk-leaflet-on-valley-of-rocks.jpg" alt="The Valley of Rocks in Exmoor">
+							<img src="[@URL]images/walks/walk-leaflet-on-valley-of-rocks_530.jpg" alt="The Valley of Rocks in Exmoor">
 						</div>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/walk-leaflet-on-watersmeet.jpg" alt="Watersmeet House walk in Devon">
+							<img src="[@URL]images/walks/walk-leaflet-on-watersmeet_530.jpg" alt="Watersmeet House walk in Devon">
 						</div>
 					</div>
 				</div>
@@ -115,7 +115,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/porlock_weir.jpg" alt="Porlock Weir walk to Lynmouth">
+							<img src="[@URL]images/walks/porlock_weir_530.jpg" alt="Porlock Weir walk to Lynmouth">
 						</div>
 					</div>
 				</div>
@@ -135,7 +135,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/lorna_doone_valley.jpg" alt="The Lorna Doone Valley in Exmoor">
+							<img src="[@URL]images/walks/lorna_doone_valley_530.jpg" alt="The Lorna Doone Valley in Exmoor">
 						</div>
 					</div>
 				</div>
@@ -153,7 +153,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/heddon_valley.jpg" alt="Heddon Valley North Devon">
+							<img src="[@URL]images/walks/heddon_valley_530.jpg" alt="Heddon Valley North Devon">
 						</div>
 					</div>
 				</div>
@@ -172,7 +172,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/tarr_steps_exmoor.jpg" alt="The Tarr Steps Exmoor">
+							<img src="[@URL]images/walks/tarr_steps_exmoor_530.jpg" alt="The Tarr Steps Exmoor">
 						</div>
 					</div>
 				</div>
@@ -190,7 +190,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/view-croyde-bay-baggy-point.jpg" alt="Baggy Point near Croyde Devon">
+							<img src="[@URL]images/walks/view-croyde-bay-baggy-point_530.jpg" alt="Baggy Point near Croyde Devon">
 						</div>
 					</div>
 				</div>
@@ -219,7 +219,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/south_west_coast_path_valley_of_rocks_credit_ENPA.jpg" alt="South West Coast Path at the Valley of Rocks">
+							<img src="[@URL]images/walks/south_west_coast_path_valley_of_rocks_credit_ENPA_530.jpg" alt="South West Coast Path at the Valley of Rocks">
 						</div>
 					</div>
 				</div>
@@ -236,7 +236,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/tarka_trail_devon_tarka_the_otter.jpg" alt="The Tarka Trail named after Tarka the Otter">
+							<img src="[@URL]images/walks/tarka_trail_devon_tarka_the_otter_530.jpg" alt="The Tarka Trail named after Tarka the Otter">
 						</div>
 					</div>
 				</div>
@@ -254,7 +254,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/two_moors_way_east_lyn_river_valley_lynmouth.jpg" alt="The Two Moors Way at Lynmouth">
+							<img src="[@URL]images/walks/two_moors_way_east_lyn_river_valley_lynmouth_530.jpg" alt="The Two Moors Way at Lynmouth">
 						</div>
 					</div>
 				</div>
@@ -271,7 +271,7 @@
 							</div>
 						</div>
 						<div class="w3-col grid-col s12 m6 l5">
-							<img src="[@URL]images/walks/walker_statue_coleridge_way_lynmouth.jpg" alt="The Walker Statue on the Coleridge Way Lynmouth Devon">
+							<img src="[@URL]images/walks/walker_statue_coleridge_way_lynmouth_530.jpg" alt="The Walker Statue on the Coleridge Way Lynmouth Devon">
 						</div>
 					</div>
 				</div>
@@ -285,7 +285,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/watersmeet.jpg" alt="Watersmeet Tea Garden">
+						<img src="[@URL]images/attractions/watersmeet_530.jpg" alt="Watersmeet Tea Garden">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Things to See &amp; Do</h3>
@@ -297,7 +297,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway.jpg" alt="Lynton &amp; Lynmouth Cliff Railway">
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway_530.jpg" alt="Lynton &amp; Lynmouth Cliff Railway">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -309,7 +309,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth.jpg" alt="Lynton and Lynmouth, view from Countisbury">
+						<img src="[@URL]images/lynton_and_lynmouth_530.jpg" alt="Lynton and Lynmouth, view from Countisbury">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>

@@ -26,7 +26,16 @@
 					<p>They emit an excitable, high-pitched "chi-ow" call from which the bird gets its name.</p>
 				</div>
 				<div class="w3-col grid-col l6 xl5 w3-margin-bottom">
-					<img src="[@URL]images/pyrrhocorax_pyrrhocorax_chough_standing.jpg" alt="Cornish chough standing on a rock">
+					<img 
+					class="lazyload w3-margin-bottom"
+					src="[@URL]images/pyrrhocorax_pyrrhocorax_chough_standing_360.jpg"
+					data-src="[@URL]images/pyrrhocorax_pyrrhocorax_chough_standing_800.jpg"
+					data-srcset="
+					[@URL]images/pyrrhocorax_pyrrhocorax_chough_standing_360.jpg 360w,
+					[@URL]images/pyrrhocorax_pyrrhocorax_chough_standing_800.jpg 768w
+					"
+					width="800" height="600" alt="Cornish chough standing on a rock"
+					>
 				</div>
 			</div>
 			<div class="w3-row grid-wrap">
