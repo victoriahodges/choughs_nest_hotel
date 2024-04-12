@@ -301,7 +301,7 @@ hr.short {
 
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-img {max-width: 100%; }
+img {max-width: 100%; height: unset!important;}
 
 .hero-wrap {position: relative;}
 
@@ -499,17 +499,18 @@ input[type="button"].button-iris:focus {
     border-radius: 0;
     border-bottom: 1px #3a4c68 solid;
 }
-#attraction_menu button.active {
-    background-color: #A6843A;
-    color: #292929;
-    border: 0;
-}
 @media (min-width: 993px){
     #attraction_menu button {width: unset;
         border-bottom: 0;
         border-right: 1px #445a7a solid;
     }
 }
+#attraction_menu button.active {
+    background-color: #A6843A;
+    color: #292929;
+    border: 0;
+}
+#attraction_menu button:hover {border: 0;}
 
 
 /* Forms
