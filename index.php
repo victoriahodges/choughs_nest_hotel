@@ -21,8 +21,8 @@ include("template.class.php");
 
 //SET SERVER ROOT LOCATIONS
 function urlRoot(){      //returns root url
-	//$url = "http://localhost/choughs-nest-hotel/"; //TEST SERVER
-	$url = "https://choughsnesthotel.co.uk/test-site-2024/";
+	$url = "http://localhost/choughs-nest-hotel/"; //TEST SERVER
+	//$url = "https://choughsnesthotel.co.uk/test-site-2024/";
 	return $url;
 	}
 function serverRoot(){   //returns root dir of host
@@ -45,6 +45,7 @@ $pages_nav ='';
 $page_heading = '';
 $page_keywords = '';
 $hero_image = '';
+$preload_hotel_image = '';
 $hero_image_alt = '';
 $map_script = '';
 $recaptcha_script = '';
@@ -119,8 +120,8 @@ HTMLBLOCK;
 		  , array(	"pageURL" 		=> "a-guide-to-Lynton-and-Lynmouth",
 					"pagetitle"		=> "A Guide to Lynton &amp; Lynmouth",
 					"pagedesc"		=> "The local area around Chough's Nest Hotel is called Little Switzerland.",
-					"keywords"		=> "attractions, cliff railway, valley of rocks, watersmeet, lynton, lynmouth, north devon, exmoor national park",
-					"nav"			=> "",
+					"keywords"		=> "lynton and lynmouth, valley of rocks, poets, sir george newnes, lynton, lynmouth, north devon, exmoor national park",
+					"nav"			=> "Lynton &amp; Lynmouth",
 					"hero_image"	=> ["lynmouth_harbour","Lynmouth Harbour, Exmoor, Devon"]
 					)
 					
@@ -144,7 +145,7 @@ HTMLBLOCK;
 					"pagetitle"		=> "Things to see and do in North Devon &amp; Exmoor",
 					"pagedesc"		=> "Information on other attractions near Chough's Nest Hotel in North Devon and Exmoor National Park.",
 					"keywords"		=> "attractions, north devon, exmoor national park",
-					"nav"			=> "Things To See &amp; Do",
+					"nav"			=> "",
 					"hero_image"	=> ["exmoor_ponies","Wild Exmoor ponies on the moor North Devon"]
 					)
 
@@ -262,6 +263,7 @@ else { // HOME page if no page requested
 	$page_desc  = $pages[0]["pagedesc"];
 	$hero_image = $pages[0]["hero_image"][0];
 	$hero_image_alt = $pages[0]["hero_image"][1];
+	$preload_hotel_image = '<link rel="preload" fetchpriority="high" as="image" href="'.$url.'images/hero_images/hotel_front.jpg" type="image/jpeg">';
 	$map_script = $map_block; // map also on homepage
 		
 }
@@ -320,6 +322,7 @@ $tags = array (
 		"keywords"			=>	$page_keywords,
 		"navigation"		=>	$pages_nav,
 		"hero_image"		=>	$hero_image_block,
+		"preload_image"		=>  $preload_hotel_image,
 		"booking_bar"		=>	$booking_bar,
 		"qbook_href"		=>	$qbook_href,
 
