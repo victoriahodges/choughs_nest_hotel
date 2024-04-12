@@ -145,7 +145,7 @@
 .ui-datepicker .arrival-date {
 	border: 1px solid #C5A359;
 	color: #292929;	
-	font-weight: 900;
+	font-weight: 700;
 	border-radius: 3px;
 }
 
@@ -164,7 +164,7 @@
 }
 .ui-datepicker .ui-datepicker-current-day a,
 .ui-datepicker .ui-datepicker-current-day .ui-state-highlight {
-	font-weight: 900;
+	font-weight: 700;
 	color: #fff;	
 }
 
