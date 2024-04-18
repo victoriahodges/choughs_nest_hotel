@@ -18,7 +18,7 @@
 	<div class="content">
 		<div class="w3-row grid-wrap">
 			<div class="w3-col grid-col s12 w3-margin-bottom">
-				<h2>Things to see and do while visiting North Devon &amp; Exmoor</h2>
+				<h2>Explore North Devon &amp; Exmoor</h2>
 				<p>There is a wealth of experiences and places to explore during your stay at Chough's Nest Hotel, so why not take a look
 				at some of the amazing North Devon and Exmoor attractions and activities you can do on your holiday?
 				</p>

@@ -15,11 +15,14 @@
 		<div class="content">
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col l7 xl8 w3-margin-bottom">
-					<h2>Take in the view</h2>				
+					<h2>Take in the view from our dining room</h2>
+					<p>Enjoy your dinner in the inviting ambiance of our restaurant, where friendly service and a relaxed atmosphere await you.</p>			
 					<p>The dining room at Chough's Nest Hotel boasts full views of Lynmouth Bay and the Bristol Channel beyond.
 					The room is tastefully decorated using William Morris designs to complement the Victorian history of the hotel building.</p>
-					<p>The dining room is where we serve our 'Lite Bites' evening meals, Fridays - Tuesday at 7pm.,<br>
+					<p>We serve our 'Lite Bites' evening meals, Fridays - Tuesday at 7pm.,<br>
 					<strong>Booking is essential - please reserve a table when reserving your room.</strong></p>
+
+					<p>Our menu features locally sourced ingredients and seasonal flavours, with vegetarian options available.</p>
 				</div>
 				<div class="w3-col grid-col l5 xl4 w3-margin-bottom">
 					<img 
@@ -81,7 +84,7 @@
 
 		<div class="content">
 			<div class="w3-row grid-wrap w3-padding-top-32">
-				<div class="w3-col grid-col m5 xl4 w3-margin-bottom">
+				<div class="w3-col grid-col s12 m5 l4 xl3 w3-margin-bottom">
 					<img 
 					class="lazyload w3-margin-bottom"
 					src="[@URL]images/desserts_360.jpg"
@@ -93,10 +96,12 @@
 					width="800" height="800" alt="Desserts at Chough's Nest Hotel"
 					>
 				</div>
-				<div class="w3-col grid-col m7 xl8 w3-margin-bottom">
+				<div class="w3-col grid-col s12 m7 l8 xl9 w3-margin-bottom">
 					<h2>Sweet delights</h2>
-					<p>We offer a range of cakes and desserts in addition to our 'Lite Bites' menu.</p>
-					<p>Our delicious desserts are freshly made so change regulary, but you can guarantee that there
+					<p>Indulge your sweet tooth with our delectable desserts at Chough's Nest Hotel.</p>
+					<p>We offer a range of creamy cakes and tantalising desserts in addition to our 'Lite Bites' menu.
+					Our delicious desserts showcase the flavours of the season and are freshly prepared.</p>
+					<p>They change regularly, so are not listed on the menu, but you can guarantee that there 
 					will be something tasty and sweet to enjoy after your meal.</p>
 				</div>
 			</div>

@@ -18,7 +18,7 @@
 					<h2>The Cornish chough</h2>	
 					<p>The red-billed chough (pronounced 'chuff'), Cornish chough or simply chough (Pyrrhocorax pyrrhocorax), is a member of the crow
 					family, one of only two species in the genus Pyrrhocorax the other being the yellow-billed Alpine chough.</p>
-					<p>They breed on mountains and coastal cliffs from the western coasts of Ireland and Britain east through southern Europe and
+					<p>They breed on mountains and coastal cliffs from the western coasts of Ireland and Britain, eastward through southern Europe and
 					North Africa.</p>
 					<p>These corvids have glossy black plumage, brightly coloured bills, legs and feet. They have long broad wings and are known to
 					perform spectacular tumbling, diving and swooping aerobatics, which makes a truly impressive sight.

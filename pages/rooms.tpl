@@ -201,5 +201,33 @@
 		</div>
 	</div>
 
+	<div class="w3-container" style="margin: 64px 0;">
+		<div class="content">		
+			<div class="w3-row grid-wrap">
+				<div class="w3-col grid-col s12 w3-margin-bottom">
+					<h2>Experience comfort and charm on your North Devon holiday</h2>
+					<p>At Chough's Nest Hotel, each bedroom is a cozy sanctuary designed to provide comfort and relaxation during your stay in Lynton.
+					Our rooms are tastefully decorated with a blend of modern amenities and traditional charm, creating a welcoming atmosphere
+					for guests.
+					</p>
+					<p>Expect comfortable beds adorned with crisp linens and plush pillows, ensuring a restful night's sleep after a day of
+					exploring the beautiful surroundings of North Devon. Enjoy stunning views of Lynmouth Bay, Bristol Channel and beyond and 
+					immerse yourself in the natural beauty of the Exmoor National Park.
+					</p>
+					<p>Whether you're traveling solo, as a couple, or with family and friends, Chough's Nest Hotel offers a variety of room types
+					to suit your needs, including the Four-poster 'Nest', Superior double rooms, or Classic double rooms on the second floor.
+					</p>
+					<p>
+					Each room features en suite bathroom facilities with fluffy towels and complimentary toiletries. We also provide additional
+					amenities such as tea and coffee making facilities, free wi-fi, digital smart television and digital radio.
+					</p>					
+					<p>Experience true comfort and hospitality in our charming bedrooms, where every detail is thoughtfully curated to ensure a
+					memorable stay at Chough's Nest Hotel.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
 	<!-- Push down subscribe form --> 
 	<div style="margin-top:100px"></div>

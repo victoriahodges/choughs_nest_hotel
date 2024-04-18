@@ -18,7 +18,7 @@
 					<img src="[@URL]images/hotel_front.jpg" style="width:100%" onclick="onClick(this)" alt="Chough's Nest Hotel, Lynton, Devon">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
-					<img src="[@URL]images/four-poster-nest-bedroom.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom">
+					<img src="[@URL]images/four_poster_nest_bedroom.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/room_2.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom">
@@ -33,7 +33,7 @@
 					<img src="[@URL]images/breakfast_room.jpg" style="width:100%" onclick="onClick(this)" alt="Dining Room at Chough's Nest Hotel">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
-					<img src="[@URL]images/hotel_view.jpg" style="width:100%" onclick="onClick(this)" alt="View of Foreland Point from Chough's Nest">
+					<img src="[@URL]images/view_from_choughs_nest_hotel.jpg" style="width:100%" onclick="onClick(this)" alt="View of Foreland Point from Chough's Nest">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg" style="width:100%" onclick="onClick(this)" alt="Valley of Rocks at sunset">

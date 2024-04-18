@@ -12,7 +12,8 @@
 					</span>
 				</div>
 				<img class="chough-logo" src="[@URL]images/logo/chough_web_logo.png" alt="Chough's Nest Hotel chough logo" width="105"><br>
-				<img class="title-logo" src="[@URL]images/logo/logo_iris.png" alt="Chough's Nest Hotel hotel logo" width="450">
+				<img class="title-logo" src="[@URL]images/logo/logo_iris.svg" alt="Chough's Nest Hotel hotel logo" width="450" height="32">
+				<h1 class="w3-hide">Chough's Nest Hotel</h1>
 			</div>
 		</div>
 
@@ -20,8 +21,8 @@
 
 	<div id="feature" class="w3-row feature-card-row w3-margin-top champagne-bg">
 		<div class="w3-col s12 l6 introduction">
-			<p>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel situated
-			on the cliffs of the stunning North Devon coast.</p>
+			<p><strong>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel situated
+			on the cliffs of the stunning North Devon coast.</strong></p>
 			<p>Located on North Walk and the coastal path, but within easy reach of Lynton and Lynmouth, you can enjoy a restful 
 			stay in rooms  which feature some of the best sea views in Exmoor and Devon.</p>
 			<p>Rest assured, you'll be chuffed with Chough's Nest!</p>
@@ -35,7 +36,7 @@
 			[@URL]images/view_from_choughs_nest_hotel_360.jpg 360w,
 			[@URL]images/view_from_choughs_nest_hotel_800.jpg 768w
 			"
-			width="800" height="600" alt="Chough's Nest Hotel bedroom"
+			width="800" height="600" alt="Chough's Nest Hotel view overlooking Lynmouth Bay"
 			>
 		</div>
 	</div>
@@ -43,7 +44,7 @@
 	<div id="section_links" class="w3-row w3-center">
 		<div class="link">
 			<h4><a href="[@URL]rooms">Exmoor Breaks</a></h4>
-			<p>Get away from it all with our special break rates</p>
+			<p>Book a stay away from it all with our special break rates</p>
 		</div>
 		<div class="link">
 			<h4><a href="[@URL]dining">Dinner at Chough's</a></h4>
@@ -149,6 +150,30 @@
 			</div>
 			
 		</div>
+	</div>
+
+	<div class="w3-container" style="margin: 64px 0;">
+		<div class="content">		
+			<div class="w3-row grid-wrap">
+				<div class="w3-col grid-col s12 w3-margin-bottom">
+					<h2>A tranquil coastal hotel retreat in Devon</h2>
+					<p>Located in the picturesque village of Lynton in North Devon, Chough's Nest Hotel offers a charming and intimate escape
+					for travellers seeking relaxation and rejuvenation. Nestled amidst the stunning Exmoor National Park, this family-run hotel
+					boasts breathtaking views of the rugged coastline and rolling hills of Devon.
+
+					<p>The Chough's Nest Hotel features comfortable and tastefully decorated rooms, each designed to provide a peaceful retreat
+					after a day of exploring the nearby attractions of Lynton &amp; Lynmouth. Guests can unwind in the cozy lounge area or take in the fresh sea air from
+					the hotel's garden terrace while enjoying a refreshing drink.
+					</p>
+						
+					<p>With its warm hospitality and personalised service, Chough's Nest Hotel strives to make every guest feel right at home.
+					Whether you're embarking on a coastal adventure, hiking the scenic trails of Exmoor, or simply seeking a tranquil getaway,
+					this charming hotel offers the perfect base for your North Devon holiday.</p>
+					<p class="w3-center" style="margin-top: 32px;"><a class="button" [@qbook_href]>Book a Room online</a></p>
+				</div>
+			</div>
+		</div>
+
 	</div>
 
 	<div id="map_canvas" class="w3-row"></div>
