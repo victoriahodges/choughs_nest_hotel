@@ -61,7 +61,7 @@
 						<a href="https://www.firstbus.co.uk/sites/default/files/public/adventures-by-bus/exmoor%20coaster%20leaflet%20feb24%20web_0.pdf" target="_blank" class="button button-iris">Exmoor Coaster leaflet</a>
 					</p>
 					
-					<h3>Local taxis</h3>
+					<h3 id="local-taxis">Local taxis</h3>
 					<p>Lynton &amp; Lynmouth taxi services offer airport transfers, luggage transfers and pick-up/drop-off for walkers:</p>
 					<ul class="list">
 						<li><strong><a href="http://www.lynvalleytaxi.co.uk/" target="_blank">Lyn Valley Taxi</a></strong> - <a href="tel:+447907161666">07907 161 666</a></li>

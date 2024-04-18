@@ -16,8 +16,10 @@
 				<div class="w3-col grid-col s12 w3-margin-bottom">
 					<h2>Find a place to eat in Lynton &amp; Lynmouth</h2>
 					<p>We have compiled a list of local restaurants for evening meals in and around Lynton &amp; Lynmouth, 
-					which we hope will suit a range of tastes and budgets. Most are within walking distance
-					of the hotel and we can arrange for a local taxi to places further afield.</p>
+					which we hope will suit a range of tastes and budgets. Most of these restaurants and pubs are within walking distance
+					of the hotel.</p> 
+					<p>A <a href="[@URL]how-to-get-here#local-taxis">local taxi</a> can be arranged for places further afield or to avoid the return walk,
+					back up the steep hill from Lynmouth.</p>
 					<p><strong>It is highly recommended to book in advance to avoid disappointment.</strong></p>	
 				</div>
 			</div>
@@ -26,7 +28,7 @@
 					<h2>Lynton Restaurants</h2>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap ">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Old Bank</h3>
 								<p>Stylish, friendly and newly renovated, the Old Bank offers exceptional local food in an intimate setting.</p>
 								<div class="rest_contact">
@@ -38,14 +40,14 @@
 									</p>
 								</div>
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_the_old_bank.jpg" alt="The Old Bank">
 							</div>
 						</div>
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Crown Hotel</h3>
 								<p>A traditional public house in the heart of Old Town Lynton, serving good food and West Country ales and ciders.</p>
 								<div class="rest_contact">
@@ -58,14 +60,14 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_the_crown_hotel.jpg" alt="The Crown Hotel">
 							</div>
 						</div>
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>Number Ten</h3>
 								<p>Italian inspired restaurant in the heart of Lynton, serving delicious pasta dishes, pizzas, and authentic Italian flavours.</p>
 								<div class="rest_contact">
@@ -77,14 +79,14 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_number_ten_lynton.jpg" alt="Number Ten Lynton">
 							</div>
 						</div>
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Oak Room</h3>
 								<p>A rustic tapas restaurant offering a range of Spanish inspired dishes and good wines.</p>
 								<div class="rest_contact">
@@ -97,14 +99,14 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_the_oak_room.jpg" alt="The Oak Room Restaurant">
 							</div>
 						</div>								
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Vanilla Pod</h3>
 								<p>The menu here is a mix of Mediterranean, Middle Eastern and classic dishes set in a relaxed atmosphere.</p>
 								<div class="rest_contact">
@@ -116,14 +118,14 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_vanilla_pod.jpg" alt="The Vanilla Pod Restaurant">
 							</div>
 						</div>									
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>Nartnapa Thai Kitchen at The Cottage Inn</h3>
 								<p>Authentic Thai cuisine served in a 17th Century inn located on the banks of the River Lyn. </p>
 								<div class="rest_contact">
@@ -136,7 +138,7 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_nartnapa.jpg" alt="Nartnapa Thai Kitchen at The Cottage Inn">
 							</div>					
 						</div>
@@ -149,7 +151,7 @@
 					<h2>Lynmouth Restaurants</h2>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Rock House</h3>
 								<p>Harbour side restaurant with bar and garden serving traditional pub dishes with flair.</p>
 								<div class="rest_contact">
@@ -162,14 +164,14 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_rock_house.jpg" alt="The Rock House in Lynmouth">
 							</div>
 						</div>
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Rising Sun</h3>
 								<p>Located right on the harbour in Lynmouth, The Rising Sun offer locally caught seafood and seasonal produce.</p>
 								<div class="rest_contact">
@@ -182,14 +184,14 @@
 								</div>
 							
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_rising_sun.jpg" alt="The Rising Sun in Lynmouth">
 							</div>
 						</div>	
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Ancient Mariner</h3>
 								<p>Named after Coleridge's epic poem, the modern and stylish bar at the Bath Hotel now offers food all day.</p>
 								<div class="rest_contact">
@@ -202,8 +204,29 @@
 								</div>
 
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_ancient_mariner.jpg" alt="The Ancient MAriner">
+							</div>
+						</div>
+					</div>
+					<div class="w3-padding-large w3-margin-bottom champagne-bg">
+						<div class="w3-row grid-wrap">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
+								<h3>Lynmouth Bay View Restaurant at Bonicott</h3>
+								<p>Delicious, locally sourced ingredients and fresh produce cooked by head chef/owner Sarah, with stunning views across Lynmouth.<br>
+								<strong>Booking and pre-order essential</strong>, closed on Sundays.</p>
+								<div class="rest_contact">
+									<p>
+										<strong>Distance:</strong> 20 minutes walk<br>
+										<strong>Telephone:</strong> 01598 753 346<br>
+										<a href="https://www.bonnicott.com/lynmouth-restaurant" target="_blank">www.bonnicott.com/lynmouth-restaurant</a><br>
+										<strong>Location:</strong> 10 Watersmeet Road, Lynmouth, EX35 6EP
+									</p>
+								</div>
+
+							</div>
+							<div class="w3-col grid-col s12 m5 l4 xl3">
+								<img src="[@URL]images/local_restaurants/restaurant_lynmouth_bay_bonnicott.jpg" alt="Lynmouth Bay View Restaurant, Bonnicott House">
 							</div>
 						</div>
 					</div>
@@ -215,7 +238,7 @@
 					<h2>Restaurants further afield</h2>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Blue Ball, Countisbury</h3>
 								<p>A traditional coaching inn located at the top of of Countisbury Hill with great views. It features a seasonal menu with classic North Devon dishes.</p>
 								<div class="rest_contact">
@@ -228,14 +251,14 @@
 								</div>
 
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_blue_ball.jpg" alt="The Blue Ball, Countisbury">
 							</div>
 						</div>	
 					</div>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
-							<div class="w3-col grid-col s12 m6 l8 xl9">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Fox &amp; Goose, Parracombe</h3>
 								<p>Located in the heart of the village of Parracombe, this 'proper Exmoor inn' offers a classic pub menu with local ingredients.</p>
 								<div class="rest_contact">
@@ -248,7 +271,7 @@
 								</div>
 
 							</div>
-							<div class="w3-col grid-col s12 m6 l4 xl3">
+							<div class="w3-col grid-col s12 m5 l4 xl3">
 								<img src="[@URL]images/local_restaurants/restaurant_fox_goose.jpg" alt="The Fox and Goose, Parracombe">
 							</div>
 						</div>	
