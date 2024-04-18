@@ -21,8 +21,8 @@ include("template.class.php");
 
 //SET SERVER ROOT LOCATIONS
 function urlRoot(){      //returns root url
-	$url = "http://localhost/choughs-nest-hotel/"; //TEST SERVER
-	//$url = "https://choughsnesthotel.co.uk/test-site-2024/";
+	//$url = "http://localhost/choughs-nest-hotel/"; //TEST SERVER
+	$url = "https://choughsnesthotel.co.uk/";
 	return $url;
 	}
 function serverRoot(){   //returns root dir of host
@@ -47,19 +47,44 @@ $page_keywords = '';
 $hero_image = '';
 $preload_hotel_image = '';
 $hero_image_alt = '';
+$map_css = '';
 $map_script = '';
-$recaptcha_script = '';
+$social_meta_links = '';
 
-$map_block = <<<HTMLBLOCK
+$map_css_block = <<<HTMLBLOCK
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" type="text/css" as="style" onload="this.onload = null; this.rel = 'stylesheet'; "
-integrity="sha512-h9FcoyWjHcOcmEVkxOfTLnmZFWIH0iZhZT1H2TbOq55xssQGEJHEaIm+PgoUaZbRvQTNTluNOEfb1ZRy6D3BOw=="
-crossorigin="anonymous" referrerpolicy="no-referrer">
+	integrity="sha512-h9FcoyWjHcOcmEVkxOfTLnmZFWIH0iZhZT1H2TbOq55xssQGEJHEaIm+PgoUaZbRvQTNTluNOEfb1ZRy6D3BOw=="
+	crossorigin="anonymous" referrerpolicy="no-referrer">
+HTMLBLOCK;
 
+$map_script_block = <<<HTMLBLOCK
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" 
-integrity="sha512-puJW3E/qXDqYp9IfhAI54BJEaWIfloJ7JWs7OeD5i6ruC9JZL1gERT1wjtwXFlh7CjE7ZJ+/vcRZRkIYIb6p4g=="
-crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+	integrity="sha512-puJW3E/qXDqYp9IfhAI54BJEaWIfloJ7JWs7OeD5i6ruC9JZL1gERT1wjtwXFlh7CjE7ZJ+/vcRZRkIYIb6p4g=="
+	crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script src="{$url}js/map_script.js" defer></script>
+	<script>
+	var map = L.map('map_canvas').setView([51.232157, -3.837104], 13);
+	var contentString = '<div id="content_map" >'+
+		'<img class="logo" src="{$url}images/logo/logo_iris.png" style="width: 200px;" alt="Chough\'s Nest Hotel">'+
+		'<div id="bodyContent">'+
+		'<p>North Walk<br />' +
+		'Lynton<br />' +
+		'Devon<br />' +
+		'EX35 6HJ</p>' +
+		'</div>'+
+		'</div>';
+	var marker = L.icon({
+		iconUrl: '{$url}/images/icons/location.png',
+		iconSize:     [64, 64], // size of the icon
+		iconAnchor:   [32, 64], // point of the icon which will correspond to marker's location
+		popupAnchor:  [1, -64] // point from which the popup should open relative to the iconAnchor
+	});
+	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+	L.marker([51.232157, -3.837104],{icon: marker}).addTo(map)
+		.bindPopup(contentString);
+	</script>
 HTMLBLOCK;
 
 
@@ -78,32 +103,32 @@ HTMLBLOCK;
 //PAGES ARRAY
 	$pages = array(
 			array(	"pageURL" 		=> "",
-					"pagetitle"		=> "",
-					"pagedesc"		=> "Chough's Nest Hotel - BOOK DIRECT for your stay in Lynton &amp; Lynmouth. The hotel has stunning sea views in a prime location for exploring North Devon &amp; Exmoor. Family-run hotel offering dinner, bed and breakfast accommodation. Exmoor Break Special offers available.",
+					"pagetitle"		=> "Chough's Nest Hotel | Book your stay in Lynton &amp; Lynmouth",
+					"pagedesc"		=> "BOOK DIRECT: Lynton hotel with sea views in a prime location to explore North Devon &amp; Exmoor. Dinner and B&amp;B accommodation. Exmoor Break special offers.",
 					"keywords"		=> "hotel, bed and breakfast, dinner, accommodation, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
 					"nav"			=> "Hotel",
-					"hero_image"	=> ["hotel_front","Front of hotel, Chough's Nest Hotel in Lynton"]
+					"hero_image"	=> ["hotel_front","Chough's Nest Hotel in Lynton, Devon, Exmoor"]
 					)
   
 		  , array(	"pageURL" 		=> "rooms",
-					"pagetitle"		=> "Rooms - Four Poster, Superior or Classic Double Bedrooms",
-					"pagedesc"		=> "Rooms at Chough's Nest Hotel feature glorious views of the sea and Exmoor National Park. Four-poster suite, Superior bedrooms and Classic double bedrooms",
-					"keywords"		=> "room, accommodation, superior, double, four poster, facilities, hotel, sea views",
+					"pagetitle"		=> "Rooms",
+					"pagedesc"		=> "Book a room at Chough's Nest Hotel, with stunning sea views in Exmoor National Park. Choose from Four-poster suite, Superior, and Classic double rooms.",
+					"keywords"		=> "rooms, accommodation, superior, double, suite, four poster, facilities, hotel, sea views",
 					"nav"			=> "Rooms & Prices",
 					"hero_image"	=> ["four_poster_nest_bedroom","Four poster room at Chough's Nest Hotel in Lynton"]
 					)
 		
 		  , array(	"pageURL" 		=> "dining",
-					"pagetitle"		=> "Dinner at Chough's Nest",
-					"pagedesc"		=> "Dining at Chough's Nest Hotel",
-					"keywords"		=> "dinner, food, dining, menu, eating",
+					"pagetitle"		=> "Dining &amp; Lite Bites Dinner Menu",
+					"pagedesc"		=> "Dine at Chough's Nest Hotel. Evening meals served in our dining room with stunning views over Lynmouth Bay. View menus and book a table for dinner.",
+					"keywords"		=> "dinner, food, dining, menu, eating, evening meals",
 					"nav"			=> "Dinner at Chough's",
 					"hero_image"	=> ["lite_bites_dinners","Dinner at Chough's Nest Hotel in Lynton"]
 					)
 
 		  , array(	"pageURL" 		=> "breakfast-menu",
 					"pagetitle"		=> "Breakfast Menu",
-					"pagedesc"		=> "What's on offer for breakfast",
+					"pagedesc"		=> "See what's on offer for breakfast, served in our dining room with superb views of the Bristol Channel, during your stay at Chough's Nest Hotel.",
 					"keywords"		=> "breakfast, menu, eating",
 					"nav"			=> "",
 					"hero_image"	=> ["breakfast_room","Breakfast at Chough's Nest Hotel in Lynton"]
@@ -111,7 +136,7 @@ HTMLBLOCK;
 					
 		  , array(	"pageURL" 		=> "where-to-eat-in-Lynton-and-Lynmouth",	
 					"pagetitle"		=> "Eating Out - Local Restaurant Guide",
-					"pagedesc"		=> "A list of restaurants, cafes and bars in Lynton and Lynmouth, serving fresh food all year round.",
+					"pagedesc"		=> "A list of local restaurants for dining out in Lynton and Lynmouth, serving fresh food all year round.",
 					"keywords"		=> "restaurant, eating, dining, cafes, lynton, lynmouth",
 					"nav"			=> "Eating Out",
 					"hero_image"	=> ["eating_out","Places to have dinner in Lynton &amp; Lynmouth"]
@@ -119,7 +144,7 @@ HTMLBLOCK;
 
 		  , array(	"pageURL" 		=> "a-guide-to-Lynton-and-Lynmouth",
 					"pagetitle"		=> "A Guide to Lynton &amp; Lynmouth",
-					"pagedesc"		=> "The local area around Chough's Nest Hotel is called Little Switzerland.",
+					"pagedesc"		=> "Find out why Lynton &amp; Lynmouth and the local area around Chough's Nest Hotel is called Little Switzerland.",
 					"keywords"		=> "lynton and lynmouth, valley of rocks, poets, sir george newnes, lynton, lynmouth, north devon, exmoor national park",
 					"nav"			=> "Lynton &amp; Lynmouth",
 					"hero_image"	=> ["lynmouth_harbour","Lynmouth Harbour, Exmoor, Devon"]
@@ -135,7 +160,7 @@ HTMLBLOCK;
 
 		  , array(	"pageURL" 		=> "local-walks-around-Lynton-and-Lynmouth",
 					"pagetitle"		=> "Local Walks around Lynton &amp; Lynmouth",
-					"pagedesc"		=> "Lynton &amp; Lynmouth is a walker's paradise. There are many paths and trails to explore. Chough's Nest Hotel is located on the South West Coast Path.",
+					"pagedesc"		=> "Lynton &amp; Lynmouth is a walker's paradise, there are so many paths and trails to explore. Chough's Nest Hotel is located directly on the South West Coast Path.",
 					"keywords"		=> "walking, hiking, trails, paths, SWCP, lynton, lynmouth",
 					"nav"			=> "",
 					"hero_image"	=> ["walking_paths_and_trails","Footpath near Lyn river valley at Watersmeet, Lynmouth, Devon"]
@@ -143,30 +168,30 @@ HTMLBLOCK;
 
 		  , array(	"pageURL" 		=> "things-to-see-and-do",
 					"pagetitle"		=> "Things to see and do in North Devon &amp; Exmoor",
-					"pagedesc"		=> "Information on other attractions near Chough's Nest Hotel in North Devon and Exmoor National Park.",
-					"keywords"		=> "attractions, north devon, exmoor national park",
+					"pagedesc"		=> "Enjoy these visitor attractions and experiences in North Devon and Exmoor National Park during your stay at Chough's Nest Hotel.",
+					"keywords"		=> "attractions, visiting, north devon, exmoor national park",
 					"nav"			=> "",
 					"hero_image"	=> ["exmoor_ponies","Wild Exmoor ponies on the moor North Devon"]
 					)
 
 		  , array(	"pageURL" 		=> "choughs",	
 					"pagetitle"		=> "What are Chough's?",
-					"pagedesc"		=> "Information on other attractions near Chough's Nest Hotel in North Devon and Exmoor National Park.",
-					"keywords"		=> "attractions, cliff railway, valley of rocks, watersmeet, lynton, lynmouth, north devon, exmoor national park",
+					"pagedesc"		=> "Find out about the hotel's namesake and member of the crow family, the Cornish chough (Pyrrhocorax pyrrhocorax).",
+					"keywords"		=> "choughs, cornish, crow family, rare birds, conservation",
 					"nav"			=> "",
 					"hero_image"	=> ["red_billed_chough_pyrrhocorax_pyrrhocorax","Red-billed Chough"]
 					)
 
 		  , array(	"pageURL" 		=> "gallery",
 					"pagetitle"		=> "Photo Gallery",
-					"pagedesc"		=> "View images of the hotel rooms, views and surrounding area at Chough's Nest Hotel",
+					"pagedesc"		=> "View images of the hotel rooms, views, Lynton &amp; Lynmouth and surrounding area at Chough's Nest Hotel.",
 					"keywords"		=> "images, picutes, photo gallery, photo collection, album, sea views",
 					"nav"			=> "Gallery",
 					"hero_image"	=> ["view_from_choughs_nest_hotel","View of Foreland Point and Bristol Channel from Chough's Nest Hotel, Devon"]
 					)
 				
 		  , array(	"pageURL" 		=> "contact",
-					"pagetitle"		=> "Contact Us - How to Get Here",
+					"pagetitle"		=> "Contact Us",
 					"pagedesc"		=> "Contact details for Chough's Nest Hotel. View the hotel's location map and directions. How to get to Lynton &amp; Lynmouth and parking information",
 					"keywords"		=> "contact, message, address, location, directions, map, lynton, lynmouth, parking",
 					"nav"			=> "Contact",
@@ -175,7 +200,7 @@ HTMLBLOCK;
 
 		  , array(	"pageURL" 		=> "how-to-get-here",
 					"pagetitle"		=> "How To Get Here",
-					"pagedesc"		=> "Direction to Chough's Nest Hotel as well as information on parking an public transport options.",
+					"pagedesc"		=> "How to find Chough's Nest Hotel with directions and information on hotel parking. Public transport timetables and local taxi information.",
 					"keywords"		=> "parking, directions, location, map, how to get here, how to find us",
 					"nav"			=> "",
 					"hero_image"	=> ["hotel_front","Chough's Nest Hotel in Lynton"]
@@ -191,7 +216,7 @@ HTMLBLOCK;
 
 		  , array(	"pageURL" 		=> "terms-and-conditions",
 					"pagetitle"		=> "Booking Terms",
-					"pagedesc"		=> "Terms and Conditions with Access statement, cancellation and booking policy.",
+					"pagedesc"		=> "Terms and Conditions with Access statement, cancellation and booking policy, payment, parking and hotel information.",
 					"keywords"		=> "booking policy, terms, conditions, access statement, cancellation, pets, smoking, privacy policy, check-in, check-out",
 					"nav"			=> "",
 					"hero_image"	=> ["hotel_front","Chough's Nest Hotel in Lynton"]
@@ -200,7 +225,9 @@ HTMLBLOCK;
 		  , array(	"pageURL" 		=> "thanks",
 					"pagetitle"		=> "Thank You",
 					"keywords"		=> "",
-					"nav"			=> "")	
+					"nav"			=> "",
+					"hero_image"	=> ["view_from_choughs_nest_hotel","Chough's Nest Hotel in Lynton"]
+					)
 
 		  , array(	"pageURL" 		=> "error",
 					"pagetitle"		=> "Error",
@@ -234,11 +261,19 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 					foreach ($page as $key => $value) {
 						$content->set($key, $value);
 					}
-					$page_title = $page['pagetitle'].' - ';
+					$page_title = $page['pagetitle']." | Chough's Nest Hotel";
 					$page_desc  = $page['pagedesc'];
 					$page_keywords  = $page['keywords'];
 					$hero_image = $page['hero_image'][0];
 					$hero_image_alt = $page['hero_image'][1];
+					$social_meta_links = <<<HTMLBLOCK
+<meta property="og:title" content="{$page_title}Chough's Nest Hotel | Book Direct for your stay in Lynton &amp; Lynmouth">
+	<meta property="og:description" content="{$page_desc}">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{$url}{$page['pageURL']}">
+	<meta property="og:image" content="{$url}images/hero_images/{$hero_image}.jpg">
+	<meta property="og:site_name" content="Chough's Nest Hotel">
+HTMLBLOCK;
 			}
 		}		
 	}
@@ -251,20 +286,28 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 	}
 	
 	if ($_REQUEST['page'] == "contact" || $_REQUEST['page'] == "how-to-get-here") {
-		$map_script = $map_block;		
-	}
-	if ($_REQUEST['page'] == "contact") {
-		$recaptcha_script = "<script src='https://www.google.com/recaptcha/api.js' defer></script>";	
+		$map_css = $map_css_block;
+		$map_script = $map_script_block;		
 	}
 }
 else { // HOME page if no page requested
 	$content = new Template('pages/home.tpl');
 	$page_title  = $pages[0]["pagetitle"];
 	$page_desc  = $pages[0]["pagedesc"];
+	$page_keywords  = $pages[0]['keywords'];
 	$hero_image = $pages[0]["hero_image"][0];
 	$hero_image_alt = $pages[0]["hero_image"][1];
-	$preload_hotel_image = '<link rel="preload" fetchpriority="high" as="image" href="'.$url.'images/hero_images/hotel_front.jpg" type="image/jpeg">';
-	$map_script = $map_block; // map also on homepage
+	$preload_hotel_image = '<link rel="preload" fetchpriority="high" as="image" href="'.$url.'images/hero_images/hotel_front.webp" type="image/jpeg">';
+	$map_css = $map_css_block; // map also on homepage
+	$map_script = $map_script_block; // map also on homepage
+	$social_meta_links = <<<HTMLBLOCK
+<meta property="og:title" content="Chough's Nest Hotel | Book Direct for your stay in Lynton &amp; Lynmouth">
+	<meta property="og:description" content="{$page_desc}">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{$url}">
+	<meta property="og:image" content="{$url}images/hero_images/{$hero_image}.jpg">
+	<meta property="og:site_name" content="Chough's Nest Hotel">
+HTMLBLOCK;
 		
 }
 // Set TAG values
@@ -276,14 +319,7 @@ $hero_image_block =  <<<HTMLBLOCK
 <div id="hero" class="w3-row" style="position: relative;">
 	<div class="w3-col hero-wrap">
 		<img 
-			class="lazyload"
-			src="{$url}images/hero_images/{$hero_image}_360.jpg"
-			data-srcset="
-				{$url}images/hero_images/{$hero_image}_360.jpg 300w,
-				{$url}images/hero_images/{$hero_image}_800.jpg 768w,
-				{$url}images/hero_images/{$hero_image}_1080.jpg 1080w,
-				{$url}images/hero_images/{$hero_image}.jpg 1366w
-			"
+			src="{$url}images/hero_images/{$hero_image}.webp"
 			fetchpriority="high"
 			style="width:100%; height: 100%;"
 			height="756" width="1560" alt="{$hero_image_alt}"
@@ -325,9 +361,9 @@ $tags = array (
 		"preload_image"		=>  $preload_hotel_image,
 		"booking_bar"		=>	$booking_bar,
 		"qbook_href"		=>	$qbook_href,
-
+		"map_css"		=>	$map_css,
 		"map_script"		=>	$map_script,
-		"recaptcha_script"		=>	$recaptcha_script
+		"social_meta_links"	=>	$social_meta_links
 );
 
 //Loop through tags in page content templates
