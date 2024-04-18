@@ -320,7 +320,7 @@ img {max-width: 100%; height: unset!important;}
 }
 
 .mobile-title-logo {margin-right: 72px}
-.mobile-title-logo img {width: 100%; max-width: 450px; margin: 10px 0 8px;}
+.mobile-title-logo img {width: 100%; max-width: 450px; height: 32px!important; margin: 10px 0 8px;}
 .chough-logo {width: 105px; margin: 4px;}
 .title-logo {width: 450px; margin: 4px 0; margin-bottom: 24px;}
 @media (min-width:769px) {
