@@ -30,7 +30,7 @@
 						<div class="w3-row grid-wrap ">
 							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Old Bank</h3>
-								<p>Stylish, friendly and newly renovated, the Old Bank offers exceptional local food in an intimate setting.</p>
+								<p>Stylish with friendly and attentive service, the Old Bank offers exceptional local food in an intimate setting.</p>
 								<div class="rest_contact">
 									<p>
 										<strong>Distance:</strong> 6 minutes walk<br>
@@ -107,6 +107,26 @@
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
 							<div class="w3-col grid-col s12 m7 l8 xl9">
+								<h3>The Greenhouse</h3>
+								<p>The evening menu offers hand-stretched pizza, West Country burgers and classic fish and chips, as well as cocktails and local beers.</p>
+								<div class="rest_contact">
+									<p>
+										<strong>Distance:</strong> 7 minutes walk<br>
+										<strong>Telephone:</strong> 01598 751 646<br>
+										<a href="https://www.greenhouselynton.co.uk/" target="_blank">www.greenhouselynton.co.uk</a><br>
+										<strong>Location:</strong> Lee Road, Lynton, EX35 6HW
+									</p>
+								</div>
+							
+							</div>
+							<div class="w3-col grid-col s12 m5 l4 xl3">
+								<img src="[@URL]images/local_restaurants/restaurant_the_greenhouse.jpg" alt="The Greenhouse Restaurant">
+							</div>
+						</div>								
+					</div>
+					<div class="w3-padding-large w3-margin-bottom champagne-bg">
+						<div class="w3-row grid-wrap">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Vanilla Pod</h3>
 								<p>The menu here is a mix of Mediterranean, Middle Eastern and classic dishes set in a relaxed atmosphere.</p>
 								<div class="rest_contact">
@@ -126,8 +146,27 @@
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
 						<div class="w3-row grid-wrap">
 							<div class="w3-col grid-col s12 m7 l8 xl9">
+								<h3>Charlie Fridays</h3>
+								<p>Quirky daytime caf&eacute; in Queen St, open for dinner on Thursday evenings for their popular Mexican Nights.</p>
+								<div class="rest_contact">
+									<p><strong>Distance:</strong> 7 minutes walk<br>
+									<strong>Telephone:</strong> 01598 752 032<br>
+									<a href="https://www.charliefridayscoffeeshop.co.uk/" target="_blank">www.charliefridayscoffeeshop.co.uk</a><br>
+									<strong>Location:</strong> 17, Queen Street, Lynton, EX35 6AA
+								</p>
+								</div>
+							
+							</div>
+							<div class="w3-col grid-col s12 m5 l4 xl3">
+								<img src="[@URL]images/local_restaurants/restaurant_charlie_fridays.jpg" alt="Charlie Fridays Cafe in Lynton">
+							</div>
+						</div>									
+					</div>
+					<div class="w3-padding-large w3-margin-bottom champagne-bg">
+						<div class="w3-row grid-wrap">
+							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>Nartnapa Thai Kitchen at The Cottage Inn</h3>
-								<p>Authentic Thai cuisine served in a 17th Century inn located on the banks of the River Lyn. </p>
+								<p>Authentic Thai cuisine served in a 17th Century inn located on the banks of the River Lyn.</p>
 								<div class="rest_contact">
 									<p>
 										<strong>Distance:</strong> 20 minutes walk<br>
@@ -193,7 +232,7 @@
 						<div class="w3-row grid-wrap">
 							<div class="w3-col grid-col s12 m7 l8 xl9">
 								<h3>The Ancient Mariner</h3>
-								<p>Named after Coleridge's epic poem, the modern and stylish bar at the Bath Hotel now offers food all day.</p>
+								<p>Named after Coleridge's epic poem, the modern and stylish bar at the Bath Hotel serves food all day.</p>
 								<div class="rest_contact">
 									<p>
 										<strong>Distance:</strong> 15 minutes walk<br>
