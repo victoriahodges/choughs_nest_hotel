@@ -1,3 +1,11 @@
+<script type="text/javascript">
+	var onloadCallback = function() {
+	  grecaptcha.render('recaptcha', {
+		'sitekey' : '6LeDJx4UAAAAAFXkd4_yYtr2ES9dQxneYS88UurL'
+	  });
+	};
+</script>
+
 	<!-- Hero image -->
 	[@hero_image]	
 	<!-- Main content-->
@@ -16,12 +24,8 @@
 				<div class="w3-col grid-col s12 m6 w3-margin-bottom">
 					<h2>Send a direct message</h2>
 					<div class="w3-padding-large w3-margin-bottom champagne-bg">
-						<form name="form" class="contact-form" id="enquiries" action="[@URL]cgi-bin/cnhcontactform.pl" onsubmit="return enq_validate(this)" method="post">
-							<input type="hidden" name="subject" value="Website Enquiry">
-							<input type="hidden" name="recipient" value="enquiries@choughsnesthotel.co.uk">
+						<form name="form" class="contact-form" id="enquiries" action="[@URL]enquiry.php" method="post">
 							<input type="hidden" name="redirect" value="[@URL]thanks">
-							<input type="hidden" name="required" value="realname, email, g-recaptcha-response">
-							<input type="hidden" name="env_report" value="REMOTE_HOST,HTTP_USER_AGENT">
 							<p>Please send us a message with your requirements and we will contact you shortly. 
 							<span class="small">(* required fields)</span></p>
 							
@@ -44,10 +48,10 @@
 								<input type="text" name="email" id="email" required>
 							</label>
 							<label>Phone
-								<input type="text" name="PHONE" id="phone">
+								<input type="text" name="phone" id="phone">
 							</label>		
 							<label class="marketing">How did you hear about us?
-								<select name="MARKETING" id="marketing">
+								<select name="marketing" id="marketing">
 								<option selected="selected">Please select...</option>
 								<option>Search Engine</option>
 								<option>Email newsletter</option>
@@ -60,15 +64,17 @@
 								</select>
 							</label>
 							<label>Your message
-								<textarea class="message" name="MESSAGE" id="message"></textarea>
+								<textarea class="message" name="message" id="message"></textarea>
 							</label>	
 							<label style="width: 100%; float: right; padding: 0; margin-bottom: 20px;" class="small">
-								<input type="checkbox" name="SUBSCRIBE"  value="Yes" id="subscribe_check">
+								<input type="checkbox" name="subscribe_check"  value="Yes" id="subscribe_check">
 								<strong>Subscribe:</strong> If you would like to receive emails from Chough's Nest Hotel 
 								about future news and special offers, please tick this box.
 							</label>
+
+							<div id="recaptcha_error_msg" class="w3-padding w3-center small" style="color: red;"></div>
 							
-							<div class="g-recaptcha" style="height: 90px; width:304px; margin: 0 auto; clear:both;" 
+							<div id="recaptcha" class="g-recaptcha" style="height: 90px; width:304px; margin: 0 auto; clear:both;" 
 							data-sitekey="6LeDJx4UAAAAAFXkd4_yYtr2ES9dQxneYS88UurL"></div>					
 							
 							<div class="w3-center">
@@ -90,7 +96,7 @@
 					</p>
 
 					<h3>Telephone</h3>
-					<p><a href="tel:+441598753315">01597 753 315</a></p>
+					<p><a href="tel:+441598753315">01598 753 315</a></p>
 					
 					<h3>Email</h3>
 					<p style="margin-bottom: 32px;"><span id="obf2"><script>document.getElementById("obf2").innerHTML="<n uers=\"znvygb:erynk@pubhtufarfgubgry.pb.hx?fhowrpg=Jrofvgr radhvel\">erynk@pubhtufarfgubgry.pb.hx</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
@@ -112,4 +118,7 @@
 		</div>
 	</div>
 
+	<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+        async defer>
+    </script>
 	<div id="map_canvas" class="w3-row" style="height: 550px;"></div>
