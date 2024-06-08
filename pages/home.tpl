@@ -157,17 +157,17 @@
 			<div class="w3-row grid-wrap">
 				<div class="w3-col grid-col s12 w3-margin-bottom">
 					<h2>A tranquil coastal hotel retreat in Devon</h2>
-					<p>Located in the picturesque village of Lynton in North Devon, Chough's Nest Hotel offers a charming and intimate escape
-					for travellers seeking relaxation and rejuvenation. Nestled amidst the stunning Exmoor National Park, this family-run hotel
-					boasts breathtaking views of the rugged coastline and rolling hills of Devon.
+					<p>Located in the picturesque village of <a href="[@URL]a-guide-to-Lynton-and-Lynmouth">Lynton in North Devon</a>, Chough's Nest Hotel offers a charming and 
+					intimate place to stay - an idyllic North Devon escape for travellers seeking relaxation and rejuvenation. Nestled amidst the stunning Exmoor National Park,
+					this family-run hotel boasts breathtaking sea views of the rugged coastline and a chance to explore the rolling hills of Devon.
 
-					<p>The Chough's Nest Hotel features comfortable and tastefully decorated rooms, each designed to provide a peaceful retreat
-					after a day of exploring the nearby attractions of Lynton &amp; Lynmouth. Guests can unwind in the cozy lounge area or take in the fresh sea air from
-					the hotel's garden terrace while enjoying a refreshing drink.
+					<p>The Chough's Nest Hotel features <a href="[@URL]rooms">comfortable and tastefully decorated rooms</a>, each designed to provide a peaceful retreat
+					after a day of exploring the <a href="[@URL]local-attractions-in-Lynton-and-Lynmouth">nearby attractions of Lynton &amp; Lynmouth</a>. Guests can unwind
+					in the cozy lounge area or take in the fresh sea air from the hotel's garden terrace while enjoying a refreshing drink.
 					</p>
 						
 					<p>With its warm hospitality and personalised service, Chough's Nest Hotel strives to make every guest feel right at home.
-					Whether you're embarking on a coastal adventure, hiking the scenic trails of Exmoor, or simply seeking a tranquil getaway,
+					Whether you're embarking on a coastal adventure, <a href="[@URL]local-walks-around-Lynton-and-Lynmouth">hiking the scenic trails of Exmoor</a>, or simply seeking a tranquil getaway,
 					this charming hotel offers the perfect base for your North Devon holiday.</p>
 					<p class="w3-center" style="margin-top: 32px;"><a class="button" [@qbook_href]>Book a Room online</a></p>
 				</div>

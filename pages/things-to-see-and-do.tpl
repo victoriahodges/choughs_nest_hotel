@@ -346,7 +346,7 @@
 								longest Camelia hedge and Magnolia Wood. Wander by the river to the Ugley Bridge then climb to the Castle for magnificent
 								views of Exmoor, Dartmoor and beyond.</p>
 								<div class="rest_contact">
-									<p><strong>Location:</strong> Filleigh, near South Molton<br>
+									<p><strong>Location:</strong> Filleigh, near South Molton, Devon, EX32 0RQ<br>
 									<a href="https://castlehilldevon.co.uk/gardens-castle-hill-devon/" target="_blank">castlehilldevon.co.uk/gardens-castle-hill-devon</a></p>
 								</div>
 							</div>

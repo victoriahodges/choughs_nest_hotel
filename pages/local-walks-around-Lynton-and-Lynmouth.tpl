@@ -21,7 +21,7 @@
 			<div class="w3-col grid-col s12">
 				<h2>Walks around Lynton &amp; Lynmouth</h2>
 				<p>Known as the <strong>Walking Capital of Exmoor</strong>, there are miles of footpaths and trails criss-crossing every part of Lynton &amp; Lynmouth's
-				deep river valleys, moorlands and stunning coastline. From riverside walks to hill-top vistas, there are walks for all levels of fitness and ability.</p>
+				deep river valleys, moorlands and stunning coastline. From riverside walks to hill-top vistas, there are hikes and walks for all levels of fitness and ability.</p>
 				<p>Here, we have listed some of the most popular walks in Lynton &amp; Lynmouth with downloadable leaflets and maps. 
 				You can also find more walks around North Devon and Exmoor National Park such as the Heddon Valley, Tarr Steps or Baggy Point.
 				</p>

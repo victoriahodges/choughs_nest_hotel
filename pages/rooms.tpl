@@ -28,7 +28,7 @@
 					<a href="[@URL]breakfast-menu" class="button w3-margin-bottom">View Breakfast menu</a>
 				</div>
 				<div class="w3-col grid-col l6 xl5">
-					<h2>Hotel facilities</h2>
+					<h2>Hotel room facilities</h2>
 					<p>The the following facilities are available to our guests:</p>
 					<ul class="list">
 						<li>Free private car parking</li>
@@ -36,8 +36,10 @@
 						<li>Digital Freeview smart television</li>
 						<li>DAB digital radio and clock</li>
 						<li>Tea and coffee facilities</li>
+						<li>Complimentary toiletries</li>
+						<li>Daily house-keeping</li>
 						<li>Iron and ironing board </li>
-						<li>Local walking maps, guide books and information</li>
+						<li>Local walking maps, guide leaflets and information</li>
 						<li>Drying facilities for walkers/cyclists</li>
 					</ul>
 
@@ -53,7 +55,8 @@
 					<hr class="short">
 					<p>Starting from 4 nights, we offer a great discount for longer stays on all of our rooms.<br>
 					<span class="small">Subject to availability, terms and conditions apply.</span></p>
-					<a class="button w3-margin-top" [@qbook_href]>
+					<a class="button w3-margin-top" onclick="show_availability()">
+					<!-- <a class="button w3-margin-top" [@qbook_href]> -->
 						Check availability
 					</a>
 					
@@ -63,6 +66,10 @@
 					<div class="corner bottom-left-corner iris-bg"></div>
 				</div>
 			</div>
+		</div>
+
+		<div id="availability_widget" class="w3-row champagne-bg special-offer" style="display: none;">
+			<iframe id="QBOOKWIDGET_CAL" src="https://secure.hotels.uk.com/incs/calendar/calendar.php?HotelID=4541&token=8a0ad0e705958f86f4eb666f4736a64e" frameborder="0" name="calendar" scrolling="auto" width="100%" height="610"></iframe>
 		</div>
 
 		<div id="section_links_icons" class="w3-row">
@@ -211,18 +218,22 @@
 					for guests.
 					</p>
 					<p>Expect comfortable beds adorned with crisp linens and plush pillows, ensuring a restful night's sleep after a day of
-					exploring the beautiful surroundings of North Devon. Enjoy stunning views of Lynmouth Bay, Bristol Channel and beyond and 
+					<a href="[@URL]things-to-see-and-do">exploring the beautiful surroundings of North Devon</a>. Enjoy stunning views of Lynmouth Bay, Bristol Channel and beyond and 
 					immerse yourself in the natural beauty of the Exmoor National Park.
 					</p>
-					<p>Whether you're traveling solo, as a couple, or with family and friends, Chough's Nest Hotel offers a variety of room types
-					to suit your needs, including the Four-poster 'Nest', Superior double rooms, or Classic double rooms on the second floor.
+					<p>Whether you're travelling solo, as a couple, or as a group with family and friends, <a href="[@URL]local-walks-around-Lynton-and-Lynmouth">walking 
+					the coastal path</a> or looking for a romantic break, Chough's Nest Hotel offers a variety of room types to suit your needs, including the 
+					Four-poster 'Nest', Superior double rooms, or Classic double rooms on the second floor.
 					</p>
 					<p>
-					Each room features en suite bathroom facilities with fluffy towels and complimentary toiletries. We also provide additional
+					Each room features an en suite bathroom, complete with fluffy towels and complimentary toiletries. We also provide additional
 					amenities such as tea and coffee making facilities, free wi-fi, digital smart television and digital radio.
-					</p>					
+					</p>
+					<p>In the morning, a hearty <a href="[@URL]breakfast-menu">Full English Breakfast menu</a> is served in our dining
+					room with views overlooking the bay, and is included in the price of each room.</p>	
 					<p>Experience true comfort and hospitality in our charming bedrooms, where every detail is thoughtfully curated to ensure a
 					memorable stay at Chough's Nest Hotel.</p>
+					<p class="w3-center" style="margin-top: 32px;"><a class="button" [@qbook_href]>Book a Room online</a></p>
 				</div>
 			</div>
 		</div>

@@ -179,7 +179,7 @@
 							<p>Learn about how they raise their Red Ruby Devon cattle and Exmoor horn sheep, see Exmoor ponies and 
 							even the chance to spot some deer on the surrounding hills.
 							</p>
-							<p><strong>Booking in advance is essential.</strong></p>
+							<p><strong>Booking in advance is essential.</strong> Tel: 01598 752 310</p>
 							<div class="rest_contact">
 								<p><strong>Distance:</strong> 10 minute drive<br>
 								<a href="https://westilkerton.co.uk/farm-tours" target="_blank">westilkerton.co.uk/farm-tours</a></p>

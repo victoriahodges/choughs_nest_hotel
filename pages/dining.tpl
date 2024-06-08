@@ -19,7 +19,7 @@
 					<p>Enjoy your dinner in the inviting ambiance of our restaurant, where friendly service and a relaxed atmosphere await you.</p>			
 					<p>The dining room at Chough's Nest Hotel boasts full views of Lynmouth Bay and the Bristol Channel beyond.
 					The room is tastefully decorated using William Morris designs to complement the Victorian history of the hotel building.</p>
-					<p>We serve our 'Lite Bites' evening meals, Fridays - Tuesday at 7pm.,<br>
+					<p>We serve our 'Lite Bites' evening meals, Friday - Tuesday at 7pm.<br>
 					<strong>Booking is essential - please reserve a table when reserving your room.</strong></p>
 
 					<p>Our menu features locally sourced ingredients and seasonal flavours, with vegetarian options available.</p>

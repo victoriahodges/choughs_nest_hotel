@@ -1,6 +1,16 @@
 <!doctype html>
 <html lang="en-GB">
 <head>
+<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-K6ZFS80EHE"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-K6ZFS80EHE', { 'cookie_flags': 'SameSite=None; Secure' });
+	</script>
+
 <!-- Basic Page Needs -->
 	<meta charset="utf-8">
 
@@ -11,6 +21,12 @@
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 
 	[@social_meta_links]
+
+<!-- FONT -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400..700;1,400..700&display=swap"
+type="text/css" as="style" onload="this.onload = null; this.rel = 'stylesheet'; ">
 	
 <!-- Pre-load -->
 	[@preload_image]
@@ -46,26 +62,10 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
-	
-<!-- FONT -->
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400..700;1,400..700&display=swap"
-	type="text/css" as="style" onload="this.onload = null; this.rel = 'stylesheet'; ">
 
+	<script src="[@URL]js/lazysizes.min.js" async=""></script>
 </head>
 <body class="floral-white-bg  w3-content" style="max-width:100%">
-	<script src="[@URL]js/lazysizes.min.js" async=""></script>
-
-<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-K6ZFS80EHE"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'G-K6ZFS80EHE');
-	</script>
 
 <!-- Sidebar/menu -->
 	<nav class="w3-sidebar w3-bar-block w3-collapse w3-top w3-center dark-iris-bg floral-white-text" 
@@ -321,6 +321,10 @@
 			var bf = document.getElementById("bookingform");
 			bf.getAttributeNode("action").value = url;
 		};
+
+		function show_availability() {
+			$('#availability_widget').toggle('blind', 500);
+		}
 	</script>
 	<script>
 		$("#enquiries").submit(function(event) {
@@ -331,6 +335,9 @@
 			}
 		});
 	</script>
+
+	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b53379aab6e62596dd6ff0b69/d4648928d59faf8ac94b2cec2.js");</script>
+
 
 	[@map_script]
 </body>

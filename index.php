@@ -111,7 +111,7 @@ HTMLBLOCK;
 					)
   
 		  , array(	"pageURL" 		=> "rooms",
-					"pagetitle"		=> "Rooms",
+					"pagetitle"		=> "Rooms with Sea Views",
 					"pagedesc"		=> "Book a room at Chough's Nest Hotel, with stunning sea views in Exmoor National Park. Choose from Four-poster suite, Superior, and Classic double rooms.",
 					"keywords"		=> "rooms, accommodation, superior, double, suite, four poster, facilities, hotel, sea views",
 					"nav"			=> "Rooms & Prices",
@@ -131,7 +131,7 @@ HTMLBLOCK;
 					"pagedesc"		=> "See what's on offer for breakfast, served in our dining room with superb views of the Bristol Channel, during your stay at Chough's Nest Hotel.",
 					"keywords"		=> "breakfast, menu, eating",
 					"nav"			=> "",
-					"hero_image"	=> ["breakfast_room","Breakfast at Chough's Nest Hotel in Lynton"]
+					"hero_image"	=> ["breakfast_room_morning","Breakfast at Chough's Nest Hotel in Lynton"]
 					)
 					
 		  , array(	"pageURL" 		=> "where-to-eat-in-Lynton-and-Lynmouth",	
@@ -175,7 +175,7 @@ HTMLBLOCK;
 					)
 
 		  , array(	"pageURL" 		=> "choughs",	
-					"pagetitle"		=> "What are Chough's?",
+					"pagetitle"		=> "What are choughs?",
 					"pagedesc"		=> "Find out about the hotel's namesake and member of the crow family, the Cornish chough (Pyrrhocorax pyrrhocorax).",
 					"keywords"		=> "choughs, cornish, crow family, rare birds, conservation",
 					"nav"			=> "",
@@ -267,7 +267,7 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 					$hero_image = $page['hero_image'][0];
 					$hero_image_alt = $page['hero_image'][1];
 					$social_meta_links = <<<HTMLBLOCK
-<meta property="og:title" content="{$page_title}Chough's Nest Hotel | Book Direct for your stay in Lynton &amp; Lynmouth">
+<meta property="og:title" content="{$page_title} | Book Direct for your stay in Lynton &amp; Lynmouth">
 	<meta property="og:description" content="{$page_desc}">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="{$url}{$page['pageURL']}">
@@ -287,7 +287,7 @@ HTMLBLOCK;
 	
 	if ($_REQUEST['page'] == "contact" || $_REQUEST['page'] == "how-to-get-here") {
 		$map_css = $map_css_block;
-		$map_script = $map_script_block;		
+		$map_script = $map_script_block;	
 	}
 }
 else { // HOME page if no page requested

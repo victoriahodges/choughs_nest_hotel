@@ -84,11 +84,17 @@
 					<p>Chough's Nest Hotel is located directly on the South West Coast Path (SWCP) route.</p>
 					<h3>Porlock to Lynton</h3>
 					<p>If you are walking the SWCP from Porlock, then you have two ways to get to us from Lynmouth.</p>
-					<p>On foot, you can take the steep uphill zig-zag path from Lynmouth which comes out onto North Walk. Follow the road to the right,
-					crossing the last cliff-railway bridge, and continue for another 200 yards to the hotel.</p>
-					<p>If you are taking the Lynton &amp; Lynmouth funicular railway, then you need to walk from the station. Follow the wide path to the
-					left towards town, then turn left on Lee Road towards St. Mary's parish church. North Walk leads downhill from the church on the left, follow the road straight at the foot of North Walk Hill,
-					crossing the last cliff-railway bridge, and continue for another 200 yards to the hotel.</p>
+					<ul class="list">
+						<li>
+							<p>On foot, you can take the steep uphill zig-zag path from Lynmouth which comes out onto North Walk. Follow the road to the right,
+								crossing the last cliff-railway bridge, and continue for another 200 yards to the hotel.</p>
+						</li>
+						<li>
+							<p>If you are taking the Lynton &amp; Lynmouth funicular railway, then you need to walk from the station. Follow the wide path to the
+								left towards town, then turn left on Lee Road towards St. Mary's parish church. North Walk leads downhill from the church on the left, follow the road straight at the foot of North Walk Hill,
+								crossing the last cliff-railway bridge, and continue for another 200 yards to the hotel.</p>
+						</li>
+					</ul>
 					<h3>Combe Martin to Lynton</h3>
 					<p>Arriving in the Valley of Rocks, take the path from the roundabout in the middle of the valley and follow the cliff-top coast path
 					for about &frac34;-mile. Pass through the 'goat gate' onto North Walk and continue for another 300 yards. You will see Chough's Nest
