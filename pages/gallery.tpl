@@ -24,13 +24,46 @@
 					<img src="[@URL]images/room_2.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_2_lynmouth_bay_sea_view.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom with bay window and view">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_2_wide.jpg" style="width:100%" onclick="onClick(this)" alt="Four Poster Nest Bedroom">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/room_1.jpg" style="width:100%" onclick="onClick(this)" alt="Superior King-size Double Bedroom">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_3.jpg" style="width:100%" onclick="onClick(this)" alt="Superior King-size Double Bedroom">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_7.jpg" style="width:100%" onclick="onClick(this)" alt="Superior King-size Double Bedroom on second floor">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/room_8.jpg" style="width:100%" onclick="onClick(this)" alt="Classic Double Bedroom on second floor">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_8_bedroom.jpg" style="width:100%" onclick="onClick(this)" alt="Classic Double Bedroom on second floor">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_9.jpg" style="width:100%" onclick="onClick(this)" alt="Superior King-size Double Bedroom on second floor">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_9_view.jpg" style="width:100%" onclick="onClick(this)" alt="Superior King-size Double Bedroom on second floor">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/room_9_chairs.jpg" style="width:100%" onclick="onClick(this)" alt="Superior King-size Double Bedroom on second floor">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/breakfast_room.jpg" style="width:100%" onclick="onClick(this)" alt="Dining Room at Chough's Nest Hotel">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/breakfast_room_morning.jpg" style="width:100%" onclick="onClick(this)" alt="Breakfast at Chough's Nest Hotel">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/breakfast_room_cakes_and_fruit.jpg" style="width:100%" onclick="onClick(this)" alt="Breakfast at Chough's Nest Hotel">
+				</div>
+				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
+					<img src="[@URL]images/breakfast_room_muffins.jpg" style="width:100%" onclick="onClick(this)" alt="Breakfast at Chough's Nest Hotel">
 				</div>
 				<div class="w3-col grid-col narrow-gutter s6 l4 xl3 w3-margin-bottom">
 					<img src="[@URL]images/view_from_choughs_nest_hotel.jpg" style="width:100%" onclick="onClick(this)" alt="View of Foreland Point from Chough's Nest">
