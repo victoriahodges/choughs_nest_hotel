@@ -32,9 +32,10 @@
 			</div>
 		</div>
 
+		<div id="scroll_to_menu"></div>
 		<div id="attraction_menu" class="w3-bar dark-iris-bg floral-white-text">
-			<button id="tab_1" class="w3-bar-item w3-button active" onclick="openTab('Attractions', 'tab_1')">Attractions &amp; Activities</button>
-			<button id="tab_2" class="w3-bar-item w3-button" onclick="openTab('Houses', 'tab_2')">Historic Sites &amp; Houses</button>
+			<button id="tab_1" class="w3-bar-item w3-button active" onclick="openTab('Attractions', 'tab_1')">Attractions<span class="w3-hide-small"> &amp; Activities</span></button>
+			<button id="tab_2" class="w3-bar-item w3-button" onclick="openTab('Houses', 'tab_2')">Historic Sites<span class="w3-hide-small"> &amp; Houses</span></button>
 			<button id="tab_3" class="w3-bar-item w3-button" onclick="openTab('Gardens', 'tab_3')">Gardens</button>
 			<button id="tab_4" class="w3-bar-item w3-button" onclick="openTab('Beaches', 'tab_4')">Beaches</button>
 		</div>
@@ -62,7 +63,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/west_somerset_railway_530.jpg" height="397" width="530" alt="The West Somerset Railway">
+								<img class="rest_img box" src="[@URL]images/attractions/west_somerset_railway_530.jpg" height="397" width="530" alt="The West Somerset Railway" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -84,7 +85,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/visit_dartington_crystal_factory_530.jpg" height="397" width="530" alt="Visit Dartington Crystal factory">
+								<img class="rest_img box" src="[@URL]images/attractions/visit_dartington_crystal_factory_530.jpg" height="397" width="530" alt="Visit Dartington Crystal factory" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -106,7 +107,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor-safaris-red-stag_530.jpg" height="397" width="530" alt="Exmoor Red Stag Safaris">
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor-safaris-red-stag_530.jpg" height="397" width="530" alt="Exmoor Red Stag Safaris" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -128,7 +129,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/hele_corn_mill_530.jpg" height="397" width="530" alt="Hele corn mill in North Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/hele_corn_mill_530.jpg" height="397" width="530" alt="Hele corn mill in North Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -149,7 +150,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor_zoo_530.jpg" height="397" width="530" alt="Exmoor Zoo home of the exmoor beast">
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor_zoo_530.jpg" height="397" width="530" alt="Exmoor Zoo home of the exmoor beast" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -168,7 +169,25 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/exmoor_adventures_530.jpg" height="397" width="530" alt="Exmoor Adventures and bicycle hire">
+								<img class="rest_img box" src="[@URL]images/attractions/exmoor_adventures_530.jpg" height="397" width="530" alt="Exmoor Adventures and bicycle hire" loading="lazy">
+							</div>
+						</div>
+					</div>
+
+					<div class="w3-padding-large w3-margin-bottom champagne-bg">
+						<div class="w3-row grid-wrap ">
+							<div class="w3-col grid-col s12 m6 l7">
+								<h3>Ilfracombe Princess Coastal &amp; Wildlife Cruises</h3>
+								<p>Based in Ilfracombe harbour the Ilfracombe Princess cruises the North Devon and Exmoor coasts to see seals, porpoises and dolphins!</p>
+								<p>Enjoy one of the most dramatic landscapes in England aboard our safe comfortable vessel the 'Ilfracombe Princess'.</p>
+								<p>Visit their website for the full list cruises available with times and prices.</p>
+								<div class="rest_contact">
+									<p><strong>Location:</strong> The Quay, Ilfracombe, EX34 9EQ<br>
+									<a href="https://ilfracombeprincess.co.uk/" target="_blank">ilfracombeprincess.co.uk</a></p>
+								</div>
+							</div>
+							<div class="w3-col grid-col s12 m6 l5">
+								<img class="rest_img box" src="[@URL]images/attractions/ilfracombe_princess_wildlife_cruises_530.jpg" height="397" width="530" alt="Exmoor Adventures and bicycle hire" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -199,7 +218,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/dunster-castle-somerset_530.jpg" height="397" width="530" alt="Dunster Castle and Watermill National Trust Exmoor">
+								<img class="rest_img box" src="[@URL]images/attractions/dunster-castle-somerset_530.jpg" height="397" width="530" alt="Dunster Castle and Watermill National Trust Exmoor" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -218,7 +237,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/south-front-arlington-court-devon_530.jpg" height="397" width="530" alt="Arlington Court and National Trust Carriage Collection Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/south-front-arlington-court-devon_530.jpg" height="397" width="530" alt="Arlington Court and National Trust Carriage Collection Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -238,7 +257,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/clovelly_north_devon_530.jpg" height="397" width="530" alt="Clovelly Harbour, North Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/clovelly_north_devon_530.jpg" height="397" width="530" alt="Clovelly Harbour, North Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -258,7 +277,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/knightshayes_devon_530.jpg" height="397" width="530" alt="Knightshayes National Trust Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/knightshayes_devon_530.jpg" height="397" width="530" alt="Knightshayes National Trust Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -279,7 +298,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/lundy_island_530.jpg" height="397" width="530" alt="Lundy Island and the MS Oldenburg">
+								<img class="rest_img box" src="[@URL]images/attractions/lundy_island_530.jpg" height="397" width="530" alt="Lundy Island and the MS Oldenburg" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -311,7 +330,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/rhs_rosemoor_devon_530.jpg" height="397" width="530" alt="RHS Rosemoor Gardens Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/rhs_rosemoor_devon_530.jpg" height="397" width="530" alt="RHS Rosemoor Gardens Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -332,7 +351,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/marwood_hill_gardens_devon_530.jpg" height="397" width="530" alt="Marwood Hill Gardens North Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/marwood_hill_gardens_devon_530.jpg" height="397" width="530" alt="Marwood Hill Gardens North Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -351,7 +370,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/castle_hill_gardens_devon_530.jpg" height="397" width="530" alt="Castle Hill Gardens North Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/castle_hill_gardens_devon_530.jpg" height="397" width="530" alt="Castle Hill Gardens North Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -369,7 +388,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/hartland_abbey_gardens_north_devon_530.jpg" height="397" width="530" alt="Hartland Abbey and Gardens North Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/hartland_abbey_gardens_north_devon_530.jpg" height="397" width="530" alt="Hartland Abbey and Gardens North Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -406,7 +425,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/lynmouth_beach_530.jpg" height="397" width="530" alt="Eastern Beach in Lynmouth">
+								<img class="rest_img box" src="[@URL]images/attractions/lynmouth_beach_530.jpg" height="397" width="530" alt="Eastern Beach in Lynmouth" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -427,7 +446,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/lee_abbey_beach_530.jpg" height="397" width="530" alt="Lee Bay Beach near Valley of Rocks Lynton">
+								<img class="rest_img box" src="[@URL]images/attractions/lee_abbey_beach_530.jpg" height="397" width="530" alt="Lee Bay Beach near Valley of Rocks Lynton" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -448,7 +467,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/woolacombe_beach_north_devon_gold_coast_530.jpg" height="397" width="530" alt="Woolacombe Beach North Devon">
+								<img class="rest_img box" src="[@URL]images/attractions/woolacombe_beach_north_devon_gold_coast_530.jpg" height="397" width="530" alt="Woolacombe Beach North Devon" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -468,7 +487,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/putsborough_woolacombe_beach_530.jpg" height="397" width="530" alt="Putsborough Sands Woolacombe Beach">
+								<img class="rest_img box" src="[@URL]images/attractions/putsborough_woolacombe_beach_530.jpg" height="397" width="530" alt="Putsborough Sands Woolacombe Beach" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -488,7 +507,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/croyde_bay_530.jpg" height="397" width="530" alt="Croyde Bay North Devon Gold coast">
+								<img class="rest_img box" src="[@URL]images/attractions/croyde_bay_530.jpg" height="397" width="530" alt="Croyde Bay North Devon Gold coast" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -509,7 +528,7 @@
 								</div>
 							</div>
 							<div class="w3-col grid-col s12 m6 l5">
-								<img class="rest_img box" src="[@URL]images/attractions/saunton_sands_braunton_burrows_530.jpg" height="397" width="530" alt="Saunton Sands Beach and Braunton Burrows">
+								<img class="rest_img box" src="[@URL]images/attractions/saunton_sands_braunton_burrows_530.jpg" height="397" width="530" alt="Saunton Sands Beach and Braunton Burrows" loading="lazy">
 							</div>
 						</div>
 					</div>
@@ -532,6 +551,7 @@
 					y[i].classList.remove('active');
 				}
 				document.getElementById(tabNum).classList.add('active');
+				document.getElementById("scroll_to_menu").scrollIntoView();
 			}
 		</script>
 
@@ -542,7 +562,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway_530.jpg" height="397" width="530" alt="Lynton &amp; Lynmouth Cliff Railway">
+						<img src="[@URL]images/attractions/lynton_and_lynmouth_cliff_railway_530.jpg" height="397" width="530" alt="Lynton &amp; Lynmouth Cliff Railway" loading="lazy">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Lynton &amp; Lynmouth Attractions</h3>
@@ -554,7 +574,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/attractions/walking_boots_530.jpg" height="397" width="530" alt="Walks in Exmoor and North Devon">
+						<img src="[@URL]images/attractions/walking_boots_530.jpg" height="397" width="530" alt="Walks in Exmoor and North Devon" loading="lazy">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Local Walks &amp; Trails</h3>
@@ -566,7 +586,7 @@
 			<div class="w3-col grid-col narrow-gutter s12 l4 w3-margin-bottom card">
 				<div class="w3-row w3-card-4 dark-iris-bg floral-white-text card-inner">
 					<div class="w3-col s12 m6 l12 link-image">
-						<img src="[@URL]images/lynton_and_lynmouth_530.jpg" height="397" width="530" alt="Lynton and Lynmouth from Countisbury">
+						<img src="[@URL]images/lynton_and_lynmouth_530.jpg" height="397" width="530" alt="Lynton and Lynmouth from Countisbury" loading="lazy">
 					</div>
 					<div class="w3-col s12 m6 l12 w3-padding-large link-text">
 						<h3>Find out about Lynton &amp; Lynmouth</h3>

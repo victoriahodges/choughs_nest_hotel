@@ -55,7 +55,7 @@
 					<hr class="short">
 					<p>Starting from 4 nights, we offer a great discount for longer stays on all of our rooms.<br>
 					<span class="small">Subject to availability, terms and conditions apply.</span></p>
-					<a class="button w3-margin-top" onclick="show_availability()">
+					<a id="show_availability_btn" class="button w3-margin-top">
 					<!-- <a class="button w3-margin-top" [@qbook_href]> -->
 						Check availability
 					</a>
@@ -69,12 +69,20 @@
 		</div>
 
 		<div id="availability_widget" class="w3-row champagne-bg special-offer" style="display: none;">
+			<div class="w3-center w3-padding w3-padding-24">
+				<h3 class="w3-padding">Check availability</h3>
+				<p><strong>Click a date on the calendar below.</strong></p>
+				<p>If our booking system shows <strong>"no availability found"</strong> but the dates below are highlighted green, we may have rooms with staggered availability.<br>
+				If you are happy to change to a new room part way through your stay, then call us on <strong><a href="tel:+441598753315">01598 753 315</a></strong> to see if
+				we can fit you in.
+				</p>
+			</div>
 			<iframe id="QBOOKWIDGET_CAL" src="https://secure.hotels.uk.com/incs/calendar/calendar.php?HotelID=4541&token=8a0ad0e705958f86f4eb666f4736a64e" frameborder="0" name="calendar" scrolling="auto" width="100%" height="610"></iframe>
 		</div>
 
 		<div id="section_links_icons" class="w3-row">
 			<div class="link half-width">
-				<img class="link-image" src="[@URL]images/icons/desk-bell.png" alt="Check-in at Chough's Nest Hotel">
+				<img class="link-image" src="[@URL]images/icons/desk-bell.png" alt="Check-in at Chough's Nest Hotel" loading="lazy">
 				<div class="link-text">
 					<h4>Check-in</h4>
 					<p><strong>Guests can check-in from 2:00pm.</strong><br>
@@ -82,7 +90,7 @@
 				</div>
 			</div>
 			<div class="link half-width">
-				<img class="link-image" src="[@URL]images/icons/room-key.png" alt="Check-out at Chough's Nest Hotel">
+				<img class="link-image" src="[@URL]images/icons/room-key.png" alt="Check-out at Chough's Nest Hotel" loading="lazy">
 				<div class="link-text">
 					<h4>Check-out</h4>
 					<p><strong>Check-out is by 10:30am. </strong><br>
@@ -93,9 +101,9 @@
 	</div>
 
 	<div id="view-hotel-rooms" class="alternating-cards">
-		<div class="w3-row fancy-card-row champagne-bg">
+		<div class="w3-row fancy-card-row champagne-bg" itemprop="containsPlace" itemscope itemtype="https://schema.org/HotelRoom">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img 
+				<img itemprop="image" 
 				class="lazyload"
 				src="[@URL]images/room_2_360.jpg"
 				data-src="[@URL]images/room_2.jpg"
@@ -104,16 +112,19 @@
 				[@URL]images/room_2_800.jpg 768w,
 				[@URL]images/room_2.jpg 1080w
 				"
-				width="1500" height="1125" alt="Four poster Nest bedroom"
+				width="1500" height="1125" alt="Four poster Nest bedroom at Choughs Nest in Lynton"
+				loading="lazy"
 				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
-					<h2>Four Poster Nest</h2>
+					<h2><span itemprop="name">Four Poster Nest</span></h2>
 					<hr class="short">
-					<h3>From &pound;130 per night</h3>
-					<p>The 'Nest' is our premier bedroom. A very spacious king-size four-poster room which boasts 
-					panoramic views of Lynmouth Bay. It has an en suite bathroom with bath and shower.</p>
+					<h3>From &pound;<span itemprop="price">130</span> per night</h3>
+					<meta itemprop="priceCurrency" content="GBP" />
+					
+					<p><span itemprop="description">The 'Nest' is our premier bedroom. A very spacious king-size four-poster room which boasts 
+					panoramic views of Lynmouth Bay. It has an en suite bathroom with bath and shower.</span></p>
 					<a class="button w3-margin-top" [@qbook_href]>
 						Book now
 					</a>
@@ -126,9 +137,9 @@
 			</div>
 		</div>
 
-		<div class="w3-row fancy-card-row champagne-bg">
+		<div class="w3-row fancy-card-row champagne-bg" itemprop="containsPlace" itemscope itemtype="https://schema.org/HotelRoom">
 			<div class="w3-col s12 m12 l6 fancy-card-image" >
-				<img 
+				<img itemprop="image" 
 				class="lazyload"
 				src="[@URL]images/room_1_360.jpg"
 				data-src="[@URL]images/room_1.jpg"
@@ -137,16 +148,19 @@
 				[@URL]images/room_1_800.jpg 768w,
 				[@URL]images/room_1.jpg 1080w
 				"
-				width="1500" height="1125" alt="Superior hotel bedroom"
+				width="1500" height="1125" alt="Superior hotel bedroom at Choughs Nest in Lynton"
+				loading="lazy"
 				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
-					<h2>Superior Double</h2>
+					<h2><span itemprop="name">Superior Double</span></h2>
 					<hr class="short">
-					<h3>From &pound;120 per night</h3>
-					<p>Our large superior rooms feature a comfy king-size bed, 
-					glorious sea views and en suite facilities with bath and shower.</p>
+					<h3>From &pound;<span itemprop="price">120</span> per night</h3>
+					<meta itemprop="priceCurrency" content="GBP" />
+
+					<p><span itemprop="description">Our large superior rooms feature a comfy king-size bed, 
+					glorious sea views and en suite facilities with bath and shower.</span></p>
 					<a class="button w3-margin-top" [@qbook_href]>
 						Book now
 					</a>
@@ -159,9 +173,9 @@
 			</div>
 		</div>
 
-		<div class="w3-row fancy-card-row champagne-bg">
+		<div class="w3-row fancy-card-row champagne-bg" itemprop="containsPlace" itemscope itemtype="https://schema.org/HotelRoom">
 			<div class="w3-col s12 m12 l6 fancy-card-image">
-				<img 
+				<img itemprop="image"
 				class="lazyload"
 				src="[@URL]images/room_8_360.jpg"
 				data-src="[@URL]images/room_8.jpg"
@@ -170,16 +184,19 @@
 				[@URL]images/room_8_800.jpg 768w,
 				[@URL]images/room_8.jpg 1080w
 				"
-				width="1500" height="1125" alt="Classic hotel double bedroom"
+				width="1500" height="1125" alt="Classic hotel double bedroom at Choughs Nest in Lynton"
+				loading="lazy"
 				>				
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
 				<div class="fancy-card-border">
-					<h2>Classic Double</h2>
+					<h2><span itemprop="name">Classic Double</span></h2>
 					<hr class="short">
-					<h3>From &pound;98 per night</h3>
-					<p>Located on the second floor, our classic double bedrooms offer excellent value 
-					for a short stay. These rooms have sea views and en suite facilities with  both bath and shower.</p>
+					<h3>From &pound;<span itemprop="price">98</span> per night</h3>
+					<meta itemprop="priceCurrency" content="GBP" />
+
+					<p><span itemprop="description">Located on the second floor, our classic double bedrooms offer excellent value 
+					for a short stay. These rooms have sea views and en suite facilities with  both bath and shower.</span></p>
 					<a class="button w3-margin-top" [@qbook_href]>
 						Book now
 					</a>

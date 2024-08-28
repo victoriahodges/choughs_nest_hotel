@@ -3,8 +3,8 @@
 	$pages = array(
 			array(	"pageURL" 		=> "",
 					"pagetitle"		=> "Chough's Nest Hotel | Book your stay in Lynton &amp; Lynmouth",
-					"pagedesc"		=> "BOOK DIRECT: Lynton hotel with sea views in a prime location to explore North Devon &amp; Exmoor. Dinner and B&amp;B accommodation. Exmoor Break special offers.",
-					"keywords"		=> "hotel, bed and breakfast, dinner, accommodation, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
+					"pagedesc"		=> "Lynton hotel with sea views in North Devon &amp; Exmoor close to cliff railway and Valley of Rocks. Dinner, Bed and Breakfast accommodation with special offers.",
+					"keywords"		=> "hotel, bed and breakfast, dinner, accommodation, Valley of Rocks, cliff railway, coast path, north devon, exmoor, national park, lynton, lynmouth, book direct, best prices",
 					"nav"			=> "Hotel",
 					"hero_image"	=> ["hotel_front","Chough's Nest Hotel in Lynton, Devon, Exmoor"]
 					)
@@ -35,15 +35,15 @@
 					
 		  , array(	"pageURL" 		=> "where-to-eat-in-Lynton-and-Lynmouth",	
 					"pagetitle"		=> "Eating Out in Lynton &amp; Lynmouth - Local Restaurant Guide",
-					"pagedesc"		=> "A list of local restaurants for dining out in Lynton and Lynmouth, serving fresh food all year round.",
-					"keywords"		=> "restaurant, eating, dining, cafes, lynton, lynmouth",
+					"pagedesc"		=> "A list of local restaurants, pubs and cafes for dining out in Lynton and Lynmouth, serving fresh food all year round.",
+					"keywords"		=> "restaurant, eating, dining, pub, cafes, lynton, lynmouth",
 					"nav"			=> "Eating Out",
 					"hero_image"	=> ["eating_out","Places to have dinner in Lynton &amp; Lynmouth"]
 					)
 
 		  , array(	"pageURL" 		=> "a-guide-to-Lynton-and-Lynmouth",
 					"pagetitle"		=> "A Guide to Lynton &amp; Lynmouth",
-					"pagedesc"		=> "Find out why Lynton &amp; Lynmouth and the local area around Chough's Nest Hotel is called Little Switzerland.",
+					"pagedesc"		=> "Find out why Lynton &amp; Lynmouth and the local area around Chough's Nest Hotel in Devon and Exmoor is called Little Switzerland.",
 					"keywords"		=> "lynton and lynmouth, valley of rocks, poets, sir george newnes, lynton, lynmouth, north devon, exmoor national park",
 					"nav"			=> "Lynton &amp; Lynmouth",
 					"hero_image"	=> ["lynmouth_harbour","Lynmouth Harbour, Exmoor, Devon"]
@@ -75,15 +75,15 @@
 
 		  , array(	"pageURL" 		=> "choughs",	
 					"pagetitle"		=> "What are choughs?",
-					"pagedesc"		=> "Find out about the hotel's namesake and member of the crow family, the Cornish chough (Pyrrhocorax pyrrhocorax).",
-					"keywords"		=> "choughs, cornish, crow family, rare birds, conservation",
+					"pagedesc"		=> "Find out about the Chough's Nest Hotel's namesake and member of the crow family, the Cornish chough (Pyrrhocorax pyrrhocorax).",
+					"keywords"		=> "choughs, cornish, crow family, rare birds, conservation, pyrrhocorax",
 					"nav"			=> "",
 					"hero_image"	=> ["red_billed_chough_pyrrhocorax_pyrrhocorax","Red-billed Chough"]
 					)
 
 		  , array(	"pageURL" 		=> "gallery",
 					"pagetitle"		=> "Photo Gallery",
-					"pagedesc"		=> "View images of the hotel rooms, views, Lynton &amp; Lynmouth and surrounding area at Chough's Nest Hotel.",
+					"pagedesc"		=> "View images of the hotel rooms, views, Lynton &amp; Lynmouth, Exmoor, and local attractions and surrounding area at Chough's Nest Hotel.",
 					"keywords"		=> "images, pictures, photo gallery, photo collection, album, sea views",
 					"nav"			=> "Gallery",
 					"hero_image"	=> ["lynmouth_harbour_dry","Lynmouth Harbour near Chough's Nest Hotel, Devon"]
@@ -130,6 +130,7 @@
 					
 		  , array(	"pageURL" 		=> "thanks",
 					"pagetitle"		=> "Thank You",
+					"pagedesc"		=> "Thank you for sending a message to Chough's Nest Hotel in Lynton, we will contact you soon.",
 					"keywords"		=> "",
 					"nav"			=> "",
 					"hero_image"	=> ["view_from_choughs_nest_hotel","Chough's Nest Hotel in Lynton"]
@@ -137,6 +138,7 @@
 
 		  , array(	"pageURL" 		=> "error",
 					"pagetitle"		=> "Error",
+					"pagedesc"		=> "404 error: The page you were looking for cannot be found. It may have been moved or deleted.",
 					"keywords"		=> "",
 					"nav"			=> "",
 					"hero_image"	=> ["lynmouth_telescope","Chough's Nest Hotel in Devon, Exmoor"]

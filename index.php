@@ -27,7 +27,7 @@ $current_page = $_SERVER['REQUEST_URI'];
 $requested_page = (isset($_REQUEST['page'])) ? $_REQUEST['page'] : 'hotel' ; //specify name of homepage in nav
 
 $query = $_SERVER['QUERY_STRING'];
-$url = urlRoot();
+$url = urlRoot($local);
 
 $page_title = '';
 $page_desc = '';
@@ -43,21 +43,24 @@ $gallery_css = '';
 $gallery_script = '';
 $social_meta_links = '';
 
+if($debug){
+	echo <<<HTMLBLOCK
+		<div style="margin-left: 300px; padding-left: 20px; background: #ccc;">
+			<p>DEBUGGING</p>
+			<p>
+			URL = $url</br>
+			Request page URL = $requested_page<br />
+			Query string = $query<br />
+			Current page = $current_page
+			</p>
+		</div>
+	HTMLBLOCK;
+}
 
-// echo <<<HTMLBLOCK
-// 	<div style="width: 100%; background: #ccc;">
-// 		<p>DEBUGGING</p>
-// 		<p>
-// 		URL = $url</br>
-// 		Request page URL = $requested_page<br />
-// 		Query string = $query<br />
-// 		Current page = $current_page
-// 		</p>
-// 	</div>
-// HTMLBLOCK;
 /************************************************************/	
 include("js_script_blocks.php");
 include("page_data.php");
+
 // NAVIGATION
 	foreach ($pages as $page) {
 		/*if current page or sub-page and nav not blank, add selected to menu item class*/		
@@ -98,14 +101,14 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] != "" && $_REQUEST['page'] != 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{$page_title} | Book Direct for your stay in Lynton &amp; Lynmouth">
 	<meta name="twitter:description" content="{$page_desc}">
-	<meta name="twitter:image" content="{$url}images/hero_images/{$hero_image}.webp" />
+	<meta name="twitter:image" content="{$url}images/hero_images/{$hero_image}.webp">
 HTMLBLOCK;
 			}
 		}		
 	}
 	else { // ERROR pages 
 		$content = new Template('pages/error.tpl');
-			$content->set("requested", $_REQUEST['page']);
+			$content->set("requested", '"'.$_REQUEST['page'].'"');
 			$page_title = "Error: ".$_REQUEST['page']." - ";
 			$hero_image = 'lynmouth_telescope';
 			$hero_image_alt = "Chough's Nest Hotel, Lynton &amp; Lynmouth, Devon, Exmoor National Park";
@@ -141,7 +144,7 @@ else { // HOME page if no page requested
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Chough's Nest Hotel | Book Direct for your stay in Lynton &amp; Lynmouth">
 	<meta name="twitter:description" content="{$page_desc}">
-	<meta name="twitter:image" content="{$url}images/hero_images/{$hero_image}.webp" />
+	<meta name="twitter:image" content="{$url}images/hero_images/{$hero_image}.webp">
 HTMLBLOCK;
 		
 }
@@ -157,7 +160,8 @@ $qbook_href ='href="https://web-bookings.hotels.uk.com/#/booking/4541/items/avai
 
 $tags = array (
 	
-		"URL"				=> 	urlRoot(),
+		"URL"				=> 	$url,
+		"CSS_VERSION"		=>	cssVersion($local),
 		"year"				=>	date('Y'),
 		"booking_date"		=>  'from='.$from_date.'&to='.$to_date,
 		"title"				=>	$page_title,

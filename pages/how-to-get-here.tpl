@@ -20,7 +20,7 @@
 					<p><strong>Postcode:</strong> EX35 6HJ</p>
 					<p><strong>What3words:</strong> <a href="https://what3words.com/round.shifters.resting" target="_blank">///round.shifters.resting</a></p>
 
-					<p><a class="button " href="[@URL]pages/map_directions.pdf" target="_blank">Print map &amp; directions</a></p>
+					<p><a class="button " href="[@URL]map_directions.pdf" target="_blank">Print map &amp; directions</a></p>
 					<p><a class="button button-iris" href="https://www.google.com/maps/dir/?api=1&destination=51.232199,-3.8371" target="_blank">Google maps directions</a></p>
 				</div>
 				<div id="parking" class="w3-col grid-col s12 m6 w3-margin-bottom">
