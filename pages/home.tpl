@@ -12,7 +12,7 @@
 					</span>
 				</div>
 				<img class="chough-logo" src="[@URL]images/logo/chough_web_logo.png" alt="Chough's Nest Hotel chough logo" width="105"><br>
-				<img class="title-logo" src="[@URL]images/logo/logo_iris.svg" alt="Chough's Nest Hotel hotel logo" width="450" height="32">
+				<img class="title-logo" src="[@URL]images/logo/logo_iris.svg" alt="Chough's Nest Hotel hotel logo" width="450" height="32" loading="lazy">
 				<h1 class="w3-hide">Chough's Nest Hotel</h1>
 			</div>
 		</div>
@@ -21,7 +21,7 @@
 
 	<div id="feature" class="w3-row feature-card-row w3-margin-top champagne-bg">
 		<div class="w3-col s12 l6 introduction">
-			<p><strong>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel situated
+			<p><strong>Chough's Nest Hotel in Exmoor National Park, is a charming family-run hotel in Lynton, situated
 			on the cliffs of the stunning North Devon coast.</strong></p>
 			<p>Located on North Walk and the coastal path, but within easy reach of Lynton and Lynmouth, you can enjoy a restful 
 			stay in rooms  which feature some of the best sea views in Exmoor and Devon.</p>
@@ -37,6 +37,7 @@
 			[@URL]images/view_from_choughs_nest_hotel_800.jpg 768w
 			"
 			width="800" height="600" alt="Chough's Nest Hotel view overlooking Lynmouth Bay"
+			loading="lazy"
 			>
 		</div>
 	</div>
@@ -56,6 +57,49 @@
 		</div>
 	</div>
 
+	<div class="w3-container w3-center" style="margin: 64px 0;">
+		<div id="reviews" class="content">
+			<h2>What our guests say about us</h2>
+			<div class="review-snippet-top"></div>
+			<div id="slideshow">
+				<div class="review-snippet">
+					<h3>Stunning</h3>
+					<p><em>As soon as we walked in we felt as if the worries of the world has been left behind. It felt comfortable and was so clean and welcoming.
+						The views are spectacular and waking up to the view of the bay just can't be put into words. Kate and Helen are brilliant. The service from
+						Kate front of house and the stunning breakfast from Helen is second to none. Nice touch to be able to take out a slice of cake, scone or fruit.
+						Thank you for a great weekend. A return visit is on the cards.</em></p>
+					<p class="review-stars gold-text">★★★★★</p>
+
+				</div>
+				<div class="review-snippet">
+					<h3>A hidden gem</h3>
+					<p><em>A beautiful house with heaps of period charm and spectacular views across the bay. 
+						Peaceful and comfortable in the manner of a more genteel era, perfectly completed by the warm welcome 
+						and attention to detail of our hosts Kate and Helen... for our group of 10 guests it was unanimous that we shall return, a faultless stay.</em></p>
+					<p class="review-stars gold-text">★★★★★</p>
+
+				</div>
+				<div class="review-snippet">
+					<h3>A welcome break for my wife's birthday in a very caring hotel.</h3>
+					<p><em>From the time we arrived we were made very welcome. Our room was excellent with first class facilities and a glorious view. Breakfast and the 
+						light evening meals were delicious and the offer of cakes and fruit to take away (even a bag was supplied) was a first for us and much appreciated. 
+						Being able to walk straight onto the Valley of the Rocks was an added bonus.</em></p>
+					<p class="review-stars gold-text">★★★★★</p>
+				</div>
+				<div class="review-snippet">
+					<h3>An excellent stay</h3>
+					<p><em>A lovely few days recapturing memories of our honeymoon at The Chough's Nest in October 1976. We had a very comfortable, spacious room with sea view
+						and we couldn't have been looked after any better by Kate and Helen who served an excellent breakfast... 
+						and home made light evening meals. The homemade cakes put out at breakfast which were free to take away were much appreciated, especially the Rock Cakes. Thanks for a lovely stay.</em></p>
+					<p class="review-stars gold-text">★★★★★</p>
+				</div>
+			</div>
+			<a class="button w3-margin-top" href="[@URL]reviews">Read more reviews</a>
+			<div class="review-snippet-bottom"></div>
+
+		</div>
+	</div>
+
 	
 	<div class="alternating-cards">
 		<div class="w3-row fancy-card-row champagne-bg">
@@ -70,6 +114,7 @@
 				[@URL]images/four_poster_nest_bedroom.jpg 1080w
 				"
 				width="1500" height="1125" alt="Chough's Nest Hotel bedroom"
+				loading="lazy"
 				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
@@ -101,6 +146,7 @@
 				[@URL]images/breakfast_room.jpg 1080w
 				"
 				width="1500" height="1125" alt="Hotel Bed and Breakfast"
+				loading="lazy"
 				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
@@ -132,6 +178,7 @@
 				[@URL]images/valley_of_rocks_sunset_from_hollerday_hill.jpg 1080w
 				"
 				width="1500" height="1125" alt="Valley of Rocks in Lynton and Lynmouth"
+				loading="lazy"
 				>
 			</div>
 			<div class="w3-col s12 m12 l6 w3-center fancy-card">
@@ -161,14 +208,14 @@
 					intimate place to stay - an idyllic North Devon escape for travellers seeking relaxation and rejuvenation. Nestled amidst the stunning Exmoor National Park,
 					this family-run hotel boasts breathtaking sea views of the rugged coastline and a chance to explore the rolling hills of Devon.
 
-					<p>The Chough's Nest Hotel features <a href="[@URL]rooms">comfortable and tastefully decorated rooms</a>, each designed to provide a peaceful retreat
-					after a day of exploring the <a href="[@URL]local-attractions-in-Lynton-and-Lynmouth">nearby attractions of Lynton &amp; Lynmouth</a>. Guests can unwind
-					in the cozy lounge area or take in the fresh sea air from the hotel's garden terrace while enjoying a refreshing drink.
-					</p>
+					<p>The Chough's Nest Hotel is found directly on the South West Coast Path, close to the famous Lynton &amp; Lynmouth Cliff Railway and near the Valley of Rocks. The hotel features
+					<a href="[@URL]rooms">comfortable and tastefully decorated rooms</a>, each with amazing sea views and designed to provide a peaceful retreat after a day
+					of exploring the <a href="[@URL]local-attractions-in-Lynton-and-Lynmouth">nearby attractions of Lynton &amp; Lynmouth</a>. Guests can unwind in the cozy 
+					lounge area or take in the fresh sea air from the hotel's garden terrace while enjoying a refreshing drink.</p>
 						
 					<p>With its warm hospitality and personalised service, Chough's Nest Hotel strives to make every guest feel right at home.
-					Whether you're embarking on a coastal adventure, <a href="[@URL]local-walks-around-Lynton-and-Lynmouth">hiking the scenic trails of Exmoor</a>, or simply seeking a tranquil getaway,
-					this charming hotel offers the perfect base for your North Devon holiday.</p>
+					Whether you're embarking on a coastal adventure, <a href="[@URL]local-walks-around-Lynton-and-Lynmouth">hiking the scenic trails of Exmoor</a>, or simply seeking a 
+					tranquil getaway in Lynton,	this charming hotel offers the perfect base for your North Devon holiday.</p>
 					<p class="w3-center" style="margin-top: 32px;"><a class="button" [@qbook_href]>Book a Room online</a></p>
 				</div>
 			</div>
